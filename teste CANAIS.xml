@@ -277,7 +277,8 @@ http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/678.ts
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 #EXTM3U#EXTINF:-1,==========Portugal==========
-http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/7243.ts
+plugin://plugin.video.f4mTester/?
+streamtype=TSDOWNLOADER@amp;url=http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/7243.ts
 
 
 
@@ -360,7 +361,7 @@ http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/680.ts
 http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/679.ts
 #EXTINF:-1,PT: SBS Reality
 http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/671.ts
-#EXTINF:-1,PT: Caça e Pesca
+#EXTINF:-1,PT: CaÃ§a e Pesca
 http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/684.ts
 
 #EXTINF:-1,PT: Fox HD
