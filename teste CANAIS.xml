@@ -284,7 +284,7 @@ streamtype=TSDOWNLOADER@amp;url=http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaa
 
 
 #EXTINF:-1,PT: BTV 2
-http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/662.ts
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/662.ts
 
 
 
