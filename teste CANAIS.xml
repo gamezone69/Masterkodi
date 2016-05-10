@@ -1,0 +1,416 @@
+<streamingInfos>
+
+<item>
+<title>testlink</title>
+<link>plugin://plugin.video.f4mTester/?
+streamtype=TSDOWNLOADER@amp;url=http://gold.sarimedia.tv:8000/live/colmar/colmar/1.ts</link>
+
+
+
+
+
+<item>
+<title>Sport Tv 5</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http%3A%2F%2Fftvnext.stmteam.org%3A8000%2Flive%2Fdelia%2Fdelia%2F1089.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>TVI24</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/665.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>TVI Reality</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/664.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>TV record</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/735.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>TVI Ficcao</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/621.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>TV Globo</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/669.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>TV GLOBO PREMIUM</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/706.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>TV CINE 1</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/701.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>TV CINE 2</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/700.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>TV CINE 3</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/699.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>TV CINE 4</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/698.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>Sport TV 1</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/1120.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>Sport TV 1</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/1120.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>Sport TV 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/7252.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>Sport TV 1</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/676.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+
+<item>
+<title>Sport TV 2</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/1119.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+
+<item>
+<title>Sport TV 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/7253.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>Sport TV 2</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/675.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>Sport TV 3</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/1118.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>Sport TV 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/7254.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>Sport TV 3</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/674.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>Sport TV 4</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/1117.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+
+<item>
+<title>Sport TV 4</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/673.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>Sport TV 5</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/1116.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>Sport TV 5</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/672.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>EUROSPORT HD</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/681.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>EUROSPORT HD</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/681.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>EUROSPORT 1</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/629.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>EUROSPORT 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/682.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>EUROSPORT 2</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/628.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>BENFICA TV 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/728.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>BENFICA TV 1</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/727.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>BENFICA TV 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/633.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>BENFICA TV 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/677.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>BENFICA TV 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/677.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+<item>
+<title>BENFICA TV 2 </title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/662.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+
+<item>
+<title>SPORTING TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/678.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
+ (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+#EXTM3U#EXTINF:-1,==========Portugal==========
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/7243.ts
+
+
+
+
+#EXTINF:-1,PT: BTV 2
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/662.ts
+
+
+
+#EXTINF:-1,PT: BARCA TV
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/640.ts
+
+
+#EXTINF:-1,PT: Chelsea TV
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/630.ts
+
+#EXTINF:-1,PT: Motorvision
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/685.ts
+#EXTINF:-1,PT: Motors TV
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/627.ts
+#EXTINF:-1,PT: A Bola TV
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/631.ts
+#EXTINF:-1,PT: SIC
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/617.ts
+#EXTINF:-1,PT: SIC K
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/655.ts
+#EXTINF:-1,PT: SIC Radical
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/667.ts
+#EXTINF:-1,PT: SIC Mulher
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/666.ts
+#EXTINF:-1,PT: SIC Noticias
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/668.ts
+#EXTINF:-1,PT: RTP 1
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/615.ts
+#EXTINF:-1,PT: RTP 2
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/616.ts
+#EXTINF:-1,PT: RTP 3
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/659.ts
+#EXTINF:-1,PT: RTP MEMORIA
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/663.ts
+#EXTINF:-1,PT: RTP MADEIRA
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/732.ts
+#EXTINF:-1,PT: RTP AFRICA
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/733.ts
+#EXTINF:-1,PT: RTP ACORES
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/734.ts
+#EXTINF:-1,PT: Discovery Channel
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/724.ts
+#EXTINF:-1,PT: DISCOVERY HD SHOWCASE
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/725.ts
+#EXTINF:-1,PT: Travel Channel HD
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/719.ts
+#EXTINF:-1,PT: NATIONAL GEO  WILD
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/720.ts
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/723.ts
+#EXTINF:-1,PT: Afro Music
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/641.ts
+#EXTINF:-1,PT: E! Entertaunment
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/702.ts
+#EXTINF:-1,PT: ODISSEIA
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/722.ts
+#EXTINF:-1,PT: TLC
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/705.ts
+#EXTINF:-1,PT: CANAL Historia
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/721.ts
+#EXTINF:-1,PT: Hollywood
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/649.ts
+#EXTINF:-1,PT: 24KITCHEN HD
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/708.ts
+#EXTINF:-1,PT: VH1
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/7256.ts
+#EXTINF:-1,PT: MTV
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/710.ts
+#EXTINF:-1,PT: Toros TV
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/683.ts
+#EXTINF:-1,PT:  PORTO Canal
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/680.ts
+#EXTINF:-1,PT: PFC
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/679.ts
+#EXTINF:-1,PT: SBS Reality
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/671.ts
+#EXTINF:-1,PT: Caça e Pesca
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/684.ts
+
+#EXTINF:-1,PT: Fox HD
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/651.ts
+#EXTINF:-1,PT: Fox Movies
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/646.ts
+#EXTINF:-1,PT: Fox Crime HD
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/647.ts
+#EXTINF:-1,PT: FOX SPORTS 2 HD
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/687.ts
+#EXTINF:-1,PT: Fox Life HD
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/711.ts
+#EXTINF:-1,PT: Fox Comeny
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/707.ts
+#EXTINF:-1,PT: AXN HD
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/653.ts
+#EXTINF:-1,PT: AXN White HD
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/652.ts
+#EXTINF:-1,PT: AXN Black HD
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/704.ts
+#EXTINF:-1,PT: Cinemundo
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/648.ts
+#EXTINF:-1,PT: A&E.
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/726.ts
+#EXTINF:-1,PT: PANDA BIGGS
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/644.ts
+#EXTINF:-1,PT: MOV HD
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/643.ts
+#EXTINF:-1,PT: A&E
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/642.ts
+#EXTINF:-1,PT: SYFY
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/645.ts
+#EXTINF:-1,PT: CMTV
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/625.ts
+#EXTINF:-1,PT: AMC
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/654.ts
+#EXTINF:-1,PT: NICKELODEON
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/690.ts
+#EXTINF:-1,PT: Baby Tv
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/695.ts
+#EXTINF:-1,PT: Cartoon
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/694.ts
+#EXTINF:-1,PT: JIM JAM
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/692.ts
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/689.ts
+#EXTINF:-1,PT: CANAL PANDA
+http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/691.ts
+
+
+
+
+
