@@ -6,20 +6,31 @@
 streamtype=TSDOWNLOADER@amp;url=http://gold.sarimedia.tv:8000/live/colmar/colmar/1.ts</link>
 
 
-
+#EXTINF:0,Sportv1 HD
+http://ftvnext.stmteam.org:8000/live/delia/delia/98.ts
+#EXTINF:0,Sportv2 HD
+http://ftvnext.stmteam.org:8000/live/delia/delia/104.ts
+#EXTINF:0,Sportv3 HD
+http://ftvnext.stmteam.org:8000/live/delia/delia/2028.ts
+#EXTINF:0,Sportv4 HD
+http://ftvnext.stmteam.org:8000/live/delia/delia/847.ts
+#EXTINF:0,Sportv5 HD
+http://ftvnext.stmteam.org:8000/live/delia/delia/1089.ts
+#EXTINF:0,Sportv1
+http://ftvnext.stmteam.org:8000/live/delia/delia/2.ts
 
 
 <item>
-<title>Sport Tv 5</title>
+<title>Sport Tv 1</title>
 <link>plugin://plugin.video.f4mTester/?url=
-http%3A%2F%2Fftvnext.stmteam.org%3A8000%2Flive%2Fdelia%2Fdelia%2F1089.ts
+http://ftvnext.stmteam.org:8000/live/delia/delia/2.ts
 ;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
  (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
 
 <item>
-<title>TVI24</title>
+<title>Sport tv 1 HD</title>
 <link>plugin://plugin.video.f4mTester/?url=
-http://iptv.alphacs.tv:8080/live/GRiRmtCUCH/NWaaSXUUuS/665.ts
+http://ftvnext.stmteam.org:8000/live/delia/delia/98.ts
 ;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26
  (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
 
