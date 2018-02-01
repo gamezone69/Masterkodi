@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>thumbnail</layoutype>
+
+name =  dmode
+dir = dmode
+
+
+AA
+
+
+<channels> 
+
+
+<channel>
+<name>             [COLOR  yellow][B]KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR lightblue][B]FLIX[/B] [/COLOR][COLOR  white][B] POWERED [/B][/COLOR][COLOR orange] BY [COLOR green] TEAM [COLOR yellow] J [/COLOR][B] [COLOR purple] 2 [/COLOR][B] [COLOR orange] M [/COLOR][B] [COLOR brown] F [/COLOR][B] [COLOR green] 4 [/B][/COLOR]</name>
+<thumbnail>https://cdn.pixabay.com/photo/2016/04/01/08/33/boy-1298788_960_720.png</thumbnail>
+<fanart>http://www.paintitparties.co.za/images/pip/imgKids001.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/test</externallink>
+</channel>
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channel>
+<name>[COLOR  green][B].[/B] [/COLOR][COLOR  yellow][B]KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR white][B]TV[/B] [/COLOR]</name>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/af/00/90/af009012d5696550838f6bcb5bc3acd6.png</thumbnail>
+<fanart>http://www.paintitparties.co.za/images/pip/imgKids001.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/g8fDkiNK</externallink>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channel>
+<name>[COLOR  green][B].[/B] [/COLOR][COLOR  yellow][B]KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR white][B]FLIX[/B] [/COLOR]</name>
+<thumbnail>https://images.indiegogo.com/file_attachments/1381832/files/20150414054316-cat-cinema_good.jpg?1429015396</thumbnail>
+<fanart>https://kidsinto.files.wordpress.com/2017/04/smurfsthelostvillage_01.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/8ZKqnteG</externallink>
+</channel>
+
+
+<channel>
+<name>[COLOR  green][B].[/B] [/COLOR][COLOR  yellow][B]KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR white][B]SERIES[/B] [/COLOR]</name>
+<thumbnail>http://i.imgur.com/xSMOw6J.jpg</thumbnail>
+<fanart>http://i0.kym-cdn.com/photos/images/original/001/096/258/034.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/ucnkCpiP</externallink>
+</channel>
+
+<channel>
+<name>[COLOR  green][B].[/B] [/COLOR][COLOR  yellow][B]KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR white][B]DISNEY CLÁSSICOS[/B] [/COLOR]</name>
+<thumbnail>https://d2wgbggetablcw.cloudfront.net/Footer/home.png</thumbnail>
+<fanart>http://images.huffingtonpost.com/2016-01-04-1451936199-9116068-disneyfireworkscastleDISNEY1215.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/gzqAGUuT</externallink>
+</channel>
+
+</channels> 
