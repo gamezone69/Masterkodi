@@ -1,31 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
-<layoutype>list</layoutype>
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>thumbnail</layoutype>
+
+name =  dmode
+dir = dmode
 
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+AA
 
 
+<channels> 
+
+
+<channel>
+<name>             [COLOR  yellow][B]KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR lightblue][B]FLIX[/B] [/COLOR][COLOR  white][B] POWERED [/B][/COLOR][COLOR orange] BY [COLOR green] TEAM [COLOR yellow] J [/COLOR][B] [COLOR purple] 2 [/COLOR][B] [COLOR orange] M [/COLOR][B] [COLOR brown] F [/COLOR][B] [COLOR green] 4 [/B][/COLOR]</name>
+<thumbnail>https://cdn.pixabay.com/photo/2016/04/01/08/33/boy-1298788_960_720.png</thumbnail>
+<fanart>http://www.paintitparties.co.za/images/pip/imgKids001.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/test</externallink>
+</channel>
  
-<channels>
-<channel>
-<name>[COLOR  white][B]T[/B][/COLOR][B][COLOR white]V[/B][/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>http://j2mf4.com/addon.menu.tvtuga.milhano/addon.menu.tvtuga.milhano/tv.menu.txt</externallink>
-</channel>
-
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<channel>
-<name>[COLOR  white][B] [/B][/COLOR][B][COLOR white]   [/B][/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
-</channel>
-</channels>
+ </channels>
