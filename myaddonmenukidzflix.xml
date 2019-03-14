@@ -74,12 +74,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
   
   <channel>
-<name>[COLOR  green][B].[/B] [/COLOR][COLOR  yellow][B]KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR white][B]CINEMA VOD FAMILY[/B] [/COLOR]</name>
+<name>[COLOR  green][B].[/B] [/COLOR][COLOR  yellow][B]KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR white][B]CINEMA VOD FAMILY/ADULTOS[/B] [/COLOR]</name>
 <thumbnail>https://diariopiauiense.com/wp-content/uploads/2018/05/cinema.jpg</thumbnail>
 <fanart>https://www.dolby.com/uploadedImages/Dolby_Public/Content/Professionals/Cinema/dolby-cinema-pro-tout.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/UQKJfBxK</externallink>
 </channel>
+  
+  <channel>
+<name>[COLOR  green][B].[/B] [/COLOR][COLOR  yellow][B]KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR white][B]CINEMA PORTUGUÊS[/B] [/COLOR]</name>
+<thumbnail>https://diariopiauiense.com/wp-content/uploads/2018/05/cinema.jpg</thumbnail>
+<fanart>https://www.dolby.com/uploadedImages/Dolby_Public/Content/Professionals/Cinema/dolby-cinema-pro-tout.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/Ym03PvyU</externallink>
+</channel>
+  
+  
   
    
   https://pastebin.com/raw/qimYh9tg
