@@ -30,7 +30,7 @@ AA
 
 
 <channel>
-<name>  [COLOR  yellow][B]KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR lightblue][B]FLIX[/B] [/COLOR][COLOR  white][B] POWERED [/B][/COLOR][COLOR orange] BY [COLOR green] COCA-COLA [COLOR yellow] MAN [/COLOR][B]</name>
+<name>  [COLOR  yellow][B]KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR lightblue][B]FLIX[/B] [/COLOR][COLOR  white][B] POWERED [/B][/COLOR][COLOR orange] BY [COLOR green] COCA-COLA [COLOR yellow] MAN [/COLOR]</name>
 <thumbnail>https://cdn.pixabay.com/photo/2016/04/01/08/33/boy-1298788_960_720.png</thumbnail>
 <fanart>http://www.paintitparties.co.za/images/pip/imgKids001.jpg</fanart>
 <link>http://ignoreme</link>
@@ -65,7 +65,7 @@ channel>
 <externallink>https://pastebin.com/raw/ucnkCpiP</externallink>
 </channel>
 
-<channel>
+channel>
 <name>[COLOR  green][B].[/B] [/COLOR][COLOR  yellow][B]KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR white][B]DISNEY CLÁSSICOS (NEW LINK)[/B] [/COLOR]</name>
 <thumbnail>https://d2wgbggetablcw.cloudfront.net/Footer/home.png</thumbnail>
 <fanart>http://images.huffingtonpost.com/2016-01-04-1451936199-9116068-disneyfireworkscastleDISNEY1215.jpg</fanart>
@@ -78,10 +78,10 @@ channel>
 <thumbnail>https://diariopiauiense.com/wp-content/uploads/2018/05/cinema.jpg</thumbnail>
 <fanart>https://www.dolby.com/uploadedImages/Dolby_Public/Content/Professionals/Cinema/dolby-cinema-pro-tout.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/Sm2sbwtN</externallink>
+<externallink>https://pastebin.com/raw/VGPqVQNL</externallink>
 </channel>
   
-  <channel>
+  channel>
 <name>[COLOR  green][B].[/B] [/COLOR][COLOR  yellow][B]KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR white][B]CINEMA PORTUGUÊS[/B] [/COLOR]</name>
 <thumbnail>https://diariopiauiense.com/wp-content/uploads/2018/05/cinema.jpg</thumbnail>
 <fanart>https://www.dolby.com/uploadedImages/Dolby_Public/Content/Professionals/Cinema/dolby-cinema-pro-tout.jpg</fanart>
