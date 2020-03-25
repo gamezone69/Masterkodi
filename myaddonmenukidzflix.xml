@@ -20,7 +20,7 @@ AA
 </channel>
 
 <channel>
-<name>[COLOR lime]ESTAMOS EM MANUTENÇÃO - PROMETEMOS SER BREVES[/COLOR]</name>
+<name>[COLOR lime]TUDO VAI FICAR OK - COVID - FICAM EM CASA E PROTEGEM-SE[/COLOR]</name>
 <link>https://www21.uptostream.com/4lddc4b85a3/720/0/video.mp4</link>
 <link>https://uptobox.com/</link>
 <thumbnail>http://www.impressaogerenciada.com.br/wp-content/uploads/2014/02/ServidorDeImpressao-600x300.png</thumbnail>
@@ -81,6 +81,16 @@ channel>
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/VGPqVQNL</externallink>
 </channel>
+
+<channel>
+<name>[COLOR  green][B].[/B] [/COLOR][COLOR  yellow][B]KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR white][B]TV SERIES[/B] [/COLOR]</name>
+<thumbnail>https://diariopiauiense.com/wp-content/uploads/2018/05/cinema.jpg</thumbnail>
+<fanart>https://www.dolby.com/uploadedImages/Dolby_Public/Content/Professionals/Cinema/dolby-cinema-pro-tout.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/Y4AZWBkY</externallink>
+</channel>
+
+
   
   channel>
 <name>[COLOR  green][B].[/B] [/COLOR][COLOR  yellow][B]KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR white][B]CINEMA PORTUGUÊS[/B] [/COLOR]</name>
