@@ -30,7 +30,7 @@ AA
 
 
 <channel>
-<name>  [COLOR  yellow][B]KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR lightblue][B]FLIX[/B] [/COLOR][COLOR  white][B] POWERED [/B][/COLOR][COLOR orange] BY [COLOR green] COCA-COLA [COLOR yellow] MAN [/COLOR]</name>
+<name>  [COLOR  yellow][B]                KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR lightblue][B]FLIX[/B] [/COLOR][COLOR  white][B] POWERED [/B][/COLOR][COLOR orange] BY [COLOR green] COCA-COLA [COLOR yellow] MAN [/COLOR]</name>
 <thumbnail>https://cdn.pixabay.com/photo/2016/04/01/08/33/boy-1298788_960_720.png</thumbnail>
 <fanart>http://www.paintitparties.co.za/images/pip/imgKids001.jpg</fanart>
 <link>http://ignoreme</link>
@@ -38,7 +38,7 @@ AA
 </channel>
   
   <channel>
-<name>  [COLOR  yellow][B]KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR lightblue][B]FLIX[/B] [/COLOR][COLOR  white][B] ESTE ADDON É EXCLUSIVO PARA USO PRIVADO E PARA QUEM FAZ PARTE DO MEU GRUPO [/B][/COLOR]</name>
+<name>  [COLOR  white][B] ESTE ADDON É EXCLUSIVO PARA USO PRIVADO E PARA QUEM FAZ PARTE DO MEU GRUPO [/B][/COLOR]</name>
 <thumbnail>https://cdn.pixabay.com/photo/2016/04/01/08/33/boy-1298788_960_720.png</thumbnail>
 <fanart>http://www.paintitparties.co.za/images/pip/imgKids001.jpg</fanart>
 <link>http://ignoreme</link>
@@ -46,7 +46,7 @@ AA
 </channel>
 
   <channel>
-<name>  [COLOR  yellow][B]KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR lightblue][B]FLIX[/B] [/COLOR][COLOR  white][B] SE QUEREM CONTINUAR A USUFRUIR DESTE ADDON FALE COMIGO...PROIBIDO TER ISTO EM QUALQUER REPO!! [/B][/COLOR]</name>
+<name>  [COLOR lightblue][B]FLIX[/B] [/COLOR][COLOR  white][B] SE QUEREM CONTINUAR A USUFRUIR DESTE ADDON FALE COMIGO...PROIBIDO TER ISTO EM QUALQUER REPO!! [/B][/COLOR]</name>
 <thumbnail>https://cdn.pixabay.com/photo/2016/04/01/08/33/boy-1298788_960_720.png</thumbnail>
 <fanart>http://www.paintitparties.co.za/images/pip/imgKids001.jpg</fanart>
 <link>http://ignoreme</link>
@@ -89,13 +89,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 
   <channel>
-<name>[COLOR  green][B].[/B] [/COLOR][COLOR  yellow][B]KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR white][B]TOPIPTVMASTER@GMAIL.COM....PRECISA DE UMA LISTA IPTV DE TOPO? PEÇA O SEU TESTE E COMPROVA[/B] [/COLOR]</name>
+<name>[COLOR white][B]TOPIPTVMASTER@GMAIL.COM....PRECISA DE UMA LISTA IPTV DE QUALIDADE? PEÇA O SEU TESTE E COMPROVA..APROVEITAM DESTE COUPON (COD05EUR) VALE DE 5 EUR A DESCONTAR NUMA COMPRA SUPERIOR A 20EUR![/B] [/COLOR]</name>
 <thumbnail>https://diariopiauiense.com/wp-content/uploads/2018/05/cinema.jpg</thumbnail>
 <fanart>https://www.dolby.com/uploadedImages/Dolby_Public/Content/Professionals/Cinema/dolby-cinema-pro-tout.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/Y</externallink>
 </channel>
   
+   <channel>
+<name>[COLOR white][B]VÁLIDO DURANTE O MÊS DE ABRIL[/B] [/COLOR]</name>
+<thumbnail>https://diariopiauiense.com/wp-content/uploads/2018/05/cinema.jpg</thumbnail>
+<fanart>https://www.dolby.com/uploadedImages/Dolby_Public/Content/Professionals/Cinema/dolby-cinema-pro-tout.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/Y</externallink>
+</channel>
    
   https://pastebin.com/raw/qimYh9tg
 
