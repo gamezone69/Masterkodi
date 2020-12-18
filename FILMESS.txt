@@ -1,0 +1,2050 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/3e6018ff-3781-47d9-ba54-51b485186b52/GODMOTHERED.jpg?download=true" group-title="",GODMOTHERED 2020
+https://cld.pt/dl/download/62094ab9-52a7-41c5-bb65-b2ae5b79d4b9/MrPiracy%20-%20Amadrinhadas.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/3e6018ff-3781-47d9-ba54-51b485186b52/GODMOTHERED.jpg?download=true" group-title="",GODMOTHERED 2020
+https://cld.pt/dl/download/62094ab9-52a7-41c5-bb65-b2ae5b79d4b9/MrPiracy%20-%20Amadrinhadas.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/cf0d0cb5-e6af-4d35-bc31-4b5666659272/MANK.jpg?download=true" group-title="",MANK 2020
+https://cld.pt/dl/download/4cb3e001-0726-4bd5-8198-e31e12fddc00/MrPiracy%20-%20Mank.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/2ee378e8-db73-4855-bcc9-234ae4460c34/DUNE%20DRIFTER.jpg?download=true" group-title="",DUNE DRIFTER 2020
+https://cld.pt/dl/download/3068bccd-6935-4ba0-85ee-30a9f770a698/MrPiracy%20-%20Dune%20Drifter.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/3bc228c2-c55d-4549-b165-86c6d1735c4c/HONEST%20THIEF.jpg?download=true" group-title="",HONEST THIEF 2020
+https://cld.pt/dl/download/c0f0ad41-9d75-49ae-9ba6-1195edd8ebf5/MrPiracy%20-%20Um%20%C3%9Altimo%20Golpe.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/74b68960-f1b4-4cb9-b3e2-c86921078764/SWEET%20TASTE%20OF%20SOULS.jpg?download=true" group-title="",SWEET TASTE OF SOULS 2020
+https://cld.pt/dl/download/d79acbb0-877a-4900-ab48-e0133f570bfa/MrPiracy%20-%20Sweet%20Taste%20of%20Souls.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/fad37561-09ab-4eee-9a8a-c615d111deaa/IT%20CUTS%20DEEP.jpg?download=true" group-title="",IT CUTS DEEP 2020
+https://cld.pt/dl/download/7a640f42-3a6d-415f-90c9-2a118cb599b9/MrPiracy%20-%20It%20Cuts%20Deep.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/e4a8e23d-8e4e-4b4a-9090-dbef8352bbb4/KINDRED.jpg?download=true" group-title="",KINDRED 2020
+https://cld.pt/dl/download/ea7c8c5b-2a55-4308-a533-d5374ceb2a89/MrPiracy%20-%20Kindred.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/4bf29288-9ee8-4f51-bbe0-f17b343b638f/DONT%20LISTEN.jpg?download=true" group-title="",DONT LISTEN 2020
+https://cld.pt/dl/download/1262096c-e719-4353-aced-c475918e56f4/MrPiracy%20-%20Don%27t%20Listen.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/3419247c-0eab-4dae-8d24-2b3a6d03bd45/THE%20CRUMBS.jpg?download=true" group-title="",THE CRUMBS 2020
+https://cld.pt/dl/download/f31eff01-b014-45fb-81b3-477ebd9ab3e7/MrPiracy%20-%20The%20Crumbs.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/e243af0f-bd7d-4fe6-bb48-b0945bb83110/CITY%20HALL.jpg?download=true" group-title="",CITY HALL 2020
+https://cld.pt/dl/download/44aab493-21d3-498d-ae14-378e32954317/MrPiracy%20-%20City%20Hall.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/cb70899b-fab3-43c2-a603-a136fb7b93f2/GIRL.jpg?download=true" group-title="",GIRL  2020
+https://cld.pt/dl/download/233073d6-4c8e-4eac-9527-96db78de4c98/MrPiracy%20-%20Girl.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/03b857f9-702e-46e8-8f61-b455b00a7608/FREAKY.jpg?download=true" group-title="",FREAKY 2020
+https://cld.pt/dl/download/0e3d9015-34a7-4535-a0ea-a5f4e779392f/MrPiracy%20-%20Freaky-%20Este%20Corpo%20Fica-me%20a%20Matar.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/a9d2930e-4b85-4171-9771-b8ea01683013/TENET.jpg?download=true" group-title="",TENET 2020
+https://cld.pt/dl/download/a2584f08-8f08-499b-b55b-4e594f756498/MrPiracy%20-%20Tenet.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/909315c4-5588-4c78-a8e1-e4ba83e936d1/HAPPIEST%20SEASON.jpg?download=true" group-title="",HAPPIEST SEASON 2020
+https://cld.pt/dl/download/21eb7df3-4156-4c31-af88-e5e55c95f71a/MrPiracy%20-%20Happiest%20Season.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/53285fef-59f5-4eb4-a4f4-97768d6afc64/SHAWN%20MENDES%20IN%20WONDER.jpg?download=true" group-title="",SHAWN MENDES IN WONDER 2020
+https://cld.pt/dl/download/a4b0fe54-d02b-4626-a114-2078e9bd832f/MrPiracy%20-%20Shawn%20Mendes-%20In%20Wonder.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/ad918107-8080-49ed-9592-0f6727c78711/MAX%20AND%20ME.jpg?download=true" group-title="",MAX AND ME 2020
+https://cld.pt/dl/download/751af70c-419d-413c-a503-ff7a2a9c4887/MrPiracy%20-%20Max%20and%20Me.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/2106e911-9b83-4a89-bf88-64245a22e48a/UNPREGNANT.jpg?download=true" group-title="",UNPREGNANT 2020
+https://cld.pt/dl/download/90aaf34a-b1a8-4033-bc7d-34a6464dc322/MrPiracy%20-%20Unpregnant.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/cbeffee4-55dc-4e6a-b479-f1aa730f9b31/THE%20WOLF%20OF%20SNOW%20HOLLOW.jpg?download=true" group-title="",THE WOLF OF SNOW HOLLOW 2020
+https://cld.pt/dl/download/f7a76389-3018-4361-b090-f21234f87ae4/MrPiracy%20-%20The%20Wolf%20of%20Snow%20Hollow.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/13651190-6d67-4c57-8bd0-a51c012d2432/SAVAGE%20X%20FENTY%20SHOW%20VOL.2.jpg?download=true" group-title="",SAVAGE X FENTY SHOW VOL.2 2020
+https://cld.pt/dl/download/8b443091-337d-46d5-8686-3128582e09a9/MrPiracy%20-%20Savage%20X%20Fenty%20Show%20Vol.%202.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/9b4b529e-76a6-4e15-ae1f-c2ef642cc57b/DICK%20JOHNSON%20IS%20DEAD.jpg?download=true" group-title="",DICK JOHNSON IS DEAD 2020
+https://cld.pt/dl/download/e8729562-7062-46fa-85ef-c4570df1e1bb/MrPiracy%20-%20Dick%20Johnson%20Is%20Dead.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/951328e8-38f4-4847-bdea-492ecf57fe5d/DAVID%20ATTENBOROUGH_A%20LIFE%20ON%20OUR%20PLANET.jpg?download=true" group-title="",DAVID ATTENBOROUGH: A LIFE ON OUR PLANET 2020
+https://cld.pt/dl/download/a0b76d4b-39ac-497f-a586-bb168b869c83/MrPiracy%20-%20David%20Attenborough-%20A%20Life%20on%20Our%20Planet.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/ce5163df-2941-4f26-849d-a4da257870ae/VAMPIRES%20VS%20THE%20BRONX.jpg?download=true" group-title="",VAMPIRES VS THE BRONX 2020
+https://cld.pt/dl/download/de15169d-34f1-4f33-8b1d-64ab39941f39/MrPiracy%20-%20Vampires%20vs.%20the%20Bronx.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/0181e3b8-24e3-447f-82de-64798f189ad3/THE%20FORTY%20EAR%20OLD%20VERSION.jpg?download=true" group-title="",THE FORTY EAR OLD VERSION 2020
+https://cld.pt/dl/download/7e558c04-607d-4057-b13e-69b255d8be49/MrPiracy%20-%20The%20Forty-Year-Old%20Version.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/88486a62-863a-4247-9a46-159b704c1831/THE%20WITCHES.jpg?download=true" group-title="",THE WITCHES 2020
+https://cld.pt/dl/download/9000219c-f876-4cb0-8e2d-9aba0dc36deb/MrPiracy%20-%20The%20Witches.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/410a76ab-6854-47b1-b219-8735cf330ae3/LAST%20AND%20FIRST%20MEN.jpg?download=true" group-title="",LAST AND FIRST MEN 2020
+https://cld.pt/dl/download/d5e40a17-3331-4e22-97ad-43db11a480f9/MrPiracy%20-%20Last%20and%20First%20Men.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/c7f3c901-c08c-40fe-8694-bc835b71f0ac/SEIZED.jpg?download=true" group-title="",SEIZED 2020
+https://cld.pt/dl/download/f6d819c1-e0ca-48cb-8d29-1ae9be054743/MrPiracy%20-%20Seized.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/c219e89e-90fe-4f5a-b87d-f019ae5d8de5/THE%20DOORMAN.jpg?download=true" group-title="",THE DOORMAN 2020
+https://cld.pt/dl/download/9e3f1a7a-37fd-4621-9e21-9694852169c7/MrPiracy%20-%20The%20Doorman.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/a3ab3141-fd99-41c7-bb0f-50ea5aa34eb5/SULPHUR%20AND%20WHITE.jpg?download=true" group-title="",SULPHUR AND WHITE 2020
+https://cld.pt/dl/download/3ff75ab3-c7db-4e4c-b000-7e86c2358258/MrPiracy%20-%20LX%202048.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/d963842c-f06f-4df8-9fc8-2f1f648ab382/SAVE%20YOURSELVES.jpg?download=true" group-title="",SAVE YOURSELVES 2020
+https://cld.pt/dl/download/54c53aed-f45c-433d-9ce3-e45f9fdbb2b8/MrPiracy%20-%20Save%20Yourselves%21.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/18088034-29f8-4f60-ad1e-a9177297b0cd/BLACK%20BOX.jpg?download=true" group-title="",BLACK BOX 2020
+https://cld.pt/dl/download/8868cf74-cb91-426c-b050-7b20544f6357/MrPiracy%20-%20Black%20Box.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/db8e51e5-c119-48ce-b46c-6433e10ec306/2067.jpg?download=true" group-title="",2067 2020
+https://cld.pt/dl/download/55569873-8109-48d0-9c61-b308e869398f/MrPiracy%20-%202067.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/abedab66-7dfd-49ec-a0e2-f4cdc498254b/THE%20FANDOM.jpg?download=true" group-title="",THE FANDOM 2020
+https://cld.pt/dl/download/349b9fd6-0e6f-43d4-b49e-77f5044d664c/MrPiracy%20-%20The%20Fandom.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/dff28a30-12f5-48a0-923e-1570639e3a32/THE%20BOYS%20IN%20THE%20BAND.jpg?download=true" group-title="",THE BOYS IN THE BAND 2020
+https://cld.pt/dl/download/78d98a40-3a80-488e-b948-17e7c78f6857/MrPiracy%20-%20The%20Boys%20in%20the%20Band.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/67d5b085-103a-48bf-9a3b-055aa7146912/LET%20IT%20SNOW.jpg?download=true" group-title="",LET IT SNOW 2020
+https://cld.pt/dl/download/0ddcbd3f-0074-4d3a-812a-604f2a4cfdcf/MrPiracy%20-%20Let%20It%20Snow.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/b098776d-a47c-4b48-9574-9005e5256201/KISS%20THE%20GROUND.jpg?download=true" group-title="",KISS THE GROUND 2020
+https://cld.pt/dl/download/dff31980-0583-4ed4-8c93-0c2559c6db84/MrPiracy%20-%20Kiss%20the%20Ground.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/d4c88dfc-cdba-4e1b-a780-dc7974cac79e/CONSOLE%20WARS.jpg?download=true" group-title="",CONSOLE WARS 2020
+https://cld.pt/dl/download/261ac2a3-41ed-4498-a41d-c7e662e9757f/MrPiracy%20-%20Console%20Wars.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/cd8e218f-bf3b-4ff7-8978-eac4063afa63/THE%20BRIDGE%20CURSE.jpg?download=true" group-title="",THE BRIDGE CURSE 2020
+https://cld.pt/dl/download/93ea6cd5-8e45-4d78-a397-70982e95b850/MrPiracy%20-%20The%20Bridge%20Curse.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/9657b465-7fc3-404e-9b97-d59daf5bc1fb/LOST%20GIRLS%20AND%20LOVE%20HOTELS.jpg?download=true" group-title="",LOST GIRLS AND LOVE HOTELS 2020
+https://cld.pt/dl/download/a52cc635-1b8a-445c-b0dd-fd0cb28de9ae/MrPiracy%20-%20Lost%20Girls%20and%20Love%20Hotels.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/ae1676f7-0c28-463d-af82-7fe71fdd6479/TWELVE.jpg?download=true" group-title="",TWELVE 2020
+https://cld.pt/dl/download/afeb9b1d-80b6-4e53-9832-553329e5bff3/MrPiracy%20-%20Twelve.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/e1210f54-a12f-4e12-94a1-3ea48b3478d8/SIGHTLESS.jpg?download=true" group-title="",SIGHTLESS 2020
+https://cld.pt/dl/download/64728c74-8aaa-4693-a76e-e2cb51cd261b/MrPiracy%20-%20Sightless.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/b1e40f2d-2693-4b0f-9f21-f9470620668b/NO%20ESCAPE.jpg?download=true" group-title="",NO ESCAPE 2020
+https://cld.pt/dl/download/f5da76ab-7916-4f86-b770-4f8cf1ac6d80/MrPiracy%20-%20No%20Escape.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/58bdb80c-0b50-4f5d-bf92-077f56152750/BURDEN.jpg?download=true" group-title="",BURDEN - A REDENÇAO 2020
+https://cld.pt/dl/download/c6e6b7b2-5951-4e37-9ddd-59ebbc91012a/MrPiracy%20-%20Burden-%20A%20Reden%C3%A7%C3%A3o.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/0c57b144-eb45-41eb-91d5-0ceae3507812/THREE%20CHRISTS.jpg?download=true" group-title="",THREE CHRISTS 2020
+https://cld.pt/dl/download/f31eff01-b014-45fb-81b3-477ebd9ab3e7/MrPiracy%20-%20The%20Crumbs.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/cf3edb9f-4e58-4215-a5e1-51ec1bd9ad21/ENOLA%20HOLMES.jpg?download=true" group-title="",ENOLA HOLMES 2020
+https://cld.pt/dl/download/b015c30c-4da4-4d3f-bc00-413fad72548c/MrPiracy%20-%20Enola%20Holmes.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/25c81797-c0ec-45a6-bec1-5697b6d748ce/SOCIEDADE%20SECRETA%20DOS%20PRINCIPES%20NAO%20HERDEIROS.jpg?download=true" group-title="",SOCIEDADE SECRETA DOS PRINCIPES NAO HERDEIROS 2020
+https://cld.pt/dl/download/61265d83-9310-4b80-8d97-da3ce0f5c052/MrPiracy%20-%20Sociedade%20Secreta%20dos%20Pr%C3%ADncipes%20N%C3%A3o%20Herdeiros.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/f67568d2-a44d-4056-a9e0-dcfab373850c/MURDER%20MANUAL.jpg?download=true" group-title="",MURDER MANUAL 2020
+https://cld.pt/dl/download/91629544-862a-4df7-895b-87a357e3a7b7/MrPiracy%20-%20Murder%20Manual.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/d49cd18a-cd82-49d1-9eae-dfa22b398bbf/RISE%20OF%20THE%20NAZIS.jpg?download=true" group-title="",RISE OF THE NAZIS 2020
+https://cld.pt/dl/download/a6e2159e-0423-42c7-b815-ef0d9bf8a8f6/MrPiracy%20-%20Rise%20of%20the%20Nazis.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/4fe6e986-9c05-42c1-b237-b82d06451808/RUN.jpg?download=true" group-title="",RUN 2020
+https://cld.pt/dl/download/39011c9c-c4ac-42ca-bc1c-98dcc716b0e5/MrPiracy%20-%20Corre%21.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/79bb3d35-8a3c-4415-9a29-e46eb06b52a7/THE%20CRAFT.jpg?download=true" group-title="",THE CRAFT (AS NOVAS FEITICEIRAS) 2020
+https://cld.pt/dl/download/f6697b11-a401-4431-98f3-7d409f4a9fa7/MrPiracy%20-%20As%20Novas%20Feiticeiras.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/afbd047c-2d42-4aa6-b232-386e77eb70e0/LIFE%20IN%20A%20YEAR.jpg?download=true" group-title="",LIFE IN A YEAR 2020
+https://cld.pt/dl/download/024735f8-453d-4e9c-bbe1-894ee329d911/MrPiracy%20-%20Life%20in%20a%20Year.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/47244965-1bf8-4e57-8af6-88f28dde01c7/BLACK%20BEAUTY.jpg?download=true" group-title="",BLACK BEAUTY 2020
+https://cld.pt/dl/download/a2642de4-f0b0-4e38-8106-360ecb191c4d/MrPiracy%20-%20Black%20Beauty.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/9047641f-a54b-4c06-8b27-a81adebbef81/DANCE%20DREAMS.jpg?download=true" group-title="",DANCE DREAMS - HOT CHOCOLATE NUTCRACKER 2020
+https://cld.pt/dl/download/bcf419c5-644e-4b3d-8d89-431b73f14869/MrPiracy%20-%20Dance%20Dreams-%20Hot%20Chocolate%20Nutcracker.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/8c977f50-da46-4a48-9524-1b71f5ad51b7/CALL.jpg?download=true" group-title="",THE CALL 2020
+https://cld.pt/dl/download/a4bc456e-1757-437a-9f38-bc2e0096dfbe/MrPiracy%20-%20Call.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/f0c3071f-a6ef-4fcd-8b72-6b37cc3dac04/HORSE%20CAMP%20-%20A%20LOVE%20TAIL.jpg?download=true" group-title="",HORSE CAMP - A LOVE TAIL 2020
+https://cld.pt/dl/download/589e707c-26a6-4883-aef0-a97647ccb84e/MrPiracy%20-%20Horse%20Camp-%20A%20Love%20Tail.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/546c2280-15c7-40cd-a633-6b51a23b0442/FOLKLORE%20-%20THE%20LONG%20POND%20STUDIO%20SESSIONS.jpg?download=true" group-title="",FOLKLORE - THE LONG POND STUDIO SESSIONS 2020
+https://cld.pt/dl/download/5f613e1d-580d-46ba-95a3-fca44ce25171/MrPiracy%20-%20Folklore-%20The%20Long%20Pond%20Studio%20Sessions.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/ad6cf86c-c6fd-4b43-b1f6-236017989432/HILLBILLY%20ELEGY.jpg?download=true" group-title="",HILLBILLY ELEGY 2020
+https://cld.pt/dl/download/d7e586f6-24f1-451a-b3fb-ac353e253bd5/MrPiracy%20-%20Hillbilly%20Elegy.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/ec5c9ce8-456f-4528-8669-ac69cb9ffa2c/VIAGEM%20A%20GR%C3%89CIA.jpg?download=true" group-title="",VIAGEM A GRÉCIA 2020
+https://cld.pt/dl/download/db22493b-036e-4fde-a134-ef984181df64/MrPiracy%20-%20Viagem%20%C3%A0%20Gr%C3%A9cia.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/e45be1bc-96ea-43c5-9366-865f3e8f479c/RELIC.jpg?download=true" group-title="",RELIC 2020
+https://cld.pt/dl/download/7332b4ab-7d46-46bb-852a-0c920d73e354/MrPiracy%20-%20Relic.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/32bcb238-6d06-4d49-8a72-19680f5edde7/THE%20TRIAL%20OF%20THE%20CHICAGO%207.jpg?download=true" group-title="",UNCLE FRANK 2020
+https://cld.pt/dl/download/161c7457-1eac-49ed-a17e-328d15a0d739/MrPiracy%20-%20Uncle%20Frankd.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/85a24aaf-67f3-45df-b87c-6d855ffede81/I%20AM%20GRETA%202020.jpg?download=true" group-title="",I AM GRETA 2020
+https://cld.pt/dl/download/a72a48fb-27b4-4cef-b6aa-4a7a82606d94/MrPiracy%20-%20I%20Am%20Greta.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/d7be16ad-b530-478b-ac15-207b21144e31/BEHIND%20THE%20LINE%20-%20ESCAPE%20TO%20DUNKIRK.jpg?download=true" group-title="",BEHIND THE LINE - ESCAPE TO DUNKIRK 2020
+https://cld.pt/dl/download/92cb24b2-966c-4b9a-902a-a33e320b1c02/MrPiracy%20-%20Behind%20the%20Line-%20Escape%20to%20Dunkirk.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/3263efb4-364c-4053-b57f-30309b463bbf/NUVENS%20-%20CLOUDS.jpg?download=true" group-title="",NUVENS - CLOUDS 2020
+https://cld.pt/dl/download/f93aa7f9-56bd-4257-aaa2-a1d3ff1b71c8/MrPiracy%20-%20Nuvens.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/a8b5be02-e022-40ab-b096-576173be7f33/OPERATION%20CHRISTMAS%20DROP.jpg?download=true" group-title="",OPERATION CHRISTMAS DROP 2020
+https://cld.pt/dl/download/5d00e6a2-650f-43cb-b998-5633fefc6325/MrPiracy%20-%20Operation%20Christmas%20Drop.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/03dd4320-e09a-42c8-b02d-7ce2f0addb91/THE%20GLORIAS.jpg?download=true" group-title="",THE GLORIAS 2020
+https://cld.pt/dl/download/e334f0e0-11fe-4d5b-a889-3321ec309b1f/MrPiracy%20-%20The%20Glorias.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/7ee24e69-a2fd-4e3b-9ec9-040a78faa018/A%20GALERIA%20DOS%20CORA%C3%87OES%20PARTIDOS.jpg?download=true" group-title="",A GALERIA DOS CORAÇOES PARTIDOS 2020
+https://cld.pt/dl/download/c085310d-baa6-448c-aca5-d513c95b8f1a/MrPiracy%20-%20A%20Galeria%20dos%20Cora%C3%A7%C3%B5es%20Partidos.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/209ef63c-677d-47e7-abd8-6e454e7ddfbf/AMERICAN%20UTOPIA.jpg?download=true" group-title="",AMERICAN UTOPIA 2020
+https://cld.pt/dl/download/1a852ebc-4249-44e2-b8f8-10dc4aeca067/MrPiracy%20-%20American%20Utopia.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/10e701a1-abd2-4341-8ef9-61de6294f8c4/40%20YEARS%20OF%20ROCKY.jpg?download=true" group-title="",40 YEARS OF ROCKY 2020
+https://cld.pt/dl/download/596d29fd-f4d3-4caa-8d23-3349355d479f/MrPiracy%20-%2040%20Years%20of%20Rocky-%20The%20Birth%20of%20a%20Classic.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/7dbca55a-2861-477d-bf2a-538a543f0391/KAJILLIONAIRE.jpg?download=true" group-title="",KAJILLIONAIRE 2020
+https://cld.pt/dl/download/eef93cc7-db24-45de-85d4-80e676ca3780/MrPiracy%20-%20Kajillionaire.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/062c098b-6979-4b8e-a428-b2a892e42475/THE%20SECRETS%20WE%20KEEP.jpg?download=true" group-title="",THE SECRETS WE KEEP 2020
+https://cld.pt/dl/download/f32db1ac-666e-412e-9bbb-fa2b6367cf10/MrPiracy%20-%20The%20Secrets%20We%20Keep.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/e00d1148-7f51-4de7-91f9-a507bfe3e4ae/THE%20RENTAL.jpg?download=true" group-title="",THE RENTAL 2020
+https://cld.pt/dl/download/6871c6e0-07a0-41db-ac02-747df1e4f292/MrPiracy%20-%20The%20Rental.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/50211461-1d00-41e3-8179-c2937e5d1d94/ATHLETE%20A.jpg?download=true" group-title="",ATHLETE A 2020
+https://cld.pt/dl/download/4ecc70cd-e164-4ce2-aad7-a23f75ae59ec/MrPiracy%20-%20Athlete%20A.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/3e811870-52a0-4ff8-99f3-a5bcafc8ea76/AFTER%20-%20DEPOIS%20DA%20VERDADE.jpg?download=true" group-title="",AFTER - DEPOIS DA VERDADE 2020
+https://cld.pt/dl/download/af5180cd-0f4a-4370-a57f-ec6180174d11/MrPiracy%20-%20After%20-%20Depois%20da%20Verdade.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/233fbcd4-018a-4f77-924c-5a0a0f8637d6/HOSPEDE%20INDESEJADO.jpg?download=true" group-title="",HOSPEDE INDESEJADO 2020
+https://cld.pt/dl/download/a136e0b2-3663-44e7-a22e-c153d694625f/MrPiracy%20-%20H%C3%B3spede%20Indesejado.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/6421e9cc-f0a8-4cef-9fcb-542f10068ed5/THE%20SOUL%20OF%20AMERICA.jpg?download=true" group-title="",THE SOUL OF AMERICA 2020
+https://cld.pt/dl/download/71e64e8d-6430-48f1-a8bd-5940fa01a8f5/MrPiracy%20-%20The%20Soul%20of%20America.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/36b39912-17cc-431d-bb87-d059c1937f39/THE%20DARK%20PATH.jpg?download=true" group-title="",THE DARK PATH 2020
+https://cld.pt/dl/download/03d28b9b-1c88-4ae0-9374-a414c55649c6/MrPiracy%20-%20A%20Dark%20Path.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/32405ebf-eeb3-4511-89fe-e5e35839c53b/HOLIDATE.jpg?download=true" group-title="",HOLIDATE 2020
+https://cld.pt/dl/download/205728e0-352b-478a-badf-4914d3f3cbb0/MrPiracy%20-%20Holidate.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/19bc039a-b372-4b78-86cf-c7e09d8f261c/BORAT.jpg?download=true" group-title="",BORAT SUBSEQUENT 2020
+https://cld.pt/dl/download/dcb7e68a-1f32-452b-84ff-d2c20ca6553e/MrPiracy%20-%20Borat-%20Subsequent%20Moviefilm.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/8f7059bb-3820-43ae-8d3f-475d442addc4/ON%20THE%20ROCKS.jpg?download=true" group-title="",ON THE ROCKS 2020
+https://cld.pt/dl/download/507babe3-9597-471c-ab92-bd6335ae9518/MrPiracy%20-%20On%20the%20Rocks.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/1e7a2930-f7ef-4f3a-98d7-7ddf43885409/REBECCA.jpg?download=true" group-title="",REBECCA 2020
+https://cld.pt/dl/download/fa157e4d-d9af-41af-8207-0e817a9e4b25/MrPiracy%20-%20Rebecca.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/19b76f24-bb89-46d8-8f8f-8f495c4f8dbe/BLACKPINK%20_LIGHT%20UP%20IN%20THE%20SKY.jpg?download=true" group-title="",BLACKPINK : LIGHT UP IN THE SKY 2020
+https://cld.pt/dl/download/8871ab49-5d06-47ca-a453-56a9f53b8200/MrPiracy%20-%20Blackpink-%20Light%20Up%20the%20Sky.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/ef829305-52b9-43c0-bca7-1af33c7cda6c/THE%20DALTON%20GANG.jpg?download=true" group-title="",THE DALTON GANG 2020
+https://cld.pt/dl/download/54bb88b9-c01f-4205-85de-67742fc1c535/MrPiracy%20-%20The%20Dalton%20Gang.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/32bcb238-6d06-4d49-8a72-19680f5edde7/THE%20TRIAL%20OF%20THE%20CHICAGO%207.jpg?download=true" group-title="",THE TRIAL OF THE CHICAGO 7 2020
+https://cld.pt/dl/download/860583ba-2bac-4a2a-9ccb-ad07d6c9f847/MrPiracy%20-%20The%20Trial%20of%20the%20Chicago%207.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/3564cb69-f17d-4a06-8304-93141c5b2c95/NOCTURNE.jpg?download=true" group-title="",NOCTURNE 2020
+https://cld.pt/dl/download/899b63ed-143b-47e2-b5ab-95a145b3e3c0/MrPiracy%20-%20Nocturne.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/1a0716c7-a061-4862-bd80-46b8d7f0c421/HUBBIE%20HALLOWEEN.jpg?download=true" group-title="",HUBBIE HALLOWEEN 2020
+https://cld.pt/dl/download/34cc7e41-df0e-4f86-bd71-7ea2c3914440/MrPiracy%20-%20Hubie%20Halloween.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/ee7e874a-9173-4468-b869-144f65fc24ec/EVIL%20EYE.jpg?download=true" group-title="",EVIL EYE 2020
+https://cld.pt/dl/download/41e53675-dae2-4efb-bb0a-fd8dbeac2dac/MrPiracy%20-%20Evil%20Eye.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/a3564ab4-0a96-432b-bcc7-c4256f70705f/MIDNIGHT%20AT%20THE%20MAGNOLIA1.jpg?download=true" group-title="",MIDNIGHT AT THE MAGNOLIA2020
+https://cld.pt/dl/download/9172edcb-3c56-4a67-916b-06bafb050554/MrPiracy%20-%20Midnight%20at%20the%20Magnolia.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/834933ed-d0de-470e-8d2b-f767daa65756/A%20PRINCESA%20VOLTA%20A%20SER%20PLEBIA.jpg?download=true" group-title="",A PRINCESA VOLTA A SER PLEBIA 2020
+https://cld.pt/dl/download/afe889cb-4a1c-4d1a-b1c4-ef4491f4d6a6/MrPiracy%20-%20A%20Princesa%20Volta%20a%20Ser%20Plebeia.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/326960d6-6c1f-4922-a902-d1fb691079ef/THE%20WATCHER%202.jpg?download=true" group-title="",THE WATCHER 2 2020
+https://cld.pt/dl/download/c352c8db-c4db-4219-b23d-15e1c574f5ac/MrPiracy%20-%20The%20Watcher%202_2.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/97755890-c324-4ff7-b795-5567fe381ebf/BEDROOM%20STORY.jpg?download=true" group-title="",BEDROOM STORY 2020
+https://cld.pt/dl/download/4bf3bfb7-c369-4661-a248-89ca6625a24d/MrPiracy%20-%20Bedroom%20Story.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/84caca84-f61e-47ab-a4f3-f4d4504affa5/THE%20CURE.jpg?download=true" group-title="",THE CURE 2020
+https://cld.pt/dl/download/2bea26e6-2aa4-4b2d-91a0-d8d2c98307c3/MrPiracy%20-%20The%20Cure.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/b086f5c7-ae3f-48ca-971d-e7208394bd6f/TRANSHOOD.jpg?download=true" group-title="",TRANSHOOD 2020
+https://cld.pt/dl/download/a4865ecf-3e60-4c14-8d19-cab07c49fe41/MrPiracy%20-%20Transhood.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/61d0eacf-dc77-4c29-a8cf-55c5d5ced412/SHRIEKER%20ISLAND.jpg?download=true" group-title="",TREMORS :SHRIEKER ISLAND 2020
+https://cld.pt/dl/download/d0589d60-b5c6-44d6-ae63-3f768e7dfa5f/MrPiracy%20-%20Tremors-%20Shrieker%20Island.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/86b48f0b-10d1-423f-8718-ff8443dfb006/TOYS%20OF%20TERROR.jpg?download=true" group-title="",TOYS OF TERROR 2020
+https://cld.pt/dl/download/97ca20da-95fc-4bb2-af1f-ccf69c9034b5/MrPiracy%20-%20Toys%20of%20Terror.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/6951d42a-a142-4ca7-8731-bd9b17563dfb/KEVIN%20HART_ZERO%20FUCKS%20GIVEN.jpg?download=true" group-title="",KEVIN HART: ZERO FUCKS GIVEN 2020
+https://cld.pt/dl/download/50cd42f4-253e-4b1d-b729-cc9e224da1b8/MrPiracy%20-%20Kevin%20Hart-%20Zero%20F--ks%20Given.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/1cd7fa6c-043c-4cfe-8ec0-d9863264cca3/FRIENDSGIVING.jpg?download=true" group-title="",FRIENDSGIVING 2020
+https://cld.pt/dl/download/3386bf36-b14b-41e6-87a8-1ec937951357/MrPiracy%20-%20Fireball-%20Visitors%20From%20Darker%20Worlds.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/bb920162-6b1d-4fe3-b099-df70b5ed4090/VISITORS%20FROM%20DARKER%20WORLDS.jpg?download=true" group-title="",FIREBALL_VISITORS FROM DARKER WORLDS 2020
+https://cld.pt/dl/download/3386bf36-b14b-41e6-87a8-1ec937951357/MrPiracy%20-%20Fireball-%20Visitors%20From%20Darker%20Worlds.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/d7b7e44b-48fc-4e73-aa99-316282d2a5b5/DEATH%20BY%201000%20CUTS.jpg?download=true" group-title="",DEATH BY 1000 CUTS 2020
+https://cld.pt/dl/download/0d1ddc79-eb17-464e-a332-dce3e60ab646/MrPiracy%20-%20Death%20by%201000%20Cuts.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/87020b33-4d27-4934-aa62-e1a517662c2d/CITATION.jpg?download=true" group-title="",CITATION 2020
+https://cld.pt/dl/download/dee8225d-73a5-47e2-92a6-cefbad742baa/MrPiracy%20-%20Citation.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/4c4675a2-bca1-4455-b9c1-08e24913e7ba/JINGLE%20JANGLE_A%20CHRISTMAS%20JOURNEY.jpg?download=true" group-title="",JINGLE JANGLE:A CHRISTMAS JOURNEY 2020
+https://cld.pt/dl/download/cb3612c4-c991-4462-a001-e7fddde5a42c/MrPiracy%20-%20Jingle%20Jangle-%20A%20Christmas%20Journey.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/d35fc7d0-31ea-4cea-937a-13472ad3a724/RIOT%202015.jpg?download=true" group-title="",RIOT 2015
+https://cld.pt/dl/download/c491f657-659b-4450-8aab-a9916cc3e2c4/MrPiracy%20-%20Riot.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/a6c80fc4-49cd-4cca-86cd-15457dff4211/TRIGGERED.jpg?download=true" group-title="",TRIGGERED 2020
+https://cld.pt/dl/download/7fea6209-1a51-48fe-8e0a-98847b2e1a39/MrPiracy%20-%20Triggered.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/57800cf4-229f-4afb-bebc-10e1fc84cc9c/SPONTANEOUS.jpg?download=true" group-title="",SPONTANEOUS 2020
+https://cld.pt/dl/download/b28038a4-cbc5-4250-8e62-11c26d1af325/MrPiracy%20-%20Spontaneous.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/70b8c7ca-50a6-4d73-a624-f9eef61cc258/GREENLAND.jpg?download=true" group-title="",GREENLAND O ULTIMO REFUGIO 2020
+https://cld.pt/dl/download/55b6df7d-cae1-4843-b2d4-53f67bfd88a9/MrPiracy%20-%20Greenland%20-%20O%20%C3%9Altimo%20Ref%C3%BAgio.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/3a018577-cd1f-4961-a47e-7a328eeea6e3/A%20MALDI%C3%87AO%20DE%20LARRY.jpg?download=true" group-title="",COME PLAY _A MALDIÇAO DE LARRY 2020
+https://cld.pt/dl/download/3da88e96-3adc-4854-bf3c-7776a74a259a/MrPiracy%20-%20A%20Maldi%C3%A7%C3%A3o%20de%20Larry.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/7b03aeb2-8dfe-4d87-9157-5acd39ad744c/There_Is_No_Evil.jpg?download=true" group-title="",THERE IS NO EVIL 2020
+https://cld.pt/dl/download/fc618423-7093-45cc-ae2e-db560fbd097f/MrPiracy%20-%20There%20Is%20No%20Evil.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/590ab129-e759-449f-8f88-3cb7131d42e9/AMERICAN%20PIE%20PRESENTS%20GIRLS%20RULES.jpg?download=true" ,AMERICAN PIE PRESENTS GIRLS RULES 2020
+https://cld.pt/dl/download/e29825d1-418f-41db-a34a-3ec294f14441/MrPiracy%20-%20American%20Pie%20Presents-%20Girls%27%20Rules.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/9727ef4c-0a93-4e91-aa4b-0b134d212fff/BLACKBIRD%20-%20A%20DESPEDIDA.jpg?download=true" ,BLACKBIRD - A DESPEDIDA 2020
+https://cld.pt/dl/download/a707d0ef-2c1e-4a54-b6bb-31ecc7fc700b/MrPiracy%20-%20Blackbird%20-%20A%20Despedida.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/7e62801d-464a-4a09-a769-6b9210d6f1f8/F%C3%81TIMA.jpg?download=true" ,FÁTIMA 2020
+https://cld.pt/dl/download/84dc5579-a6a2-4669-a4b2-791b5474e9a9/MrPiracy%20-%20F%C3%A1tima.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/fe6c20f8-cb75-4ea1-b46c-e7413b6b8cb4/NOBODY%20SLEEPS%20IN%20THE%20WOODS%20TONIGHT.jpg?download=true" ,NOBODY SLEEPS IN THE WOODS TONIGHT
+https://cld.pt/dl/download/2857ce5e-f066-4c02-a9e5-9042e896ae20/MrPiracy%20-%20Nobody%20Sleeps%20in%20the%20Woods%20Tonight.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/76c52a61-05bd-433e-ae24-4134e111ab19/SECRETS%20OF%20THE%20SAQQARA%20TOMB.jpg?download=true" ,SECRETS OF THE SAQQARA TOMB
+https://cld.pt/dl/download/2857ce5e-f066-4c02-a9e5-9042e896ae20/MrPiracy%20-%20Nobody%20Sleeps%20in%20the%20Woods%20Tonight.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/ce1e9c5d-cad9-4f53-a972-0c87bd035d38/The_Owners_2020_film_poster.jpg?download=true" ,THE OWNERS 2020
+https://cld.pt/dl/download/762d601d-a52c-46bf-828c-fc913421fdb5/MrPiracy%20-%20The%20Owners.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/8727d9fa-ebb1-4288-9445-a57c7178c7d7/unhinged.jpg?download=true" ,UNHINGED (FÚRIA) 2020
+https://cld.pt/dl/download/c3f52165-4ba2-4443-b550-084c87b86d6b/MrPiracy%20-%20UNHINGED_Em%20F%C3%BAria.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/9c116aa2-29c8-40bb-865c-a65afa0e0c2b/the%20war%20eith%20grandpa.jpg?download=true" ,THE WAR WITH GRANDPA
+https://cld.pt/dl/download/faebd5bf-eb9f-4178-b532-c2b610e23920/MrPiracy%20-%20The%20War%20with%20Grandpa.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/824a7d41-c3b6-4a12-b72b-bba2ebda2fa9/possessor.jpg?download=true" ,POSSESSOR 2020
+https://cld.pt/dl/download/f1bb2184-9589-439b-b7c5-037ee7e0df88/MrPiracy%20-%20Possessor.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/65480e97-0183-424f-ba4a-cace9db645c7/death%20of%20me.jpg?download=true" ,DEATH OF ME 2020
+https://cld.pt/dl/download/311fc783-6d3e-49c5-9fe6-d030a9be31b3/MrPiracy%20-%20Death%20of%20Me.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/879802c8-ae64-4dbe-ae8d-9a66e5807056/A%20COR%20DE%20AMBI%C3%87%C3%83O.jpg?download=true" ,A COR DE AMBIÇÃO 2020
+https://cld.pt/dl/download/b4cf0ca2-2659-4e29-82a6-b93e158163b9/MrPiracy%20-%20A%20Cor%20da%20Ambi%C3%A7%C3%A3o.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/4abdc6ba-f60c-43e5-9d4d-93aad603ade1/MORTAL.jpg?download=true" ,MORTAL 2020
+https://cld.pt/dl/download/b4cf0ca2-2659-4e29-82a6-b93e158163b9/MrPiracy%20-%20A%20Cor%20da%20Ambi%C3%A7%C3%A3o.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/2272d366-213d-4197-bbb6-44e88609cb14/PEARL.jpg?download=true" ,PEARL 2020
+https://cld.pt/dl/download/9b9b080a-4a21-4516-a268-6d35ca87554f/MrPiracy%20-%20Pearl.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/b23e3c1b-4204-4bb2-b9e7-f06bab83fd06/the%202nd.jpg?download=true" ,THE 2ND
+https://cld.pt/dl/download/5abb69e0-2cd8-4974-95ac-b0553f69248f/MrPiracy%20-%20The%202nd.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/b2d73a77-5b3a-4d1e-bbc1-3b76931c9969/THE%20BRINK.jpg?download=true" ,THE BRINK 2020
+https://cld.pt/dl/download/7cfe4a43-35a5-4f49-b5c1-a4a7b1857209/MrPiracy%20-%20The%20Brink.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/51bda793-5177-4a49-86d2-d1cefca5fbb9/THE%20LOST%20HUSBAND.jpg?download=true" ,THE LOST HUSBAND 2020
+https://cld.pt/dl/download/8e4d4dfe-b9d1-4d7e-b9ca-838e0443c605/MrPiracy%20-%20The%20Lost%20Husband.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/313e6f6d-cea0-4548-8bc2-31c58232e35b/220px-TheNewMutantsPoster.jpeg?download=true" ,THE NEW MUTANTS (2020)
+https://cld.pt/dl/download/3d89998f-2a6c-460c-8733-7fd328cbfd7d/MrPiracy%20-%20Os%20Novos%20Mutantes_2.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/46a54bc5-4f52-4e97-a865-7f6818b6f517/the%20king%20of%20staten%20island.jpg?download=true" ,THE KING OF STATEN ISLAND (2020)
+https://cld.pt/dl/download/89c15214-1e96-4440-a5bd-35f9e6c41f7e/MrPiracy%20-%20The%20King%20of%20Staten%20Island.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/5c207acc-b392-4c56-bd36-2e3d745bb06b/JESUS%202020.jpg?download=true" ,JESUS (2020)
+https://cld.pt/dl/download/db89f836-fd83-4aac-88b3-51f5776b30f1/MrPiracy%20-%20Jesus.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/c76750e2-5b70-48d6-b7ba-8bdbafef1010/allagash%20BLOOD%20AND%20MONEY.jpg?download=true" ,ALLAGASH -  BLOOD AND MONEY (2020)
+https://cld.pt/dl/download/36bbc06c-b39b-4f46-99e1-51af194f2a0e/MrPiracy%20-%20Allagash.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/d2e0969e-c2f3-4f25-b3c1-e714603eac56/BREAKING%20THE%20BEE.jpg?download=true" ,BREAKING THE BEE (2020)
+https://cld.pt/dl/download/efe09c40-7d72-487f-a237-3ac36443a1f8/MrPiracy%20-%20Breaking%20the%20Bee.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/c3879e7f-bd37-43c8-9e54-983f42dc4649/FOR%20THE%20WEEKEND.jpg?download=true" ,FOR THE WEEKEND (2020)
+https://cld.pt/dl/download/490b64dd-a2a7-4c0b-b9d3-ff20a282fcf7/MrPiracy%20-%20For%20the%20Weekend.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/e2e51f9b-d545-4386-b12a-ad708da9b52c/MUTINY%20OF%20THE%20WORKER%20BEES.jpg?download=true" ,MUTINY OF THE WORKER BEES (2020)
+https://cld.pt/dl/download/9dc8bcb9-3ff3-4d18-9138-70c68b532a55/MrPiracy%20-%20Mutiny%20Of%20The%20Worker%20Bees.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/d395657a-3a37-40a8-99b2-bdcdf62652d6/PORNO.jpg?download=true" ,PORNO (2020)
+https://cld.pt/dl/download/1a76abf8-a49e-4193-a88e-16d966273b70/MrPiracy%20-%20Porno.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/17f4fee3-450b-4e60-b80d-7bfb140adcf8/RICOS%20DE%20AMOR.jpg?download=true" ,RICOS DE AMOR (2020)
+https://cld.pt/dl/download/3ef9243c-34a1-4bde-9179-c7c3bbd55f91/MrPiracy%20-%20Ricos%20de%20Amor.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/d2c64fb5-688c-41c0-85c4-4d69a564b37e/SHOOTING%20HEROIN.jpg?download=true" ,SHOOTING HEROIN (2020)
+https://cld.pt/dl/download/4b24c329-9eb1-44c2-a466-81361f31c271/MrPiracy%20-%20Shooting%20Heroin.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/0c2ab0d0-b96e-463f-bdbf-a120d52c8a63/THE%20QUARRY.jpg?download=true" ,THE QUARRY (2020)
+https://cld.pt/dl/download/af461af4-15af-4cbb-9a4e-97f930de462d/MrPiracy%20-%20The%20Quarry.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/3136525a-e97c-4eb4-9a00-2e9dad37d4a4/THE%20VAST%20OF%20NIGHT.jpg?download=true" ,THE VAST OF NIGHT (2020)
+https://cld.pt/dl/download/76d52477-ea57-4047-8c38-704c8391b1ad/MrPiracy%20-%20The%20Vast%20of%20Night.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/e09c2af3-102e-44df-8dc9-40a29eaec7ca/WE%20NEED%20TOT%20ALK%20ABOUT%20art%20int.jpg?download=true" ,WE NEED TO TALK ABOUT A.I (2020)
+https://cld.pt/dl/download/70747925-7c43-4fd8-89b1-a2d425c098c8/MrPiracy%20-%20We%20need%20to%20talk%20about%20A.I..mp4?download=true
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/5fa434b2-6a60-4123-92ae-9adaf2941805/SHIRLEY.jpg?download=true" ,SHIRLEY (2020)
+https://cld.pt/dl/download/34dfee8e-f03f-4811-b26d-3b92a086fcf9/MrPiracy%20-%20Shirley.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/a83fe7f8-8c08-456c-ac1d-e24c2bde8942/THINK%20LIKE%20A%20DOG.jpg?download=true" ,THINK LIKE A DOG (2020)
+https://cld.pt/dl/download/18d364b3-457d-4fcc-bf22-d0297a107e34/MrPiracy%20-%20Think%20Like%20a%20Dog.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/355d74e5-f58e-4c27-bf63-ebe8f4389bc2/THE%20CLARK%20SISTERS.jpg?download=true" ,THE CLARK SISTERS - FIRST LADIES OF GOSPEL (2020)
+https://cld.pt/dl/download/f610fa59-644d-4438-914a-da38a47d59f2/MrPiracy%20-%20The%20Clark%20Sisters-%20First%20Ladies%20of%20Gospel.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/a04d2bdd-32b9-4a24-8994-eef814976a90/FEEL%20THE%20BEAT.jpg?download=true" ,FEEL THE BEAT (2020)
+https://cld.pt/dl/download/ec0d767c-2a53-4418-a24a-fe7da65c0a28/MrPiracy%20-%20Feel%20the%20Beat.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/8233dd2e-4250-42bf-980b-217da062aecf/2%20MINUTES%20OF%20FAME.jpg?download=true" ,2 MINUTES OF FAME (2020)
+https://cld.pt/dl/download/b5f00e66-e9db-492e-be62-1f636293d22a/MrPiracy%20-%202%20Minutes%20of%20Fame.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/9dcf2688-9972-44a2-8066-9ce695262497/ANDERSON%20FALLS.jpg?download=true" ,ANDERSON FALLS (2020)
+https://cld.pt/dl/download/ad2e5d02-9214-4472-87a8-e773fe199a65/MrPiracy%20-%20Anderson%20Falls.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/0c490615-686c-4866-bc45-99757d342d72/TEEN%20TITANS%20GO%20VS%20TEEN%20TITANS.jpg?download=true" ,TEEN TITANS GO VS TEEN TITANS (2020)
+https://cld.pt/dl/download/d4ed28d9-17e9-4d07-adf0-e07413d1ead1/MrPiracy%20-%20Teen%20Titans%20Go%21%20Vs.%20Teen%20Titans_2.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/8b5906fc-08bf-4086-8c84-2e70a895301d/ARTE%20DE%20PASSAR%20O%20TEMPO%20-ART%20OF%20GETTING%20BY.jpg?download=true" ,ARTE DE PASSAR O TEMPO -ART OF GETTING BY (2011)
+https://cld.pt/dl/download/985fda4b-6051-408c-9bbf-600d31721c9b/MrPiracy%20-%20A%20Arte%20de%20Passar%20o%20Tempo.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/39b04ecc-3b1a-4b96-b960-9e9ee98878b9/BROIL.jpg?download=true" ,BROIL (2020)
+https://cld.pt/dl/download/0544b3d7-6946-4e78-9c40-c1e11a0f2550/MrPiracy%20-%20Broil.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/60bfec0c-4d51-45db-a764-ecb2aa596bd3/ENOLA%20HOLMES.jpg?download=true" ,ENOLA HOLMES (2020)
+https://cld.pt/dl/download/0aa7da0e-572f-4a99-8366-176adfff87e1/MrPiracy%20-%20Enola%20Holmes.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/b2afc031-41bf-4672-ab91-56fe258be367/MY%20OCTUPUS%20TEACHER.jpg?download=true" ,MY OCTUPUS TEACHER (2020)
+https://cld.pt/dl/download/489b4c17-07fe-4b8f-a90a-45c54d69d015/MrPiracy%20-%20My%20Octopus%20Teacher.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/973d9088-3069-437a-bfdc-cfd8c096191c/PARALLEL%20MINDS.jpg?download=true" ,PARALLEL MINDS (2020)
+https://cld.pt/dl/download/919921c8-6394-4153-99a4-7a543ab731a1/MrPiracy%20-%20Parallel%20Minds.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/48a0d957-9a69-45f3-8c44-d552d979f148/SNIPER%20ASSASSINS%20END.jpg?download=true" ,SNIPER ASSASSINS END (2020)
+https://cld.pt/dl/download/2b282268-56f6-488f-8398-cbed4841a6a4/MrPiracy%20-%20Sniper-%20Assassin%27s%20End.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/10e5cac5-b723-446a-a7ef-da6679f92682/RAINHA%20DA%20MORTE.jpg?download=true" RAINHA DA MORTE (2020)
+https://cld.pt/dl/download/b095c744-df96-4687-b0bb-a1d4d4c10e0f/MrPiracy%20-%20The%20Babysitter-%20Rainha%20da%20Morte.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/fae06711-988b-43bb-9ec5-4496ceb733bd/THE%20DEVIL%20ALL%20THE%20TIME.jpg?download=true" THE DEVIL ALL THE TIME (2020)
+https://cld.pt/dl/download/8fecc862-7b7e-4c5c-aab5-692ab4a5baf2/MrPiracy%20-%20The%20Devil%20All%20the%20Time.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/351da541-5c4e-4f93-a034-9f98b105e539/THE%20SOCIAL%20DILEMMA.jpg?download=true" ,THE SOCIAL DILEMMA (2020)
+https://cld.pt/dl/download/abd9f3fd-c952-404f-b319-6c37284c04f7/MrPiracy%20-%20The%20Social%20Dilemma.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/2f12824a-84d8-42e6-b089-2fbde5cceb39/ANTEBELLUM.jpg?download=true" ,ANTEBELLUM - A ESCOLHIDA (2020)
+https://cld.pt/dl/download/1671cb8c-f48b-4b3b-947f-2c3ed2b9fc6a/MrPiracy%20-%20Antebellum%20-%20A%20Escolhida.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/55621a03-7057-4998-b95b-8ea6b9c76a39/DUDE%20PERFECTT.jpg?download=true" ,DUDE PERFECT - ENTRE NOS BASTIDORES (2020)
+https://cld.pt/dl/download/563aa95b-931e-4d61-a587-e4f81aadf6fb/MrPiracy%20-%20Dude%20Perfect-%20Entre%20nos%20bastidores.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/d7a8473a-bea4-4543-9707-26fec90819c0/GABRIELS%20INFERNO.jpg?download=true" ,GABRIELS INFERNO (2020)
+https://cld.pt/dl/download/c3d6ac5c-b90d-4186-a862-8be06ee2a442/MrPiracy%20-%20Gabriel%27s%20Inferno.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/fc836e11-c1c8-4454-954e-69f926d6b8a8/HOOKING%20UP.jpg?download=true" ,HOOKING UP (2020)
+https://cld.pt/dl/download/aa3d2c5c-8a3e-467d-8528-081da48fa7c3/MrPiracy%20-%20Hooking%20Up.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/a8db7735-af88-4109-b6ca-fcb536899349/MARS%20ONE%20DAY%20ON%20THE%20RED%20PLANET.jpg?download=true" ,MARS ONE DAY ON THE RED PLANET (2020)
+https://cld.pt/dl/download/cab109f3-f978-459c-856d-4f2fba73bd7d/MrPiracy%20-%20Mars-%20One%20Day%20on%20the%20Red%20Planet.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/6051fea9-1886-41f0-9a49-5e0dbe8e2d34/PRETENDING%20IM%20A%20SUPERMAN%20-%20THE%20TONY%20HAKS%20VIDEO%20GAME%20STORY.jpg?download=true" ,PRETENDING IM A SUPERMAN - THE TONY HAWKS VIDEO GAME STORY (2020)
+https://cld.pt/dl/download/a8aaddd5-806a-4dcc-be3c-2fce946b4331/MrPiracy%20-%20Pretending%20I%27m%20a%20Superman-%20The%20Tony%20Hawk%20Video%20Game%20Story.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/399d6333-f0ec-466a-b04b-6c370bc9f9d1/CORAZON%20LOCO.jpg?download=true" ,SO MUCH LOVE TO GIVE (2020)
+https://cld.pt/dl/download/1c35d68e-26df-46be-8184-da4c3008cb60/MrPiracy%20-%20So%20Much%20Love%20to%20Give.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/dfb32f8f-6564-48d1-bcae-ae1045217c32/STILL%20HERE.jpg?download=true" ,STILL HERE (2020)
+https://cld.pt/dl/download/7b1fc78a-a124-4b90-bf9a-5af8a81a8469/MrPiracy%20-%20Still%20Here.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/0f3cacdc-4043-444d-ba93-66bf33852d8b/TIME%20APART.jpg?download=true" ,TIME APART (2020)
+https://cld.pt/dl/download/7c43aa22-5f6e-4acd-a0f6-47a0f95b9a3d/MrPiracy%20-%20Time%20Apart.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/879802c8-ae64-4dbe-ae8d-9a66e5807056/A%20COR%20DE%20AMBI%C3%87%C3%83O.jpg?download=true" ,A COR DE AMBIÇÃO (2020)
+https://cld.pt/dl/download/b4cf0ca2-2659-4e29-82a6-b93e158163b9/MrPiracy%20-%20A%20Cor%20da%20Ambi%C3%A7%C3%A3o.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/4abdc6ba-f60c-43e5-9d4d-93aad603ade1/MORTAL.jpg?download=true" ,MORTAL (2020)
+https://cld.pt/dl/download/2dff4b2c-7926-4a9f-a441-8bcdef51ae7b/MrPiracy%20-%20Mortal.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/2272d366-213d-4197-bbb6-44e88609cb14/PEARL.jpg?download=true" ,PEARL (2020)
+https://cld.pt/dl/download/9b9b080a-4a21-4516-a268-6d35ca87554f/MrPiracy%20-%20Pearl.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/b23e3c1b-4204-4bb2-b9e7-f06bab83fd06/the%202nd.jpg?download=true" ,THE 2ND (2020)
+https://cld.pt/dl/download/5abb69e0-2cd8-4974-95ac-b0553f69248f/MrPiracy%20-%20The%202nd.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/b2d73a77-5b3a-4d1e-bbc1-3b76931c9969/THE%20BRINK.jpg?download=true" ,THE BRINK (2020)
+https://cld.pt/dl/download/7cfe4a43-35a5-4f49-b5c1-a4a7b1857209/MrPiracy%20-%20The%20Brink.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/51bda793-5177-4a49-86d2-d1cefca5fbb9/THE%20LOST%20HUSBAND.jpg?download=true" ,THE LOST HUSBAND (2020)
+https://cld.pt/dl/download/8e4d4dfe-b9d1-4d7e-b9ca-838e0443c605/MrPiracy%20-%20The%20Lost%20Husband.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Gundala (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohONagShzXKYZ7H9wrwnwQcaF3k.jpg" group-title="PT LANÇAMENTOS",Gundala (2019)
+http://srv01.cdnflix.xyz/PT/FILMES/001/gundala.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Swing of Things (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n18Nnjyl4GUJx2paLNZASRppLkb.jpg" group-title="PT LANÇAMENTOS",The Swing of Things (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/003/No.Balanco.Das.Coisas.2020-PT.mkv
+#EXTINF:-1 tvg-id="" tvg-name="7 Denúncias: As Consequências do Caso COVID-19 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8TMe2p5ENCuIb0tJRb21NRqiHU.jpg" group-title="DOCUMENTÁRIOS",7 Denúncias: As Consequências do Caso COVID-19 (2020)
+http://srv01.cdnflix.xyz/DOCUMENTARIOS/7%20Den%C3%BAncias%20-%20As%20consequ%C3%AAncias%20do%20caso%20COVID%2019%20-%20COMANDOTORRENTS.ORG.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Legacy of Lies (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhNHCeJDFDaB00A46AoCw2mggdE.jpg" group-title="PT LANÇAMENTOS",Legacy of Lies (2020)
+http://exchannels.cfgd.xyz/FILMES/Legacy.of.Lies.2020.1080p.WEBRip.x264-RARBG.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Big Ugly (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXxTJIkjCdNomQBFVqRhrQZTFWI.jpg" group-title="PT LANÇAMENTOS",The Big Ugly (2020)
+http://exchannels.cfgd.xyz/FILMES/The.Big.Ugly.2020.1080p.WEBRip.x264-RARBG.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Banca dos Beijos 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUafkafJiFKkXuzROaAY8N9gGq.jpg" group-title="PT LANÇAMENTOS",A Banca dos Beijos 2 (2020)
+http://exchannels.cfgd.xyz/FILMES/The.Kissing.Booth.2.2020.1080p.WEBRip.x264-RARBG.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Rental (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ynPnBXQVT2Y0s19fDIPlWKUlxH.jpg" group-title="PT LANÇAMENTOS",The Rental (2020)
+http://exchannels.cfgd.xyz/FILMES/The.Rental.2020.1080p.WEBRip.x264-RARBG.mkv
+#EXTINF:-1 tvg-id="" tvg-name="An American Pickle (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ziUp2q71vCmMgYY2MRCwI3mSs5.jpg" group-title="PT LANÇAMENTOS",An American Pickle (2020)
+http://exchannels.cfgd.xyz/FILMES/An.American.Pickle.2020.1080p.WEBRip.x264-RARBG.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Project Power: Descobre o Poder (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38teDX74nsxkv2ysWvNT5EPXQ9E.jpg" group-title="PT LANÇAMENTOS",Project Power: Descobre o Poder (2020)
+http://exchannels.cfgd.xyz/FILMES/Project.Power.2020.1080p.WEBRip.x264-RARBG.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Archive (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDnHgozW8vfOaLHzfpHluf1GZCW.jpg" group-title="PT LANÇAMENTOS",Archive (2020)
+http://exchannels.cfgd.xyz/FILMES/Archive.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Outpost (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPkqY2EMqWUnFEoedukilIUieVG.jpg" group-title="PT LANÇAMENTOS",The Outpost (2020)
+http://exchannels.cfgd.xyz/FILMES/The.Outpost.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Host (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7dZpJDORYs5c56dydbrLFkEXpE.jpg" group-title="PT TERROR",Host (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/007/Host.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sputnik (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68WYQa66FWCrMSI4ZEE8wp1vEV4.jpg" group-title="PT LANÇAMENTOS",The Sputnik (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/001/Sputnik.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ava (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHrcbqdmzVTWkKKd3bQUHFDwhXM.jpg" group-title="PT LANÇAMENTOS",Ava (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/001/Ava.2020.1080p.WEBRip.x264-RARBG.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Sleepover (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsEq7keeEaX24iiBgrbZKCHNhHb.jpg" group-title="PT LANÇAMENTOS",The Sleepover (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/001/The.Sleepover.2020.1080p.WEBRip.x264-RARBG.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Único e Incomparável Ivan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhYD8DZzigOWgqS7TgYBWkiACSH.jpg" group-title="PT LANÇAMENTOS",O Único e Incomparável Ivan
+http://srv01.cdnflix.xyz/PT/FILMES/001/The.One.and.Only.Ivan.2020.1080p.WEBRip.x264-RARBG.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rogue (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOw5JD8IlD546feZ6oxbIjvN66P.jpg" group-title="PT LANÇAMENTOS",Rogue (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/001/Rogue.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tesla (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0guO0krvyz8IfKGxEje04LVM9d.jpg" group-title="PT LANÇAMENTOS",Tesla (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/001/Tesla.2020.1080p.WEBRip.x264-RARBG.mkv
+#EXTINF:-1 tvg-id="" tvg-name="반도 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGVUiqnahQ4ZZRchGRpO2SyhtQY.jpg" group-title="PT LANÇAMENTOS",반도 (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/001/Train.to.Busan.2.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hard Kill (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugZW8ocsrfgI95pnQ7wrmKDxIe.jpg" group-title="PT LANÇAMENTOS",Hard Kill (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/001/Hard.Kill.2020.1080p.WEBRip.x264-RARBG.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One Night in Bangkok (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqfpfHYmJWhRhrXJDq7p6Jg9uvy.jpg" group-title="PT LANÇAMENTOS",One Night in Bangkok (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/001/One.Night.in.Bangkok.2020.1080p.WEBRip.x264-RARBG.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Z-O-M-B-I-E-S 2 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frTwEqSMWQ27oQeuiBO5PT0ZNqq.jpg" group-title="INFANTIL ÁUDIO PT",Z-O-M-B-I-E-S 2 
+http://srv01.cdnflix.xyz/PT/FILMES/004/Zombies2.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fearless: O Jogador Sem Medo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oQJ6HeNGWnEtP9Qyt5IZjuKI7j.jpg" group-title="INFANTIL ÁUDIO PT",Fearless: O Jogador Sem Medo (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/004/Fearless.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Magic School Bus Rides Again: Kids in Space (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWQ6Q47PiO8mpfSsPbNzKiUVQRX.jpg" group-title="INFANTIL ÁUDIO PT",The Magic School Bus Rides Again: Kids in Space (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/004/acarrinhamagica.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Orígenes secretos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyh3SxebLWcNTjXV99RccHfAsOA.jpg" group-title="PT LANÇAMENTOS",Orígenes secretos (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/001/Unknown.Origins.2020.SPANISH.1080p.WEBRip.x264-VXT.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deep Blue Sea 3 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iK3Nqzqbp0HL7Mbnm3hKOsldxjn.jpg" group-title="PT LANÇAMENTOS",Deep Blue Sea 3 (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/001/Deep.Blue.Sea.3.2020.720p.BluRay.H264.AAC-RARBG.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Valhalla - A Lenda de Thor (2019) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oD7ujF444E6lMnqnf8MqwNIpyc.jpg" group-title="PT AVENTURA",Valhalla - A Lenda de Thor (2019) 
+http://srv01.cdnflix.xyz/PT/FILMES/006/A.Lenda.de.Thor.2020.PT.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Segredos de Família (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bO286qILThD7zNbQ26rWjE87i0V.jpg" group-title="PT LANÇAMENTOS",Segredos de Família (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/002/Crimes.de.Fam%C3%ADlia.2020.PT.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mulan (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r41smy5WwN2Swes8PwahhWRQvCU.jpg" group-title="PT LANÇAMENTOS",Mulan (2020)
+http://exchannels.cfgd.xyz/FILMES/mulan.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tudo Acaba Agora (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ynWWapdl45hJXUh0KIevxSG9JQ.jpg" group-title="PT LANÇAMENTOS",Tudo Acaba Agora (2020)
+http://exchannels.cfgd.xyz/FILMES/Im.Thinking.of.Ending.Things.2020.1080p.WEBRip.x264-RARBG.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mulan PT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAoopZZ0tNFFYnOIsOr1wpRbdx7.jpg" group-title="INFANTIL ÁUDIO PT",Mulan PT
+http://p2p1.maxvod.club/FILMES/mulanpt.mkv
+#EXTINF:-1 tvg-id="" tvg-name="#Alive (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7hWnjMdqTYYI78yeCD3moObbRK.jpg" group-title="PT LANÇAMENTOS",#Alive (2020)
+http://exchannels.cfgd.xyz/FILMES/alive.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Social Dilemma (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VAXS2hbKwCKd3DEz57Cr6ch61s.jpg" group-title="DOCUMENTÁRIOS",The Social Dilemma (2020)
+http://exchannels.cfgd.xyz/FILMES/The.Social.Dilemma.2020.WEBRip.x264-ION10.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Owners (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzFatNrw0lhKD5NxaU6zC7S2KjP.jpg" group-title="PT LANÇAMENTOS",The Owners (2020)
+http://p2p1.maxvod.club/FILMES/The.Owners.2020.1080p.WEBRip.x264-RARBG.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The War with Grandpa (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bf0iXmSvZdJitc3kCJQpba26RoO.jpg" group-title="PT LANÇAMENTOS",The War with Grandpa (2020)
+http://p2p1.maxvod.club/FILMES/War.With.Grandpa.2020.1080p.WEBRip.x264-RARBG.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bill & Ted Face the Music" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3thpx68QtipIZfPttolF3aB50nQ.jpg" group-title="PT LANÇAMENTOS",Bill & Ted Face the Music
+http://p2p1.maxvod.club/FILMES/Bill.and.Ted.Face.the.Music.2020.1080p.WEBRip.x264-RARBG.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Santana " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Rj8l6gElLpRL7Kj17iZhrT5Zuw.jpg" group-title="PT LANÇAMENTOS",Santana 
+http://p2p1.maxvod.club/FILMES/Santana.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Secret Garden " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHIgpy7yAyqxQx79PtvqEoiXuk8.jpg" group-title="PT LANÇAMENTOS",The Secret Garden 
+http://p2p1.maxvod.club/FILMES/The.Secret.Garden.mp4
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/0oWdc2U.jpg" group-title="FILMES",  Rogue.2020[COLOR yello][I][B][COLOR lime]»»[/COLOR] [/I][/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e66d84391fd82ede77762f4be0c26af008b12361&amp
+
+#EXTINF:-1 tvg-id="" tvg-name="Patton" tvg-logo="https://cld.pt/dl/download/45a14794-cfc1-432d-91ff-08a23ccdfc13/PATTON.jpg?download=true" ,Patton
+https://cld.pt/dl/download/9eb144c7-a6c4-41b9-8167-d7d10cf88995/MrPiracy%20-%20Patton.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="Journey to China: The Mystery of Iron Mask "4k"" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcL5wrC07KdaUlkLJisaRAJ4J0M.jpg" ,Journey to China: The Mystery of Iron Mask "4k"
+http://srv01.cdnflix.xyz/PT/FILMES/001/ironmask.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Amulet (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEVyAkEkpwpfyx4oZMg22A8ivDI.jpg" ,Amulet (2020)
+http://exchannels.cfgd.xyz/FILMES/Amulet.2020.1080p.WEBRip.x264-RARBG.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Legacy of Lies (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhNHCeJDFDaB00A46AoCw2mggdE.jpg" ,Legacy of Lies (2020)
+http://exchannels.cfgd.xyz/FILMES/Legacy.of.Lies.2020.1080p.WEBRip.x264-RARBG.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Big Ugly (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXxTJIkjCdNomQBFVqRhrQZTFWI.jpg" ,The Big Ugly (2020)
+http://exchannels.cfgd.xyz/FILMES/The.Big.Ugly.2020.1080p.WEBRip.x264-RARBG.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="A Banca dos Beijos 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUafkafJiFKkXuzROaAY8N9gGq.jpg" ,A Banca dos Beijos 2 (2020)
+http://exchannels.cfgd.xyz/FILMES/The.Kissing.Booth.2.2020.1080p.WEBRip.x264-RARBG.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Rental (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ynPnBXQVT2Y0s19fDIPlWKUlxH.jpg",The Rental (2020)
+http://exchannels.cfgd.xyz/FILMES/The.Rental.2020.1080p.WEBRip.x264-RARBG.mkv
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/491fb882-72a3-4681-a2b2-d6fbbcc0b0bf/BLOOD%20AND%20MONEY.jpg?download=true" ,BLOOD AND MONEY 2020
+https://cld.pt/dl/download/0231acd2-f908-4043-b918-527f670d60c3/MrPiracy%20-%20Allagash.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="Missão Greyhound" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGucWAQihY1nUKxIQKnBw62iS27.jpg" ,MISSÃO GREYHOUND 2020
+http://srv01.cdnflix.xyz/PT/FILMES/001/Greyhound.1080p.ATVP.WEB-DL.DDP5.1.H.264-EVO.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="A Velha Guarda (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg" ,THE OLD GUARD - A VELHA GUARDA 2020
+http://srv01.cdnflix.xyz/PT/FILMES/001/The.Old.Guard.2020.1080p.WEBRip.x264-RARBG.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="True History of the Kelly Gang (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y30AxTVrQUVKlokjz1TR0m5ISoY.jpg" ,TRUE HISTORY OF THE KELLY GANG 2020
+http://srv01.cdnflix.xyz/PT/FILMES/001/501395.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Desperados (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0aJ42yUp5pS4MdPKP69VRZ2Gkp.jpg" ,DESPERADOS 2020
+http://srv01.cdnflix.xyz/PT/FILMES/001/Desperados.2020.1080p.WEBRip.x264-RARBG.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Personal History of David Copperfield (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2epgo9k2Jrs7qrTL1Rork1mDSKT.jpg" ,THE PERSONAL HISTORY OF DAVID COPPERFILED 2020
+http://srv01.cdnflix.xyz/PT/FILMES/001/The.Personal.History.of.David.Copperfield.2019.1080p.BluRay.H264.AAC-RARBG.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="I Am Vengeance: Retaliation (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fshqvFBihzipvA5l9hwHQVuZCNG.jpg" ,I AM VENGEANCE RETALIATION 2020
+http://srv01.cdnflix.xyz/PT/FILMES/001/I.Am.Vengeance.Retaliation.2020.1080p.WEBRip.x264-RARBG.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Proximity (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nto7dx8vmqESDU484huGoSt4o48.jpg" ,PROXIMITY 2020
+http://srv01.cdnflix.xyz/PT/FILMES/001/Proximity.2020.720p.BluRay.H264.AAC-RARBG.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Last Days of American Crime (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMtQESeS33j8QGOUJGxOyHyyMp5.jpg" ,THE LAST DAYS OF AMERICAN CRIME 2020
+http://srv01.cdnflix.xyz/PT/FILMES/001/The.Last.Days.of.American.Crime.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Artemis Fowl (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avb3THg1FTxBc79h2QECsuwjujY.jpg" ,Artemis Fowl (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/001/Artemis.Fowl.mkv
+
+EXTINF:-1 tvg-id="" tvg-name="Da 5 Bloods: Irmãos de Armas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yx4cp1ljJMDSFeEex0Zjv45b55E.jpg" ,Da 5 Bloods: Irmãos de Armas (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/001/Da.5.Bloods.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Radioactive (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PzHJD9RfcFY4D8AisGqHdN6RIA.jpg" ,Radioactive (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/001/Radioactive.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Debt Collectors (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcWNH4CLkQV5RSwKmpObmXmOklJ.jpg" ,Debt Collectors (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/001/The.Debt.Collectors.2.2020.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Becky (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqbQtMffXwa3oprse4jiHBMBvdW.jpg" ,Becky (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/001/Becky.2020.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Lost Transmissions (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8pqvbXqkruyyt1u4TWUtxZw59et.jpg" group-title="GERMAN MOVIES",Lost Transmissions (2020)
+http://srv01.cdnflix.xyz/DE/FILMES/Lost-Transmissions.avi
+
+#EXTINF:-1 tvg-id="" tvg-name="You Should Have Left (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Gi9ZA4kRKKsWguUoTvIyj40dxF.jpg" ,You Should Have Left (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/001/You.Should.Have.Left.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Wasp Network: Rede de Espiões (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SB4VhtTOER8VfeFPCA0HbnTsPN.jpg" ,Wasp Network: Rede de Espiões (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/001/Wasp.Network.2019.1080p.WEBRip.x264-RARBG.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Festival Eurovisão da Canção: A História dos Fire Saga (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zrbgYyFvwH8sy5mv9eT25xsAzL.jpg" ,Festival Eurovisão da Canção: A História dos Fire Saga (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/001/Eurovision.Song.Contest.The.Story.of.Fire.Saga.mkv
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="The Flood (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdCAcvDetLbFnCq6XkjmMjfxK5n.jpg" ,The Flood (2019)
+http://srv01.cdnflix.xyz/PT/FILMES/001/The.Flood.2019.WEB-DL.x264-FGT.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Force of Nature (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fN3J7yMRKzMxSBgVhS6AIgBF9ji.jpg" ,Force of Nature (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/001/Force.of.Nature.2020.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Avanpost" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sWmX2mqhPOCEtFteX5pC7dZYPk.jpg" ,Avanpost
+http://srv01.cdnflix.xyz/PT/FILMES/001/the.blackout2019.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="7500 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrW048JoWofimI5AKXDTBzvxqRr.jpg" ,7500 (2019)
+http://srv01.cdnflix.xyz/PT/FILMES/001/7500.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Infamous (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2lkJf1TAjImTHCEO7XvbqPtnPb.jpg" ,Infamous (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/001/Infamous.2020.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Harriet  (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFfn2PISJ8u4Ui45kIY6vASEHjq.jpg" ,Harriet  (2019)
+http://srv01.cdnflix.xyz/PT/FILMES/005/Harriet.2019.720p.BluRay.x264.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Inheritance (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXPjfu3ONgUMmN73Ot0d2RXLJbp.jpg" ,Inheritance (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/001/Inheritance.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="A Good Woman Is Hard to Find (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYzE9LFVN8PkNv0XPzKDPTZibAP.jpg" ,A Good Woman Is Hard to Find (2019)
+http://srv01.cdnflix.xyz/PT/FILMES/001/A.Good.Woman.Is.Hard.to.Find.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="A Perfect Plan (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wah4b3hDb3ueVNuwNxdplUE8ppQ.jpg" ,A Perfect Plan (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/001/A.Perfect.Plan.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Pinocchio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayPQsJFr0EwyoPYunQ6riYclGYn.jpg" ,Pinocchio 
+http://srv01.cdnflix.xyz/PT/FILMES/001/Pinocchio.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Last Days of American Crime (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMtQESeS33j8QGOUJGxOyHyyMp5.jpg" ,The Last Days of American Crime (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/001/The.Last.Days.of.American.Crime.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Debt Collectors (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcWNH4CLkQV5RSwKmpObmXmOklJ.jpg" ,Debt Collectors (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/001/The.Debt.Collectors.2.2020.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="365 Dias (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibaDBJBAvWd4J5lzfbpq1PJ6ZU1.jpg" ,365 Dias (2020)
+http://srv01.cdnflix.xyz/PT/FILMES/001/365Dias.mkv
+
+....
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/491fb882-72a3-4681-a2b2-d6fbbcc0b0bf/BLOOD%20AND%20MONEY.jpg?download=true" ,BLOOD AND MONEY 2020
+https://cld.pt/dl/download/0231acd2-f908-4043-b918-527f670d60c3/MrPiracy%20-%20Allagash.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/4d071f08-ca20-4eda-a7fb-fb3b07984fad/BOB%20RUBIN.jpg?download=true" ,BOB RUBIN - ODDITIES AND RARITIES 2020
+https://cld.pt/dl/download/eb0bd13b-cb8d-40c3-988b-4d7d3ad1dd7b/MrPiracy%20-%20Bob%20Rubin-%20Oddities%20and%20Rarities.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/153a17d1-9c44-47c5-b4a8-3ef53d099209/BODY%20CAM.jpg?download=true" ,BODEY CAM 2020
+https://cld.pt/dl/download/7204f403-0f35-4529-9df4-4bcbf5c8f7dd/MrPiracy%20-%20Body%20Cam.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/d51a813f-aab9-4386-97e1-7d3b923cac2f/HOME%20SWEET%20HOME.jpg?download=true" ,HOME SWEET HOME 2020
+https://cld.pt/dl/download/40661500-cbe7-4160-b8ec-fb304b2af168/MrPiracy%20-%20Home%20Sweet%20Home.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/cc82337b-282c-493e-8439-34e3770a0c3e/INHERITANCE.jpg?download=true" ,INHERITANCE 2020
+https://cld.pt/dl/download/b527927f-0b85-45dd-86ab-7528cbee133a/MrPiracy%20-%20Inheritance.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/5433c3c3-d90a-49dc-b84a-e52f9a644c0b/MOTHERS%20OF%20MONSTERS.jpg?download=true" ,M.O.M - MOTHERS OF MONSTERS 2020
+https://cld.pt/dl/download/f864de10-9127-481a-8b76-4de26dce5a1f/MrPiracy%20-%20M.O.M.%20Mothers%20of%20Monsters.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/0b450948-1d8b-45b5-a59d-bc483c98c9ea/LOVEBIRDS.jpg?download=true" ,LOVEBIRDS 2020
+https://cld.pt/dl/download/3582cc52-5ca8-4f8d-b5bf-c0fd7489e0fe/MrPiracy%20-%20Os%20Pombinhos.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/7df19b22-e1d4-416d-86de-c3f6327fddb1/SURVIVE%20THE%20NIGHT.jpg?download=true" ,SURVIVE THE NIGHT 2020
+http://srv01.cdnflix.xyz/PT/FILMES/001/Survive.the.Night.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/12a2732c-abe1-4287-a3dd-db6cf506a26c/A%20PERFECT%20PLAN.jpg?download=true" ,A PERFECT PLAN 2020
+https://cld.pt/dl/download/86330635-ea19-4a49-897f-01a8b5aae7f1/MrPiracy%20-%20A%20Perfect%20Plan.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/5263703b-767d-4b96-8ee6-ddba94c480d5/VALLEY%20GIRL.jpg?download=true" ,VALLEY GIRL 2020
+https://cld.pt/dl/download/cee21bdf-14d2-4113-91d4-bceabd5b8eff/MrPiracy%20-%20Valley%20Girl.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/c6232f41-8c91-4a7c-afd9-1eeb420372ba/CALM%20WITH%20HORSES.jpg?download=true" ,CALM WITH HORSES 2020
+https://cld.pt/dl/download/5afdd2e8-6314-4e3a-9055-61ea39c1568a/MrPiracy%20-%20Calm%20with%20Horses.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/f1bf48a5-ae2b-4d45-9c0c-aa051b7fe110/BEN%20PLATT.jpg?download=true" ,BEN PLATT 2020
+https://cld.pt/dl/download/4100d5dd-10e9-48fc-b95f-4c4b31fc28c6/MrPiracy%20-%20Ben%20Platt-%20Live%20from%20Radio%20City%20Music%20Hall.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/86ab014b-2ef6-4281-8311-1efc0e7f44d2/WENDY.jpg?download=true" ,WENDY 2020
+https://cld.pt/dl/download/db88bb6b-0d7b-495c-baf2-5bdd9eb295f7/MrPiracy%20-%20Wendy.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/3634fb99-133e-498f-8b7e-f3fd5ed6c69d/THE%20NIGHT%20CLERK.jpg?download=true" ,THE NIGHT CLERK 2020
+https://cld.pt/dl/download/d00f7ecc-4edd-4239-87cc-618c883881ab/MrPiracy%20-%20The%20Night%20Clerk.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/213d05a1-a3ec-4c5d-9ea3-91c42554fa17/CAPONE.jpg?download=true" ,CAPONE 2020
+https://cld.pt/dl/download/0f9ccdf2-6c4f-4c49-bbbe-c501b47780b2/MrPiracy%20-%20Capone.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/b911fcb7-03aa-4651-a8eb-f6c8091785a8/THE%20PHOTOGRAPH%202020.jpg?download=true" , THE PHOTOGRAPH 2020
+https://cld.pt/dl/download/3666e359-6f40-46aa-abfb-c1b6051a8868/MrPiracy%20-%20A%20Fotografia.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/49e38cd8-62cf-490e-bdd8-5d7d0903b2e8/BIG%20TIME%20ADOLESCENCE%202019.jpg?download=true" , BIG TIME ADOLESCENCE 2019
+https://cld.pt/dl/download/27651068-d46f-445a-9858-3e2d6f96498d/MrPiracy%20-%20Big%20Time%20Adolescence.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/a4c3f641-91b1-4f8a-816e-05bb54c34e7f/SCOOBY%202020.jpg?download=true" , SCOOBY DOO 2020
+https://cld.pt/dl/download/4947814f-a24f-4052-9b87-d402f6e65e17/MrPiracy%20-%20Scooby%21.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/98031307-231c-483d-9a29-ae3210a321f0/THE%20LEGION%202020.jpg?download=true" , THE LEGION 2020
+https://cld.pt/dl/download/afccd1c7-b971-495a-9cbd-1cc9796b17f6/MrPiracy%20-%20The%20Legion.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/a35043e8-8c92-4947-8d64-6d8688712147/HAVE%20A%20GOOD%20TRIP.jpg?download=true" , HAVE A GOOD TRIP 2020
+https://cld.pt/dl/download/571c6c36-a64d-4c0d-a4a8-5d084f878114/MrPiracy%20-%20Have%20a%20Good%20Trip-%20Adventures%20in%20Psychedelics.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/f4ae6e3c-f936-4771-814d-05dde7fb656a/18%20PRESENTS%202020.jpg?download=true" , 18 PRESENTS 2020
+https://cld.pt/dl/download/b500df73-6777-4730-8f3d-7a7465e93260/18%20Presents.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/6b37305a-dc6c-49f4-b8e0-c07f8cb652ab/ABE%202019.jpg?download=true" , ABE 2019
+https://cld.pt/dl/download/7bd430b0-95d2-4e85-96ce-2e282fa23bf5/Abe.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/610e1ce6-d6ff-4896-935f-64451318f633/NATALIE%20WOOD%202020.jpg?download=true" , NATALIE WOOD - WHAT REMAINS BEHIND 2020
+https://cld.pt/dl/download/8126f2e4-9458-4c7c-8d89-8dcab00d31c4/Natalie%20Wood-%20What%20Remains%20Behind.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/03aa466c-b404-46a0-a5de-2ef3c7f5c9c0/STOLEN%20SEASON.jpg?download=true" , STOLEN SEASON 2020
+https://cld.pt/dl/download/c61e84c7-47f8-4261-84de-8d3f6f26e66e/Stolen%20Season.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/494cf7e3-f2df-4267-91cf-3f3cfb21aeaf/TRIGGER%20POINTS.jpg?download=true" , TRIGGER POINTS 2020
+https://cld.pt/dl/download/97f98ca5-f83c-4a55-9479-3e7f705bc1b2/Trigger%20Points.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/f50cfbe5-e04c-4bd3-8d8f-0f442273fac1/THE%20WRONG%20MISSY%202020.jpg?download=true" , THE WRONG MISSY 2020
+https://cld.pt/dl/download/e23db4dc-bc7b-4a1c-b8b8-0e561b116e3c/The%20Wrong%20Missy.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/7bec15ca-dab7-42c1-818a-8516751345b9/THE%20ASSISTANT%202019.jpg?download=true" , THE ASSISTANT 2019
+https://cld.pt/dl/download/6edece5a-9528-4ade-830c-615f35e8e76c/MrPiracy%20-%20The%20Assistant.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/4a9da7d5-0440-44ee-b23a-3a9b29f40667/THE%20WRETCHED%202020.jpg?download=true" , THE WRETCHED 2020
+https://cld.pt/dl/download/3b6088f1-c8ef-497c-8c29-82360164f68b/MrPiracy%20-%20The%20Wretched.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/457b8aa5-f230-4cd5-840c-d507ff1d5040/BECOMING%20DEVENIR%202020.jpg?download=true" ,BECOMING  DEVENIR 2020
+https://cld.pt/dl/download/ab4e1425-4153-4b40-ae06-2e2cabdbbf7f/MrPiracy%20-%20Devenir.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/f6c1e653-c0cd-4c26-ab3b-2a862f83e2c2/IN%20THE%20TRAP%202019.jpg?download=true" , IN THE TRAP 2019
+https://cld.pt/dl/download/d0217b7a-0270-4cd1-9102-3ca0b31f79b0/MrPiracy%20-%20In%20the%20Trap.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/74682444-b92e-4244-b236-1fbcd02b0f8e/JERRY%20SEINFELD%20-%2023%20HOURS%20TO%20KILL%202020.jpg?download=true" , JERRY SEINFELD - 23 HOURS TO KILL 2020
+https://cld.pt/dl/download/ced81fdf-3cc2-4bf6-bd3c-c036a98ae9ad/MrPiracy%20-%20Jerry%20Seinfeld-%2023%20Hours%20To%20Kill.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/767bf6d6-3566-486f-a9c3-689e91c54495/RUN%20THIS%20TOWN%202019.jpg?download=true" , RUN THIS TOWN 2020
+https://cld.pt/dl/download/28623785-97e6-4ea9-8d40-dbf2760a2cc3/MrPiracy%20-%20Run%20This%20Town.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/6dccf5da-afc0-4e96-a32e-d0f8c9ea9f0a/THE%20BOY%202%202020.jpg?download=true" ,THE BOY 2 - A MALDIÇÃO DE BRAHMS 2020
+https://cld.pt/dl/download/89775869-130b-4f87-9e49-68c36b06774f/MrPiracy%20-%20The%20Boy%20-%20A%20Maldi%C3%A7%C3%A3o%20de%20Brahms.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/3456e42e-a61b-4be2-9c4d-e9c997d16b83/TROLLS%20WORLD%20TOUR%20%28AUDIO%20INGL%C3%8AS%29%202020.jpg?download=true" ,TROLLS WORLD TOUR (INGLÊS) 2020
+https://cld.pt/dl/download/6f1c59fc-8ab9-4c1c-adf1-c9fa24c9cd99/Trolls%20World%20Tour.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/4bb9f367-c437-4e16-af60-8e7d34e865ff/THE%20WHISTLERS%202019.jpg?download=true" ,THE WHISTLERS 2019
+https://cld.pt/dl/download/6f002bc4-6993-43db-a3a6-c9f06e36e96d/A%20Ilha%20dos%20Silvos.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/3efb35a5-154c-415f-8844-ba59fae78e02/ALIEN%20OUTBREAK%202020.jpg?download=true" ,ALIEN OUTBREAK 2020
+https://cld.pt/dl/download/54820e8c-b17f-4121-a9ab-0a6f0bfb5b56/Alien%20Outbreak.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/1e93f4d1-69dc-432c-a8a2-308e10b8360d/ALL%20DAY%20AND%20A%20NIGHT%202020.jpg?download=true" ,ALL DAY AND A NIGHT 2020
+https://cld.pt/dl/download/60ab473a-5306-4932-bf5f-410bde0cae13/All%20Day%20and%20a%20Night_2.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/acc763f1-32b2-4f5e-bf38-ea4f1a97c7a8/THE%20LOST%20HUSBAND%202020.jpg?download=true
+" ,THE LOST HUSBAND 2020
+https://cld.pt/dl/download/12025bd1-3bf6-485e-9515-8ffbfdfdcf6f/The%20Lost%20Husband.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/02959294-6d0e-40fa-91fd-4b82023a8cd6/THE%20CHALLENGER%20DISASTER%202019.jpg?download=true" ,THE CHALLENGER DISASTER 2019
+https://cld.pt/dl/download/8df4cb54-e18a-4228-b65a-c6e00eba5402/The%20Challenger%20Disaster.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/b44ae824-42d2-438d-ac74-2194dec82a23/bad%20trip%202020.jpg?download=true" ,BAD TRIP 2020
+https://cld.pt/dl/download/49b5021e-ff06-48fb-9980-ec8bb29064cc/MrPiracy%20-%20Bad%20Trip.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/c1e55490-5dae-4184-a0b8-99507632a2d7/CLEMENCY%202019.jpg?download=true" ,CLEMENCY 2019
+https://cld.pt/dl/download/bb141283-5b51-4ac2-a232-956f098ee136/MrPiracy%20-%20Clemency.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/745bbb6f-f71d-4961-ac9b-a2431b400e46/DREAMKATCHER%202020.jpg?download=true" ,DREAMKATCHER 2020
+https://cld.pt/dl/download/a2bfcf07-0538-4755-ba89-d04e99beaf3e/MrPiracy%20-%20Dreamkatcher.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/bf47c619-6762-442c-b676-2fed73c6589e/LA%20ORIGINALS%202020.jpg?download=true" ,LA ORIGINALS 2020
+https://cld.pt/dl/download/200ce0b1-c105-4caa-9841-449ee0308043/MrPiracy%20-%20LA%20Originals.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/5094f18d-b3fb-482b-910f-fafdf6cd6697/MENTIRAS%20PERIGOSAS%202020.jpg?download=true" ,DANGEROUS LIES - MENTIRAS PERIGOSAS 2020
+https://cld.pt/dl/download/3ab45ca9-d629-4062-ad16-2d9bc4689a86/MrPiracy%20-%20Mentiras%20Perigosas_2.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/19036858-1f76-4892-a96f-a5fc34fabcae/MURDER%20TO%20MERCY%20%281%29.jpg?download=true" ,MURDER TO MERCY - THE CYNTOIA BROWN STORY 2020
+https://cld.pt/dl/download/c7d2cac9-f713-4940-98b1-d2970636708d/MrPiracy%20-%20Murder%20to%20Mercy-%20The%20Cyntoia%20Brown%20Story_2.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/cf875b76-742b-4845-927a-3d11d17f07e1/O%20MATADOR.jpg?download=true" ,O MATADOR 2017
+https://cld.pt/dl/download/88c0edb6-69bd-4376-b9a2-3dafbfb2818a/MrPiracy%20-%20O%20Matador.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/a67e5ded-c53e-4997-b216-22e36816e5d2/SE%20TU%20SOUBESSES%20-%20THE%20HALF%20OF%20IT.jpg?download=true" ,THE HALF OF IT - SE TU SOUBESSES 2020
+https://cld.pt/dl/download/a38255d8-d432-4269-b147-cbf673044f1e/MrPiracy%20-%20Se%20Tu%20Soubesses....mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/d472c3ba-e308-43b9-a511-e948af0868e6/THE%20LODGE%202019.jpg?download=true" ,THE LODGE 2019
+https://cld.pt/dl/download/82adcff9-f9e5-4f89-8e75-177363c6ac53/MrPiracy%20-%20The%20Lodge.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/a9cabe75-b811-4c57-b504-f43e007429f8/BEASTIE%20BOYS%20STORY%202020.jpg?download=true" ,BEASTIE BOYS STORY 2020
+https://cld.pt/dl/download/7d499ca9-e7fc-4760-843b-185b5e8d5944/MrPiracy%20-%20Beastie%20Boys%20Story.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/a896d0c9-faf9-483f-9b37-4d6cf95cfcd0/BAD%20THERAPY%202020.jpg?download=true" ,BAD THERAPY 2020
+https://cld.pt/dl/download/b69aa301-c0d6-4e4b-9584-8feb50cad9c7/MrPiracy%20-%20Bad%20Therapy.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/a3ddbb7f-5e0f-4bfa-baac-c3177e7e5ad2/THE%20ROADS%20NOT%20TAKEN%202020.jpg?download=true" ,THE ROADS NOT TAKEN 2020
+https://cld.pt/dl/download/0775ade9-7068-473c-aea3-34a824030d4d/MrPiracy%20-%20The%20Roads%20Not%20Taken_2.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/ab48b16d-80ff-4e28-ae99-26ef8773fd8f/HAPINESS%20CONTINUES%202020.jpg?download=true" ,HAPPINESS CONTINUES - A JONAS BROTHERS CONCERT FILM 2020
+https://cld.pt/dl/download/e515fb97-12ca-41ad-9213-e9d81617f263/MrPiracy%20-%20Happiness%20Continues-%20A%20Jonas%20Brothers%20Concert%20Film.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/63c46ee6-5394-4b2d-a8c9-480738139ef4/TIME%20TO%20HUNT%202020.jpg?download=true" ,TIME TO HUNT 2020
+https://cld.pt/dl/download/22674a91-ca49-434b-8b20-31eec928c332/MrPiracy%20-%20Time%20to%20Hunt.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/195a9d4f-269a-4d6f-8c0b-f41173ea2744/TORN%20-%20DARK%20BULLETS%202020.jpg?download=true" ,TORN DARK BULLETS 2020
+https://cld.pt/dl/download/da81626c-a019-47d9-a2d6-e1a217610e1d/MrPiracy%20-%20Torn-%20Dark%20Bullets.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/2b239207-1edc-4b76-b104-62449ed1ea73/SPACE%202020.jpg?download=true" ,SPACE 2020
+https://cld.pt/dl/download/8f73f777-2684-4984-a59b-b5f41d69b7e1/Space.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/01584b59-8ffa-43ea-afb1-fe5ba1fed992/YOURS%20SINCERELY.jpg?download=true" ,YOURS SINCERELY KANAN GILL 2020
+https://cld.pt/dl/download/f7551da9-ba0f-4326-bbd3-cdcd77989975/Yours%20Sincerely%2C%20Kanan%20Gill.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/d8828790-f128-4f0a-84c9-f2a826cfdf51/NIGHTMARE%20RADIO%202019.jpg?download=true" ,A NIGHT OF HORROR - NIGHTMARE RADIO 2019
+https://cld.pt/dl/download/2d3f5e2d-515c-4efd-8613-af56767a77c4/A%20Night%20of%20Horror-%20Nightmare%20Radio.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/205f61d3-d3e4-4f4e-b9da-6c1a11500ed6/ASSASSIN%2033%20AD%202020.jpg?download=true" ,ASSASSIN 33 AD 2020
+https://cld.pt/dl/download/74ef2a19-8dcc-40c9-ab1a-a124a56d43f5/Assassin%2033%20A.D..mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/d08b0ef6-d0c9-473e-af74-8c92401cae44/CIRCUS%20OF%20BOOKS%202019.jpg?download=true",CIRCUS OF BOOKS 2019
+https://cld.pt/dl/download/7e863660-7cf9-49e6-bf2f-8a6dca55c4e7/Circus%20of%20Books.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/738abfa8-350a-4b64-a767-b071fcf55f67/THE%20SILENCE%20OF%20THE%20MARSH%202019.jpg?download=true" ,THE SILENCE OF THE MARSH (EL SILÊNCIO DEL PLANTANO) 2019
+https://cld.pt/dl/download/03a993cd-36bb-4920-b619-294c63bda5bd/El%20silencio%20del%20pantano.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/815e54dd-413f-457d-9bf9-45f0eba618f6/CAPTAIN%20PHILLIPS.jpg?download=true" ,CAPTAIN PHILLIPS 2013
+https://cld.pt/dl/download/1b2db15a-5eac-479c-8a6c-203a34e88175/Capit%C3%A3o%20Phillips.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/2d93f14d-c4fb-464f-aa26-41943a9ff265/ENDINGS%20BEGINNINGS%202020.jpg?download=true" ,ENDINGS BEGINNINGS 2020
+https://cld.pt/dl/download/f743de2f-b10e-4e32-b004-9cce7e0afde5/Endings%2C%20Beginnings.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/667c27d9-11fb-4e29-aa2e-3e61a3c6aeb3/FINAL%20KILL%202020.jpg?download=true" ,FINAL KILL 2020
+https://cld.pt/dl/download/1a843d0a-3bfd-42ea-a628-bcaeb6f61828/Final%20Kill.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/dd2bde7d-6b6a-4419-95c5-7293efc5c223/I%20AM%20FEAR%202020.jpg?download=true" ,I AM FEAR 2020
+https://cld.pt/dl/download/461cb81c-ca5d-4ad1-b758-0a622ee66125/I%20Am%20Fear.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/862ab955-9e5f-4553-a870-4d338910d879/RISING%20HIGH%202020.jpg?download=true" ,RISING HIGH 2020
+https://cld.pt/dl/download/0fc60a91-f402-4d89-9213-53124dcc5364/Rising%20High.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/091f0509-8139-4bbd-afef-24e99a9ecd1b/THE%20FITTEST%202020.jpg?download=true" ,THE FITTEST 2020
+https://cld.pt/dl/download/8280a58e-d0c0-4044-9722-4f77b5e3e523/The%20Fittest.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/8cf0ad5a-8100-42b1-b648-95ef05d8cf98/THE%20SCHEME%202020.jpg?download=true" ,THE SCHEME 2020
+https://cld.pt/dl/download/717da9d4-6b46-4268-b5fb-2badbc747d0f/The%20Scheme.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/f905dfea-c397-44c1-9666-a590c4a9f30b/EXTRACTION%20-%20TYLER%20RAKE%202020.jpg?download=true" ,EXTRACTION - TYLER RAKE 2020
+https://cld.pt/dl/download/ee0c8154-e6e3-4836-be09-d37cd6998034/Tyler%20Rake.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/80dfd195-6803-496c-960f-de93cca43dfb/UFO%202018.jpg?download=true" ,UFO 2018
+https://cld.pt/dl/download/c89d00a4-cee6-4712-83ab-18aef34d88e0/UFO.2018.HDRip.XviD.AC3-EVO.avi?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/117958a0-a1f9-466d-9efd-e5f4492c35f2/CIRCUS%20O%20BOOKS%202019.jpg?download=true" ,CIRCUS O BOOKS 2019
+https://cld.pt/dl/download/7d042c48-6360-41dc-81c5-6802825ca7ad/Circus%20of%20Books.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/b9265e9d-f4c5-4c45-a10e-e6b26c3cdfbc/OS%20IRM%C3%83OS%20WILLOUGHBY.jpg?download=true",OS IRMÃOS WILLOUGHBY 2020
+https://cld.pt/dl/download/0a21a5d1-1be7-41ae-8b70-0102e251cf4f/Os%20Irm%C3%A3os%20Willoughby.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/748346d2-26c0-4ab5-8780-3c26cde11c58/COFFEE%20AND%20KAREEM%202020.jpg?download=true",COFFEE AND KAREEM 2020
+https://cld.pt/dl/download/cc063b1e-96ef-4095-830f-52bfef27c026/Coffee%20And%20Kareem.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/8d9a7afc-de27-4fae-b455-36de664a101e/FALSE%20COLORS%202020.jpg?download=true",FALSE COLORS 2020
+https://cld.pt/dl/download/458a6432-c9d1-4f2d-a916-2281b6b4dd73/False%20Colors.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/47c251eb-7f38-4ddc-96c0-4372d9aa98d5/S%C3%89RGIO%202020.jpg?download=true",SÉRGIO 2020
+https://cld.pt/dl/download/1e8588df-5c9b-4198-a461-950b6bc87f4d/Sergio.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/4333a732-df9f-49d2-bafa-d9be528b4134/THE%20OTHER%20LAMB.jpg?download=true",THE OTHER LAMB (2020)
+https://cld.pt/dl/download/e66322b5-b846-4d0d-bc76-e9dd24d18964/The%20Other%20Lamb.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/01486334-aadd-46f7-9413-26a327ec479b/LOVE%20WEDDING%20REPEAT.jpg?download=true",LOVE WEDDING REPEAT (AMAR CASAR , RECOMEÇAR) (2020)
+https://cld.pt/dl/download/4e3ce760-f0d6-409e-af80-757605a2304e/Amar.%20Casar.%20Recome%C3%A7ar..mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/55be09ed-c0f4-4ed4-9db5-612a5020fc3c/EATH%20AND%20BLOOD.jpg?download=true",EARTH AND BLOOD (2020)
+https://cld.pt/dl/download/abb541bf-1111-4a7b-9e94-ac91455e39fa/Earth%20and%20Blood.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/036c6c7a-b9e5-4242-95ac-4c7b7e1d9014/NEVER%20RARELY%20SOMETIME%20ALWAYS.jpg?download=true",NEVER RARELY SOMETIMES ALWAYS (2020)
+https://cld.pt/dl/download/f8d41c08-8629-405d-9e57-2e26cbcd42fe/Never%20Rarely%20Sometimes%20Always.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/587ac604-29be-4358-9b85-ab735b485c51/OS%20MISER%C3%81VEIS%202012.jpg?download=true",OS MISERÁVEIS (2012)
+https://cld.pt/dl/download/4ac216d2-90d7-420a-988a-1ea6a61aba3d/Os%20Miser%C3%A1veis.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/e137be4d-2bdf-4a30-9006-8c54905f5947/5TH%20WAVE.jpg?download=true",THE 5TH WAVE (2012)
+https://cld.pt/dl/download/7c3e6b69-bca4-4675-b44b-8cf8a92cbb03/A%205%C2%AA%20Vaga.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/3fc03b14-5a13-429c-841c-36c0031cb2f6/PENGUINS%20-%20LIFE%20ON%20THE%20EDGE.jpg?download=true",PENGUINS - LIFE ON THE EDGE(2020)
+https://cld.pt/dl/download/a17f8718-f776-4da0-abfe-04bf36ab8574/Pinguins-%20Vida%20ao%20Extremo.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/94759fae-e7b6-40fa-8e1a-eff690455eb1/FANTASY%20ISLAND%202020.jpg?download=true",FANTASY ISLAND (A ILHA DE FANTASIA) (2020)
+https://cld.pt/dl/download/98d2572f-7da7-4bab-a716-f63bdd6a2d38/A%20Ilha%20da%20Fantasia_2.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/a2eeb787-4861-4ddc-a6f3-7b1f943bf614/ANA%2020220.jpg?download=true",ANA(2020)
+https://cld.pt/dl/download/f3c85bbb-1554-4525-ad55-3e8a4f3d2070/Ana.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/c7aab551-23cb-4ae2-b0cb-db1f2c0b0e20/AXCELLERATOR%202020.jpg?download=true",AXXELERATOR (2020)
+https://cld.pt/dl/download/70d106e7-1738-4cbc-9a8b-4a1aea958cd5/Axcellerator.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/faf072b9-59bb-48ff-ab8b-873a38330ac0/TIGERTAIL%202020.jpg?download=true",TIGERTAIL (2020)
+https://cld.pt/dl/download/ca07cf30-fb3d-4811-83c1-080ee764255a/Tigertail.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/a2cfb9b9-6171-4466-ac78-db1837f3eccb/MY%20SPY%20-%20APRENDIZ%20DE%20ESPI%C3%82%202020.jpg?download=true",MY SPY (APRENDIZ DE ESPIÂ) (2020)
+https://cld.pt/dl/download/5cc86f04-8c4f-4701-8d35-fe9198ae9f06/Aprendiz%20de%20Espi%C3%A3.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/17714c1a-16e2-4c89-81b8-a0fd0c08fc4a/THE%20GENTLEMEN%20%20%20SENHORES%20DO%20CRIME%202019.jpg?download=true",THE GENTLEMEN (SENHORES DO CRIME) (2019)
+https://cld.pt/dl/download/7c49f973-ea19-425d-ac97-f7469500feef/The%20Gentlemen%20-%20Senhores%20do%20Crime.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/c16c6759-2fb3-40e0-8492-f7d4988aace8/THE%20ALPHA%20TEST%202020.jpg?download=true",THE ALPHA TEST (2020)
+https://cld.pt/dl/download/bbec8168-921d-4774-b62e-2ebbff7ae78f/The%20Alpha%20Test.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/9f4ea05f-0125-4cae-9a11-5976b9e14096/THE%20RYTHM%20SECTION%202020.jpg?download=true",THE RYTHM SECTION (2020)
+https://cld.pt/dl/download/abd19447-5a05-4396-8ffd-ff02b5b30d40/The%20Rhythm%20Section.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/6e8fc4c5-2dad-423f-83c7-cd2ccef0d9ad/A%20GRANDE%20LUTA%20-%20THE%20MAIN%20EVENT%202020.jpg?download=true",THE MAIN EVENT (A GRANDE LUTA) (2020)
+https://cld.pt/dl/download/97119949-4c58-4921-95e3-c10cdfe1a1af/A%20Grande%20Luta.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/055d6c32-e1f6-4725-b785-055cde514006/DOLPHIN%20REEF%202020.jpg?download=true",DOLPHIN REEF (2020)
+https://cld.pt/dl/download/f367a898-aedd-4105-b9fd-3a07d3941963/Dolphin%20Reef.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/a364f6bf-bcff-424d-9122-2e9df1b9b0f5/MIRACLE%20IN%20CELL%20NO%207%202019.jpg?download=true",MIRACLE IN CELL NO 7(MILAGRE NA CELA 7) (2019)
+https://cld.pt/dl/download/c9a2f401-0eaf-4e2f-b02c-1482794ddd13/A%20Milagre%20Na%20Cela%207-1.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/40018b1e-d109-4d6f-9e95-ff2921ea5ab5/PR%C3%93ZIMA%20-%20O%20ESPA%C3%87O%20ENTRE%20N%C3%93S%202020.jpg?download=true",PRÓXIMA (O ESPAÇO ENTRE NÓS) (2020)
+https://cld.pt/dl/download/7b9f723b-344a-44df-abbf-1f7ce54d32ae/O%20Espa%C3%A7o%20Entre%20N%C3%B3s.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/1adba355-02c8-44de-8343-6bd4f4099a8c/Transference_%20Escape%20the%20Dark%20%282020%29.jpg?download=true",TRANSFERENCE ESCAPE THE DARK (2020)
+https://cld.pt/dl/download/44013296-a829-4721-8378-28a2ceae7734/Transference-%20Escape%20the%20Dark_3.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/5348523f-7911-4eca-b73f-35d23d9e1d6d/ELEPHANT.jpg?download=true",ELEPHANT (2020)
+https://cld.pt/dl/download/7f34fefc-d516-41ed-aa83-9b841326a0ad/Elephant.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/ad4b99bb-a108-4ebc-9abe-0c03b6cbb814/I%20STILL%20BELIEVE%202020.jpg?download=true",I STILL BELIEVE (EU AINDA ACREDITO) (2020)
+https://cld.pt/dl/download/f848ab3c-4220-4a47-8470-67f8d75e8df3/Eu%20Ainda%20Acredito.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/5eab9282-5089-4af5-8beb-1ab0c4b1d335/GRETEL%20ANDGHANSEL%202020.jpg?download=true",GRETEL AND HANSEL (2020)
+https://cld.pt/dl/download/a01b9ca1-b781-4aef-b785-493eee91cf93/Gretel%20And%20Hansel_2.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/a27f1717-b3d1-4e40-a4ca-ab0d7e730377/LIKE%20A%20BOSS.jpg?download=true",LIKE A BOSS (QUEM É QUE MANDA AQUI) (2020)
+https://cld.pt/dl/download/cf2d117f-29bd-4778-a311-b73e9faf8201/Quem%20%C3%89%20Que%20Manda%20Aqui-.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/c6bd8d7b-3ea9-4bc5-9c19-3a8b265d80db/O%20APELO%20SELVAGEM.jpg?download=true",THE CALL OF THE WILD (O APELO SELVAGEM) (2020)
+https://cld.pt/dl/download/2e857b30-28da-4bbb-b757-2826a8c96fe4/O%20Apelo%20Selvagem.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/01596483-5472-46b5-8b36-3bb312afb632/GO%20KARTS%202020.jpg?download=true",GO KARTS (2020)
+https://cld.pt/dl/download/d56ab899-aaaa-4c8b-b578-b0578abe2f5d/Go%20Karts_3.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/31bba9b5-f3b9-4ac8-9322-2ee3dae0ccf8/abigail%20haunting.jpg?download=true",ABIGAIL HAUNTING (2020)
+https://cld.pt/dl/download/65bf3dfb-52f0-41f7-bea9-a5065d7d083b/MrPiracy%20-%20Abigail%20Haunting.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/5922cf40-60c3-4e83-a097-1abcbc00f70c/money%20heist.jpg?download=true",MONEY HEIST - THE PHENOMENON (2020)
+https://cld.pt/dl/download/e77e56ae-d94b-4689-8239-4e69e994d6bb/MrPiracy%20-%20Money%20Heist-%20The%20Phenomenon.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/b708c0b0-606f-48d1-854a-2056ecda9b6d/MIRACLES%20FROM%20HEAVEN.jpg?download=true",MIRACLES FROM HEAVEN (O NOSSO MILAGRE) 2006
+https://cld.pt/dl/download/ae723935-366f-4e8f-aecb-219346f01fba/O%20Nosso%20Milagre.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/3a2d8294-3810-4b96-874e-6df8c61a669c/SPENSER.jpg?download=true",SPENSER CONFIDENTIAL 2020
+https://cld.pt/dl/download/04be5a9c-f8cc-473f-84de-beb1b3d85d53/Spenser%20Confidential.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/1ed8465b-fe64-4914-afe9-561c3c416ecb/THE%20WAY%20BACK.jpg?download=true",O CAMINHO DE VOLTA 2020
+https://cld.pt/dl/download/38a1da8c-7722-438d-8c8b-7c0aa0eb828c/O%20Caminho%20de%20Volta.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/08f2a79a-76c1-4ba0-aa54-eae38e7231aa/MONOS%202019.jpg?download=true",MONOS 2019
+https://cld.pt/dl/download/badcc569-149f-4694-8682-bc6f589bd470/Monos.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGNhNmM4OWItNGE4YS00ZTI1LTk4NjktYjQ3YWQyNzc5YjgwXkEyXkFqcGdeQXVyMzAyNTM2MDA@._V1_.jpg",THE SUN 2020
+https://cld.pt/dl/download/7840f4c6-4be6-462c-b3f0-bdb4e8e4fbef/A%20Sun.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM3ZTJmMmYtYjhlOS00MzkzLWJkYWQtN2E0NjZlZGM3NDc5XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_SX675_AL_.jpg",GIRL ON THE THIRD FLOOR 2020
+https://cld.pt/dl/download/a12d9ffb-1c1f-427f-b85d-bbd3813c5bc9/Girl%20on%20the%20Third%20Floor.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/09e09db1-5563-4b28-9939-830fc89ea3e9/LADY%20AND%20THE%20TRAMP.jpg?download=true",LADY AND THE TRAMP (AUDIO PT) 2020
+https://cld.pt/dl/download/eb8c4276-c431-44b3-96b4-46766a89e34b/A%20Dama%20e%20o%20Vagabundo.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/b7dbff68-7b37-4985-853a-ad4d4589157b/BAD%20BOYS%20FOR%20LIFE.jpg?download=true",BAD BOYS FOR LIFE 2020
+https://cld.pt/dl/download/b8a51c97-639b-4b9f-b68a-acf4a89cf8c4/Bad%20Boys%20Para%20Sempre.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBlMGY1ZWMtYjVlOS00YzkzLWJmZjMtY2VhYjcwMDAxZGY0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",BERT KREISCHER - HEY BIG BOY 2020
+https://cld.pt/dl/download/e2ded86d-eaee-469e-9fab-e70327355315/Bert%20Kreischer-%20Hey%20Big%20Boy.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/2b70e286-6521-452e-840c-4a274cc6073a/dark%20crimes%202018.jpg?download=true",CRIMES SOMBRIOS 2018
+https://cld.pt/dl/download/66abcff9-372a-4c92-8ee2-af07b6b64105/Crimes%20Sombrios.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/4b34e7e0-35ba-4609-8cf8-d2b7d89c3fa4/MOSUL%202019.jpg?download=true",MOSUL 2019
+https://cld.pt/dl/download/42e9f6dc-f857-42db-9b27-9b05104f7bca/Mosul.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/e9b72017-cf2f-45b8-b811-10ff998e6dd6/SUBMERSO.jpg?download=true",SUBMERSOS 2020
+https://cld.pt/dl/download/88d1d54a-c3bd-481b-99c9-70eb1ae9e76e/Submersos.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/201cfe1a-0c7b-409e-9257-18255a28b699/CRIP%20CAMP.jpg?download=true",CRIP CAMP 2020
+https://cld.pt/dl/download/108a8c5c-4f3c-4efc-8707-fb9075457521/MrPiracy%20-%20Crip%20Camp.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/322e12f5-e2bc-4e24-9586-ce625ef04e35/altered%20carbon%20resleeved.jpg?download=true",ALTERED CARBON - RESLEEVED 2020
+https://cld.pt/dl/download/b0d477a4-2488-4e13-955c-e0a0e5f8331b/Altered%20Carbon-%20Resleeved.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/f4894e40-11dc-4d50-b5d6-5bae74ee794c/contagion%202011.jpg?download=true",CONTAGION 2011
+https://cld.pt/dl/download/59b5623f-d6e3-4a59-ba39-8c5e0f995d85/Contagion_%282011%29.mkv?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/742f5fd3-2907-492c-8976-5716020328f4/emma%202020.jpg?download=true",EMMA 2020
+https://cld.pt/dl/download/d5266d92-da88-48f8-a790-1fb1f3a2289a/Emma..mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/b4ce764c-923c-4d46-96ce-b06022a7b661/blow%20the%20man%20down.jpg?download=true",BLOW THE MAN DOWN 2020
+https://cld.pt/dl/download/9af7091d-f68f-4de2-8d8e-c642a14f9d41/Blow%20the%20Man%20Down_2.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/fc0ed516-22e5-40d1-938c-69aa4100b3bc/JUAN%20MANUAEL.jpg?download=true",LIFE OF SPEED - THE JUAN MANUEL FANGIO STORY 2020
+https://cld.pt/dl/download/f5979809-bb5a-4cd0-a710-ebe5b1904867/MrPiracy%20-%20A%20Life%20of%20Speed%20The%20Juan%20Manuel%20Fangio%20Story.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/d38ac0bb-2036-489a-91d8-6f74f7eb799f/bloodshot.jpg?download=true",BLOODSHOT 2020
+https://cld.pt/dl/download/c4bb365d-6919-4830-8765-ce46bba9ed13/Bloodshot.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/6219f262-b024-41d5-b9e7-60b0820c70a9/the%20invisible%20man%202020.jpg?download=true",INVISIBLE MAN 2020
+https://cld.pt/dl/download/74d5b028-ecd5-4135-9c32-275b34ab4060/O%20Homem%20Invis%C3%ADvel.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/fc0fe2e9-2041-4d3a-91ec-134870a1b5a8/%C3%81%20ESPERA%20DE%20ANYA.jpg?download=true",WAITING FOR ANYA 2020
+https://cld.pt/dl/download/f36b0c54-d8c8-44ae-b980-77ab9ee30999/%C3%80%20Espera%20de%20Anya.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/dc9e6e34-233d-45af-b22d-fc47faabe819/the%20host%202020.jpg?download=true",THE HOST 2020
+https://cld.pt/dl/download/ebdd0d29-0c01-42a4-b49a-1dfcd2b901c3/The%20Host.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/3dcdf0b3-8d42-4a84-890d-f2d68e1da36a/the%20hunt%202020.jpg?download=true",THE HUNT 2020
+https://cld.pt/dl/download/252d1da5-6aac-4a14-8acc-1a36fba074fd/THE%20HUNT.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/ffc33443-e208-4e32-905b-77cdd59104da/CATS.jpg?download=true",CATS 2019
+https://cld.pt/dl/download/b8dd618c-c79b-46cd-a0a4-d29ef94306b0/MrPiracy%20-%20Cats_2.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/c25421ff-cff3-4e94-846f-480e774a888c/STAR%20GIRL.jpg?download=true",STAR GIRL 2020
+https://cld.pt/dl/download/82518d87-4a4c-4463-bc27-85df61b506d7/MrPiracy%20-%20Stargirl.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/ef9b80fe-34ac-4467-b561-3bf101940154/JUST%20MERCY.jpg?download=true",JUST MERCY 2019
+https://cld.pt/dl/download/4982641d-f366-45e3-9e87-5647128fe11e/MrPiracy%20-%20Tudo%20Pela%20Justi%C3%A7a.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/3fccfc64-d1cc-4b0a-ba23-74df514512d9/ESCAPE%20FROM%20PRETORIA.jpg?download=true",ESCAPE FROM PRETORIA 2020
+https://cld.pt/dl/download/c781512d-a4ea-41f4-8b45-4dd5f14b17ab/Escape%20from%20Pretoria.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/8fa9d2f7-c1df-4d97-af81-6b9b2e878e19/PARASITE.jpg?download=true",PARASITE 2019
+https://cld.pt/dl/download/9bf6c4b0-755b-4248-87fd-ee43ccd887c8/Parasite.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/014e9d7a-7714-48ed-b0e0-987fcaaec244/mrbean%20holidays.jpg?download=true",MR BEAN HOLIDAYS 2007
+https://cld.pt/dl/download/92881a7e-8ed7-439f-8cff-7bbff8b52dda/As%20F%C3%A9rias%20de%20Mr.%20Bean.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/edc44749-c20c-4580-947a-a9b4d9eb47ae/swallow.jpg?download=true",SWALLOW 2019
+https://cld.pt/dl/download/9af8786b-075c-4683-9016-96d2b083ccfd/MrPiracy%20-%20Swallow.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/defffb9f-23e7-4cb2-89cc-07c811469bcb/the%20platform.jpg?download=true",PLATFORM 2019
+https://cld.pt/dl/download/b72c5355-1218-4c65-a919-10c439f8c046/MrPiracy%20-%20The%20Platform_2.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/2f5feeb0-4b54-4674-b40a-2004d61e71f5/The%20Banker.jpg?download=true",THE BANKER 2020
+https://cld.pt/dl/download/6d54fd3c-a44e-40f7-899d-3d83d5ec0f60/The%20Banker.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/65d52a56-1f65-41a8-a284-7a915d0145e7/postcard%20killings.jpg?download=true",THE POSTCARD KILLINGS 2020
+https://cld.pt/dl/download/810a5972-e9a4-4447-9431-3feb6380d0cf/The%20Postcard%20Killings.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/fbc30d4c-adcb-4adf-8a6d-bb5e07f060e8/harley%20quinn.jpg?download=true",BIRDS OF PREY (e a Fantabulástica Emancipação De Uma Harley Quinn) (2020)
+https://cld.pt/dl/download/8adec6c4-1150-4790-a79c-8746581e4464/Birds%20of%20Prey%20%28e%20a%20Fantabul%C3%A1stica%20Emancipa%C3%A7%C3%A3o%20De%20Uma%20Harley%20Quinn%29.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/4931221f-30a0-4760-bb47-b2013d822fbc/CRIME%20DO%20PADRE%20AMARO%202002.jpg?download=true" ,O CRIME DO PADRE AMARO (2002)
+https://cld.pt/dl/download/4ab226d6-b222-4e05-b31b-837dcefd13a0/O%20Crime%20do%20Padre%20Amaro.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/19a509d8-4afc-42a8-b6cb-b14c97cc6b63/mrbean%20desastre.jpg?download=true",MR BEAN - DISASTER MOVIE 1997
+https://cld.pt/dl/download/5daae454-285a-435a-8194-9dfcdeb0c764/Bean-%20Um%20Aut%C3%AAntico%20Desastre.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/7b6e4d31-4466-44df-96e2-6d9abc8f601a/mr%20bean.jpg?download=true",MR BEAN 1997
+https://cld.pt/dl/download/5587f051-446e-4f2a-9caa-13e89e921602/A%20hist%C3%B3ria%20de%20Mr%20Bean.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/ad1087b8-4dae-4c52-bab2-2dfe4a82d319/joker.jpg?download=true",THE JOKER 2020
+https://cld.pt/dl/download/89432fc3-051b-4aee-9974-fa2e0502911d/Joker.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/6d1fccc9-148f-4f78-a71c-7546973449fc/lost%20girls.jpg?download=true",LOST GIRLS 2020
+https://cld.pt/dl/download/da446b98-9cf3-477b-93cb-e83d5f277cd5/Lost%20Girls.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/ce621c9d-1eed-4124-9e85-9305d11ff156/star%20wars%20xi%20ascensao%20de%20skywalker.jpg?download=true",STAR WARS IX - THE RISE OF SKYWALKER 2019
+https://cld.pt/dl/download/b8a706e0-6785-4361-b21a-3c5efb164d0b/Star%20Wars%20-%20Epis%C3%B3dio%20IX%20-%20A%20Ascens%C3%A3o%20de%20Skywalker.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/015ab624-9941-42b0-8473-60bcf9340008/the%20warrant.jpg?download=true",THE WARRANT 2020
+https://cld.pt/dl/download/0a240af3-c797-4aa2-b2a1-66b95ccb191c/The%20Warrant.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/98cfb8d3-9b50-4463-8abf-add08549d1b6/VERDADE%20DEBAIXO%20DE%20FOGO%20LAST%20MEASURE.jpg?download=true",THE LAST FULL MEASURE 2019
+https://cld.pt/dl/download/307ea5f2-d4cb-4e9b-be43-b8ab58d75da5/Verdade%20Debaixo%20de%20Fogo.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/12b9b2e4-3a2c-4377-b3cd-06e774e08700/JUMANJI%20THE%20NEXT%20LEVEL.jpg?download=true",JUMANJI - THE NEXT LEVEL 2019
+https://cld.pt/dl/download/9ffa72d2-585a-49c1-b5ba-c5265d542eae/Jumanji-%20O%20N%C3%ADvel%20Seguinte.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/ff50b13b-b2a2-429e-bf49-d965698a9e9e/DR%20DOLITTLE.jpg?download=true",DR DOLITTLE 2020
+https://cld.pt/dl/download/4529d3fe-293b-4528-a93d-fac1403524e0/As%20Aventuras%20do%20Dr.%20Dolittle_3.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/eeadb2a0-6266-430a-9cb5-f3aaaeca51dc/the%20grudge%202020.jpg?download=true",THE GRUDGE 2020
+https://cld.pt/dl/download/db7cba5e-f163-4667-9836-1ce80c983f7b/The%20Grudge-%20Maldi%C3%A7%C3%A3o_2.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/c2f4a7dd-9997-4830-93ef-1471b4cb0b64/1917.jpg?download=true",1917 2019
+https://cld.pt/dl/download/7979e467-7269-458b-89ce-5eaff0990141/MrPiracy%20-%201917.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/0951c1e4-c128-44a4-be32-c7af4ab20c34/guns%20akimbo.jpg?download=true",GUNS AKIMBO 2019
+https://cld.pt/dl/download/0aa98feb-62a5-4141-9c43-1cddb64e5c58/MrPiracy%20-%20Guns%20Akimbo.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/84aeb698-a5de-4651-b726-ce6a36da590b/hustlers.jpg?download=true",HUSTLERS 2019
+https://cld.pt/dl/download/d15237db-6f19-4522-b137-01097f2b4737/Ousadas%20e%20Golpistas.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/1d337371-d8ed-481a-b353-be15c09fbeb2/sonic.jpg?download=true",SONIC - O FILME 2019
+https://cld.pt/dl/download/78cae025-fdfc-4732-bb0e-9d2c62052aa8/MrPiracy%20-%20Sonic-%20O%20Filme.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/ded15b79-6522-4fb2-9519-fc19c6e59237/MARRIAGE%20STORY.jpg?download=true",MARRIAGE STORY 2019
+https://cld.pt/dl/download/e1d6d648-cb30-4bdb-a62f-84d2a73d30a2/Marriage%20Story.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/379e6c0b-82d6-417d-b49a-010675824e16/EXTERMINADOR%20IMPLAC%C3%81VEL.jpg?download=true",TERMINATOR DARK FATE",2019
+https://cld.pt/dl/download/82551af7-30f3-4065-b31d-f153b47b06a6/MrPiracy%20-%20Exterminador%20Implac%C3%A1vel%20-%20Destino%20Sombrio.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/610467da-1bfd-428b-9936-a07eece3bf37/a%20rainy%20day%20in%20new%20york.jpg?download=true",A RAINY DAY IN NEW YORK 2019
+https://cld.pt/dl/download/d1d89f80-3329-4081-8de9-5136c34bdb00/Um%20Dia%20de%20Chuva%20em%20Nova%20Iorque.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/b05272bc-175c-4794-81ed-7bb5c4518975/adopt%20a%20highway.jpg?download=true",ADOBT A HIGHWAY 2019
+https://cld.pt/dl/download/c6faf053-3ce9-49d3-9615-c79c8c5ad627/Adopt%20a%20Highway.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/1abb2b21-c1a2-4635-b6f5-101b56bc3434/dragonheart.jpg?download=true",DRAGONHEART 2020
+https://cld.pt/dl/download/f91375db-a865-489d-b09d-990ccc844a38/MrPiracy%20-%20Dragonheart-%20Vengeance.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/e577fc3d-1046-4f97-9b46-9c7f67583504/glass.jpg?download=true",GLASS 2019
+https://cld.pt/dl/download/4def8b9d-8115-46ca-b7b2-a1f8dd7b3e1b/Glass.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/b11b6427-17c3-436e-b677-0be7064c1e2c/apostle.jpg?download=true",APOSTLE 2019
+https://cld.pt/dl/download/03cdff8a-9723-4228-b7bb-3b34793d0067/Ap%C3%B3stolo.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/b19a1fa2-fdf2-4d8f-b817-20afcaccf744/dora.jpg?download=true",DORA AND THE LOST CITY OF GOLD 2019
+https://cld.pt/dl/download/162f55c8-a224-4c89-92ca-854b9e2838dd/Dora%20e%20a%20Cidade%20Perdida.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/f4388b6a-e947-4a71-bc53-ee6dd383cce2/os%20vingadores%20endgame%202019.jpg?download=true",THE AVENGERS ENDGAME 2019
+https://cld.pt/dl/download/76a1b87a-6a6e-40b1-a3b7-0d9ec76ccded/Vingadores-%20Endgame.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/dbd46e63-b92d-4645-a7c1-378b63c9d8fe/THE%20CURRENT%20WAR.jpg?download=true",THE CURRENT WAR 2019
+https://cld.pt/dl/download/1ef0df66-3a4d-47e4-9d86-3ade58fcc4aa/Guerra%20de%20Correntes.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/b9652863-217c-4da6-ab56-577d2aab3c6e/the%20prodigy.jpg?download=true",THE PRODIGY 2019
+https://cld.pt/dl/download/bc9ba86f-8cff-4f2d-a9da-b7f797b41c22/O%20Prod%C3%ADgio.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/0477d7dd-10fd-4870-8a92-e6f3a3c4564f/OVERCOMER.jpg?download=true",THE OVERCOMER 2019
+https://cld.pt/dl/download/f9ad57a1-6287-4d8f-9baa-f0388e131134/Overcomer.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/f88079a7-055b-4df3-b60d-eeeadac1b24b/TONY.jpg?download=true",TONY 2019
+https://cld.pt/dl/download/4ca91bff-ab5d-4fbc-a0f1-3dd1fdb604e2/Tony.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/38bac03c-266e-4115-bda2-837786328f5f/DOWNTON%20ABBEY.jpg?download=true",DOWNTON ABBEY 2019
+https://cld.pt/dl/download/0323634c-1555-4bf8-96e4-ca623c0dfaa8/Downton%20Abbey.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/235a7f7b-178c-4335-bc57-7c0bff7dcd09/the%20godfinch%20o%20pintassilgo.jpg?download=true",THE GOLDFINCH - O PINTASSILGO 2019
+https://cld.pt/dl/download/e3c9bcf5-e5a5-4da7-a21d-b9806f5eacd8/O%20Pintassilgo.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/7233562d-75f5-4601-aa3f-5eed0ce44543/cold%20pursuit.jpg?download=true",COLD PURSUIT - VINGANÇA PERFEITA 2019
+https://cld.pt/dl/download/dcc5f0c6-c53c-420a-8e0c-27a3a92ec27c/Vingan%C3%A7a%20Perfeita.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/e0038ca5-6191-4b2f-a35a-ed4154a2f621/WHAT%20HAPPENED.jpg?download=true",WHAT HAPPENED ON SETEMBER 11 2019
+https://cld.pt/dl/download/9f9633dc-1693-43fa-9b8c-91aba8b2a376/What%20Happened%20on%20September%2011.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/da3d7d9d-6f69-4f97-836e-9919183553b7/john%20wick%203.jpg?download=true",John Wick 3 2019
+https://cld.pt/dl/download/fb1eee20-d414-4bc3-a50f-b0f01d3f7722/John%20Wick%203%20-%20Implac%C3%A1vel.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/1eaffb11-87a3-4e23-b8ed-1f8d5ec79e18/kursk.jpg?download=true",KURSK 2019
+https://cld.pt/dl/download/18a16e94-d614-4809-9c7e-95e8707184f1/Kursk.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/a07a0a20-ac61-4ad2-a14b-307402e0abdd/captive%20state.jpg?download=true",CAPTIVE STATE 2019
+https://cld.pt/dl/download/7995e336-d78a-430e-aa5f-53ad142938ae/Captive%20State%20-%20Cercados.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/a1d338f1-bd70-441f-8eef-59aaf05a65ae/lady%20and%20the%20tramp.jpg?download=true",A DAMA E O VAGABUNDO 2019
+https://cld.pt/dl/download/2fd1b8a4-71bd-4e72-83d7-221be9f64fc3/A%20Dama%20e%20o%20Vagabundo.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/01ede1c6-42fa-4ebd-b41f-263eeddb9258/the%20report.jpg?download=true",THE REPORT 2019
+https://cld.pt/dl/download/4a008370-b894-4791-971a-f1489db693f8/The%20Report.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/54a33f4d-f46d-4f7c-8cbb-6e348bf765e7/THE%20IRISHMAN.jpg?download=true",THE IRISHMAN 2019
+https://cld.pt/dl/download/9e66b054-565a-4023-9ef0-8cc51077fd6e/O%20Irland%C3%AAs.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/dbe7d63d-add0-4719-95e7-abd2d63517a4/RAMBO%20LAST%20BLOOD.jpg?download=true",RAMBO - LAST BLOOD 2019
+https://cld.pt/dl/download/a001fc7f-cc6e-4338-b4f6-c94a8e398217/Rambo%20-%20A%20%C3%9Altima%20Batalha_2.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/c2def297-8038-43b5-8c02-3df7240180b5/the%20cleansing%20hour.jpg?download=true",THE CLEANSING HOUR 2019
+https://cld.pt/dl/download/e0ea0af2-cf68-41be-9b39-941bb934fcc6/The%20Cleansing%20Hour.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/b47de990-71dc-4dd8-acf9-798f5467dd76/Don%27t%20Open%20Your%20Eyes%202018.jpg?download=true",DONT OPEN YOUR EYES 2019
+https://cld.pt/dl/download/4a039531-2604-4268-a57e-9953f35b5f0e/Don%27t%20Open%20Your%20Eyes.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/492a7ada-75e4-474f-bd90-443b62900261/AD%20ASTRA.jpg?download=true",AD ASTRA 2019
+https://cld.pt/dl/download/ec6a5b21-0315-4d9d-aab4-95a50fd12653/ASTRA.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/f6dbe685-1850-45fa-9848-529d299823ca/GEMINI%20MAN.jpg?download=true",GEMINI MAN 2019
+https://cld.pt/dl/download/a83e7cf6-09e3-4ccf-830e-ac407b073db3/Projeto%20Gemini.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/b767221c-9c9b-4c37-8de6-f5c80c647dff/Godzilla%20II%20Rei%20dos%20Monstros.jpg?download=true",GODZILLA 2 KING OF MONSTERS 2019
+https://cld.pt/dl/download/5c6765b9-16b0-40a8-bb7a-691bbefa0445/Godzilla%20II-%20Rei%20dos%20Monstros.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/59b22655-ff45-4148-b7d4-c23fad932917/It%20Cap%C3%ADtulo%202.jpg?download=true",IT CHAPER 2 2019
+https://cld.pt/dl/download/07c5245f-eb97-4beb-b2aa-dac0046ba425/It-%20Cap%C3%ADtulo%202.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/374dac43-f4c2-4748-bfae-42a490b2a395/Escape%20Room.jpg?download=true",ESCAPE ROOM 2019
+https://cld.pt/dl/download/508d620b-aebc-47ff-b9f9-bd6aa358aecf/Escape%20Room.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/faf138bb-e0c9-42b2-873b-caf7dc0b0ed2/ALITA%20BATTLE%20ANGLE.jpg?download=true",ALITA - BATTLE ANGLE 2019
+https://cld.pt/dl/download/ac60bf6d-5c34-49eb-b3d0-eb6534e8d9f3/Alita-%20Anjo%20de%20Combate_4.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/869c9c67-7434-49f3-93e1-0e58764b59c6/HELLBOY%203%202019.jpg?download=true",HELLBOY 3 2019
+https://cld.pt/dl/download/6d3a03b9-fc98-406a-96f3-e5166d9b5f59/Hellboy_3.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/bf8a9874-faea-4f40-b123-e18ac227c89a/MIA%20AND%20THE%20WHITE%20LION.jpg?download=true",THE WHITE LION 2019
+https://cld.pt/dl/download/39bfaed0-41dd-4e1e-9d50-c2f54b4a90b9/Mia%20e%20o%20Le%C3%A3o%20Branco%20-%20720p%20-%20%28PortugalDownloads%29.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/343cc3eb-d54d-4e89-b56e-147fddf630e2/once%20upon%20a%20time%20in%20hollywood.jpg?download=true
+",ONE UPON A TIME IN HOLLYWOOD - ERA UMA VEZ EM HOLLYWOOD 2019
+https://cld.pt/dl/download/8a2b0b56-64ea-4ec5-9019-ffae8b652f5b/Era%20Uma%20Vez%20em...%20Hollywood.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/1af38ec7-c2c8-4e0c-8f85-832d8d7198a8/SHAZAM%202019.jpg?download=true",SHAZAM 2019
+https://cld.pt/dl/download/fb90fdab-19d1-4624-b926-640594bc6ef0/Shazam%21.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/b3832d69-26f8-4a0f-a1b8-764857094ac8/47%20meters%20down.jpg?download=true",47 METERS DOWN 2019
+https://cld.pt/dl/download/f29db889-86f9-4d14-9963-1001e0b4ef84/47%20Metros-%20Medo%20Profundo.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/f2cc6731-7d0f-445d-a570-1905766ffbfa/Varia%C3%A7%C3%B5es.jpg?download=true",ANTONIO VARIAÇÕES 2019
+https://cld.pt/dl/download/2e5b6471-7e6d-4752-ba78-50b3f3b1ab00/Varia%C3%A7%C3%B5es.mp4?download=true
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/1f4903d8-0190-4863-80e4-11a29c041015/FAST%20FURIOUS%208%20HOBBS%20AND%20SHAW.jpg?download=true",VELOCIDADE FURIOSA 8  - HOBS AND SHAW 2019
+https://cld.pt/dl/download/152a8537-e51e-489c-b160-4b718b6bddf9/Velocidade%20Furiosa%208.mp4?download=true
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/e38e8d98-a6fe-4e9d-8ca7-b4be56b297fb/ANGEL%20HAS%20FALLEN.jpg?download=true",ANGEL HAS FALLEN 2019
+https://cld.pt/dl/download/482222f9-a257-41e5-9471-43d986a30d32/ANGEL%20HAS%20FALLEN%202019.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/d4bcd159-2dbc-49eb-9e13-922acb9c244a/aladin%202019.jpg",ALADINO 2019
+https://uptobox.com/h888pnvuubci
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/00f5897a-15d6-4a53-a07f-5c28ae3015b7/THE%20POSSESSION%20OF%20HANNAH%20GRACE%202019.jpg",THE POSSESSION OF HANNAH GRACE 2019
+https://cld.pt/dl/download/e5c227dd-13b4-4163-83de-461510607c4d/The_Possession_of_Hannah_Grace1.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/2fac8126-94e2-4fa5-9a17-ea6811e0ef93/AT%20ETERNITYS%20GATE.jpg",AT ETERNITYS GATE
+https://cld.pt/dl/download/d246160a-8c7c-4cf3-a3ba-a6f5074c9240/At%20Eternity%27s%20Gate.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/5cbdd7e2-b69d-4b7c-b79b-c733ff1a91e4/MALICIOUS.jpg",MALICIOUS
+https://cld.pt/dl/download/2f59e385-1d7a-4658-acd5-72f8b978df2a/Malicious.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/eb923db5-c0cc-48da-98c7-e3c80f6623e1/ASSASSINS%20CODE.jpg",ASSASSINS CODE
+https://cld.pt/dl/download/361cc8b8-961e-4e95-a365-48eea59cba75/The%20Assassin%27s%20Code.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/c26e5cc8-e68d-446d-a6aa-9a95bb639bcc/SLENDER%20MAN.jpg",SLENDER MAN
+https://cld.pt/dl/download/f21440ea-c631-4f16-a03b-eb2de73e3755/Slender%20Man.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/fbe84eb5-ec21-456a-a6c2-8e1e51356c20/A%20PRIVATE%20WAR.jpg",A PRIVATE WAR (2018)
+https://cld.pt/dl/download/1f240eb1-ffa1-4894-9966-cbb30157ae01/A%20PRIVATE%20WAR.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/6dc53648-d699-44b3-9e9a-6184a1a6db0e/BEYOND%20THE%20WOODS%202018.jpg",BEYOND THE WOODS (2018)
+https://cld.pt/dl/download/e5361cea-b2c2-4388-a8c8-519d7299f50a/Beyond%20the%20Woods.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/c5ceb7e6-1a78-40a5-8159-2b78ef86de87/BOY%20ERASED%202018.jpg",BOY ERASED (2018)
+https://cld.pt/dl/download/66072070-3f68-4a90-acdb-b42016a074c0/Boy%20Erased.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/ee5b222d-9c9e-4bb7-8383-a6fcbf35280e/SLICE%202018.jpg",SLICE (2018)
+https://cld.pt/dl/download/4db79bbd-65db-4e85-b04f-c080c845568a/Slice.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/7ed96c57-a171-4d32-ab3d-cd12558c7dc8/THE%20ISLE%202018.jpg",THE ISLE (2018)
+https://cld.pt/dl/download/6c51494f-4d8e-48cf-9f5f-c0802954954b/The%20Isle.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/5a0c0a3d-15eb-4a60-ad21-ad1b27fad889/replicas.jpg",REPLICAS (2018)
+https://cld.pt/dl/download/b932c607-d8c9-4feb-8a3f-5bcb639c9b14/replicas.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/49faac4a-4b21-45d0-803d-35c061759349/12%20feet%20deep.jpg",12 FEET DEEP (2017)
+https://cld.pt/dl/download/e0b35338-6b41-4f3e-a7a6-e2570a484fda/12%20feet%20deep.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/2fc95748-8f94-46b7-a71b-aca1df598bd9/VENOM.jpg",VENOM(2018)
+https://cld.pt/dl/download/469f2d4d-ec70-4564-a60d-94d8350721ad/MrPiracy%20-%20Venom_2.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/d072a718-fa5d-49ed-a333-ad04ce89ab8f/mission%20impossible%20fallout.jpg",MISSION IMPOSSIBLE - FALLOUT(2018)
+https://cld.pt/dl/download/33341115-0e0a-4f0c-9778-558c1907e333/Miss%C3%A3o-%20Imposs%C3%ADvel%20-%20Fallout.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/3c652a16-c889-4564-a24f-bf39db0337e0/THE%20EQUALIZER%202.jpg",THE EQUALIZER 2(2018)
+https://cld.pt/dl/download/2ee99aa9-bcbb-429b-8b80-f1e92054e3cd/The%20Equalizer%202%20-%20A%20Vingan%C3%A7a.mp4
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/64c9b346-52ae-47c3-9c6d-9ae7e3487b5d/DRACULA%20IN%20LOVE.jpg",DRACULA IN LOVE(2018)
+https://cld.pt/dl/download/7500f9ac-f5d2-4291-b9eb-3232ad7546cf/Dracula%20in%20Love.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/88bfbb5f-4e45-4e8d-892f-9f641b03c6dd/LUCIFERINA.jpg",LUCIFERINA(2018)
+https://cld.pt/dl/download/0304061f-232b-435f-8853-4a0e47efd212/Luciferina.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/67567bd5-7d5e-48ef-9d9c-776529779cc9/THE_DARKEST_MINDS.jpg",MENTES PODEROSAS(2018)
+https://cld.pt/dl/download/678f47a3-b36f-49ec-9a91-1e3165049b77/Mentes%20poderosas.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/9505e7d6-8ce7-4115-a7a5-146f278e532f/SEARCHING.jpg",SEARCHING(2018)
+https://cld.pt/dl/download/afb6525a-d15b-4ecc-91d6-f5bd20457b78/Searching.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/4adee2fe-65d0-4165-b452-f463c581c9f6/OPERA%C3%87%C3%83O_FINAL.jpg",OPERATION FINALE(2018)
+https://cld.pt/dl/download/4adee2fe-65d0-4165-b452-f463c581c9f6/OPERA%C3%87%C3%83O_FINAL.jpg
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/764fc246-6ea2-451a-9a62-04262dd247ce/22%20JULHO.jpg",22 JULY(2018)
+https://cld.pt/dl/download/0f573ab8-de2d-49dc-8495-9a3a7db92bc1/22%20de%20Julho.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/3eab8dd6-a1a6-4919-a695-dfdb790e836a/SPITFIRE.jpg",SPITFIRE(2018)
+https://cld.pt/dl/download/2fcc7a57-3f42-4d56-bec4-607642c6e5d5/Spitfire.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/ead5aa86-7d8e-4e15-b7f1-fa9afb48b7f4/BLACK%2047.jpg",BLACK47(2018)
+https://cld.pt/dl/download/8e23d3ca-4b16-490c-aa0f-3f20336175ec/Black%2047.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/d2398d5e-cd83-44b2-8c82-3d0518bed343/GOLPE%20FINAL.jpg",FINAL SCORE(2018)
+https://cld.pt/dl/download/3429f9af-7b64-4b36-b44a-901b98f8373c/Golpe%20Final.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/accd9068-7ec5-48c6-99dc-b9e661ea614b/THE%20NIGHT%20COMES%20FOR%20US.jpg",THE NIGHT COMES FOR US(2018)
+https://cld.pt/dl/download/8db1f1d8-5b43-4fbc-a56d-bd31a8875021/The%20Night%20Comes%20For%20Us.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/0d5cfcc7-d06f-4aa3-890f-c845c080ef54/THE_MEG.jpg",THE MEG(2018)
+https://cld.pt/dl/download/bc694aae-33bc-44d0-847c-a2eec797d230/Meg-%20Tubar%C3%A3o%20Gigante.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/09962e7f-fa2f-4c71-aa4f-5ed6d1d08879/BEST_FRIENDS_VOL_1.jpg",BEST FRIENDS VOL 1(2018)
+https://cld.pt/dl/download/23123c6a-f204-4c47-9380-fa107156d368/Best%20F%28r%29iends%20Volume%201.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/23a52287-269a-402b-9a65-5ac289c42b5d/I%20STILL%20SEE%20YOU.jpg",I STILL SEE YOU(2018)
+https://cld.pt/dl/download/22cb4ad0-7bc9-4043-8b55-d8de925dc013/I%20Still%20See%20You.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/48728be2-d878-4926-b5cd-6ade548ea1fb/ROSY.jpg",ROSY(2018)
+https://cld.pt/dl/download/82b00729-191d-417b-95e0-4095b3fe77f1/Rosy.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/fe721328-653a-471f-ba85-3216f774dd00/MISS%20PEREGRINES.jpg",MISS PEREGRINES HOME FOR PECULIAR CHILDREN(2016)
+https://cld.pt/dl/download/d1b0f8cb-cc2b-4330-9c9e-452a616329f0/A%20Casa%20da%20Senhora%20Peregrine%20para%20Crian%C3%A7as%20Peculiares.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/a3e9e5d6-9424-439a-8871-6ccd0e8f5eb0/A_CROOKED_SOMEBODY.jpg",A CROOKED SOMEBODY (2018)
+https://cld.pt/dl/download/b8923234-6358-42b7-b388-dd7e33cc8e02/A%20Crooked%20Somebody.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/401f1017-05a1-4ddb-a6dc-88a0973dd418/AT_FIRST_LIGHT.jpg",AT FIRST LIGHT (2018)
+https://cld.pt/dl/download/8d067a24-75ec-42e8-bd52-7e89c457ae6a/First%20Light.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/5e580055-a55d-4b64-9812-ce232ea5243c/AWAIT_FURTHER_INSTRUCTIONS.jpg",AWAIT FURTHER INSTRUCTIONS (2018)
+https://cld.pt/dl/download/c493c86d-c6a1-4bd3-be6f-5a3f3190768a/Await%20Further%20Instructions.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/76fb7026-acbc-4bf4-b915-014a00ddd3e4/BETWEEN_WORLDS.jpg",BETWEEN WORLDS (2018)
+https://cld.pt/dl/download/5bd08d05-01e3-43f9-ae1a-6bee43ec6eff/Between%20Worlds.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/8979b9ca-1ab9-449d-b4a8-18952a724cb1/BOAR.jpg",BOAR (2018)
+https://cld.pt/dl/download/38f9d004-961c-49c3-bbe9-d346e3193389/Boar.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/915cfe89-d648-4af9-a6bf-02d044758423/HELL_HOUSE_2.jpg",HELL HOUSE LLC2 -THE ABADDON HOEL (2018)
+https://cld.pt/dl/download/83dae1c5-4341-4909-889f-50889a477ec5/Hell%20House%20LLC%20II-%20The%20Abaddon%20Hotel.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/8ad274d1-c2b0-4848-a55d-bbc4262c1a78/LAKE%20PLACID.jpg",LAKE PLACID - LEGACY (2018)
+https://cld.pt/dl/download/eba78907-1274-46f8-a26c-8f40ba35dc35/%20Lake%20Placid-%20Legacy.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/f01b3285-2b62-4928-ba12-e972770579c8/WOLF.jpg",WOLF (2018)
+https://cld.pt/dl/download/d14de760-3c64-44d2-ba78-3e8bc62c83a4/%20Wolf.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/3c74786d-d5e6-4ac2-b49b-3e0c5e5c22de/THE%20TOY%20BOX.jpg",THE TOY BOX (2018)
+https://cld.pt/dl/download/6b7888bc-9b51-4aea-9969-0c3e21e243c2/The%20Toybox.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/05816052-8fce-43a5-82cc-08176e304a8a/5TH%20PASSENGER.jpg",5TH PASSENGER (2018)
+https://cld.pt/dl/download/fc6d1289-8619-4eac-90bb-55dddf39b0db/5th%20Passenger.mp4
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/a50084bf-096e-4c71-a436-b3463a66657e/DESOLATION%202.jpg",DESOLATION 2 (2018)
+https://cld.pt/dl/download/ed16abf0-1e1d-43a5-bbdb-0816bfed43e2/Desolation.mp4
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/83271cdd-6986-4840-8e8a-d19c1b46c27b/ON%20MY%20SKIN.jpg",ON MY SKIN (2018)
+https://cld.pt/dl/download/048e2ac3-5921-4a7d-9fe6-c877814054ff/On%20My%20Skin.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/e0844d19-2a5d-48bd-8eec-eb2ebff84e16/ANT%20MAN%20AND%20THE%20WASP.jpg",ANT_MAN AND THE WASP (HOMEN-FORMIGA E A VESPA)(2018)
+https://cld.pt/dl/download/2f7791e0-614b-417f-a206-838ab3ee932d/Homem-Formiga%20e%20a%20Vespa.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/9979632a-52b0-4676-8637-c2958f9374d1/ARTEMIS%20HOTEL%20DE%20BANDIDOS.jpg",ARTEMIS (HOTEL DE BANDIDOS) (2018)
+https://cld.pt/dl/download/190f9587-1b0e-42f4-ae17-90b004928323/Artemis-%20Hotel%20de%20Bandidos.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/615bcb12-1472-4196-96cd-a2fcd6185da7/HOLD%20THE%20DARK.jpg",HOLD THE DARK (PARA A ESCURIDÃO) (2018)
+https://cld.pt/dl/download/0463c497-8283-4d79-a851-addcfb74181e/Para%20a%20Escurid%C3%A3o.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/889b7d11-ad77-4de9-9052-ef4dccdd1cf9/ANIMAL%20WORLD.jpg",ANIMAL WORLD (2018)
+https://cld.pt/dl/download/164fdb92-a7c2-437a-9825-0ce861726522/Animal%20World.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/ae4ea6f7-bdb3-4fc1-9dff-f536bac4b61a/BLEACH.jpg",BLEACH (2018)
+https://cld.pt/dl/download/c8048bfb-5d5c-4b6e-9b28-e925a2177404/Bleach.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/81986881-b560-4390-b5df-c82d73c06371/DOGMAN.jpg",DOGMAN (2018)
+https://cld.pt/dl/download/19a13ab6-f4bc-4590-b1fc-2e837dae87ff/Dogman.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/ccd125e1-7835-48a6-a5e9-48248e40b68d/THE%20LAND%20OF%20STEADY%20HABITS.jpg",THE LAND OF STEADY HABITS (2018)
+https://cld.pt/dl/download/65824037-37a2-4aab-984f-7498491552d8/The%20Land%20of%20Steady%20Habits.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/4d4e33f8-bf5c-4566-8b18-91d94e9486cb/RESISTANCE%20BANKKER.jpg",THE RESISTANCE BANKER (2018)
+https://cld.pt/dl/download/ae38dd77-d778-4628-aabf-8cd56077837a/The%20Resistance%20Banker%20Bankier%20van%20het%20Verzet.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/ad47cba0-304e-4bfd-bfd9-c120d48431f7/MANDY.jpg",MANDY (2018)
+https://cld.pt/dl/download/95472e9e-6835-464c-9983-769a31c1aa03/%20Mandy.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/8103df4c-7a51-4284-b5f4-9ad048c6f6c6/NAPPILY%20EVER%20AFTER.jpg",NAPPILY EVER AFTER (2018)
+https://cld.pt/dl/download/3a842306-e52c-4b84-8ff2-6a788be80efc/Agarra-te%20%C3%A0%20Vida%2C%20N%C3%A3o%20ao%20Cabelo.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/1b77c6f0-0152-4ba3-ab85-54ce15851b56/QUINCY.jpg",QUINCY (2018)
+https://cld.pt/dl/download/04f48750-bf8f-4ff1-acd7-f2809be013f8/%20Quincy.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/a1278d82-9112-4c83-9b22-6956bb0cff64/THE%20FIRST%20PURGE.jpg",THE FIRST PURGE (2018)
+https://cld.pt/dl/download/1ef6e952-8d17-4ddb-8237-9b6a8958df12/The%20First%20Purge.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/18c4d616-ed34-4535-af2a-172baee0d58f/CHILDREN%20ACT%20A%20ABALADA%20DE%20HENRY.jpg",CHILDREN ACT "A BALADA DE ADAM HENRY" (2018)
+https://cld.pt/dl/download/bf2eec24-1083-4e83-9d81-fdf004f7430c/%20A%20Balada%20de%20Adam%20Henry.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/85bb944e-4ec3-4708-884f-02523ae8488c/pequena%20sereia.jpg",THE LITTLE MERMAID (PT-PT) A PEQUENA SEREIA (2018)
+https://cld.pt/dl/download/fa725468-9c4f-4d3e-9e00-2ae21cefd6aa/A%20Pequena%20Sereia%20%282018%29%20-%201080p%20-%20%28PortugalDownloads%29.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/38754b28-92b2-431d-828a-e26e72230379/SICARIO%202018.jpg",SICARIO - DAY OF THE SOLDADO (2018)
+https://cld.pt/dl/download/79f1afdc-c362-44b5-9ffb-5018cd8de681/Sicario-%20Guerra%20de%20Cart%C3%A9is.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/138ba4d2-ce48-4bef-9f83-7bfdb3afc5d9/the%20angel.jpg",THE ANGEL (2018)
+https://cld.pt/dl/download/84fa1c03-4a42-45ad-ad98-383709ca6857/%20The%20Angel.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/9742cf8f-9127-49be-9128-95a746003f24/mara.jpg",MARA (2018)
+https://cld.pt/dl/download/41249863-135e-47a1-8e9b-a484bdcc05c1/Mara.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/21f7fd62-6bf3-4da2-b304-679f5ce9ffae/boarding%20school.jpg",BOARDING SCHOOL (2018)
+https://cld.pt/dl/download/58b7e6c8-b282-423d-8106-ec55efe34c10/Boarding%20School.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/5bf35ba1-9b5f-4457-bd23-109c2097c7c8/summer%20of%2084.jpg",SUMMER OF 84 (2018)
+https://cld.pt/dl/download/af01afc3-25f6-4e68-9fd1-8ed317067a23/Summer%20of%2084.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/1c8be21d-0a53-4574-ae70-52f103ac7831/hans%20solo.jpg",HAN SOLO - A STAR WARS STORY (2018)
+https://cld.pt/dl/download/d002e422-deca-4b0e-b30a-8759485f148b/MrPiracy%20-%20Han%20Solo-%20Uma%20Hist%C3%B3ria%20de%20Star%20Wars.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/1bb55549-5520-410d-9d6e-3840ba1fdda8/BACKSTABBING.jpg",BACKSTABBING FOR BEGINNERS (2018)
+https://cld.pt/dl/download/51d0467b-0dbf-496d-899d-786e25bf91be/MrPiracy%20-%20Backstabbing%20for%20Beginners.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/a32fe079-1e80-44fa-b21a-6af3651ebcb1/SKYSCRAPER.jpg",SKYSCRAPER (2018)
+https://cld.pt/dl/download/39438a7f-d2a2-4391-9248-19d37f8135b8/MrPiracy%20-%20Arranha-C%C3%A9us.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/102a3c38-0ff2-4d38-b39d-71be3a54c58f/SUPERFLY.jpg",SUPERFLY (2018)
+https://cld.pt/dl/download/6acf7659-0c0e-45b1-a162-686845daa6a5/MrPiracy%20-%20SuperFly.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/67146d23-2e2b-4210-8653-743d4b47eb71/THE%20PADRE.jpg",THE PADRE (2018)
+https://cld.pt/dl/download/a9646122-f93e-4292-b584-6f31c9cc9bbe/MrPiracy%20-%20The%20Padre.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/de39b8d0-edc0-4bcb-8253-c8f5bb464c51/jurrassic%20world%202018.jpg",JURASSIC WORLD - FALLEN KINGDOM (2018)
+https://cld.pt/dl/download/ecccd3db-b981-4b2b-aa39-0f5662d16069/MrPiracy%20-%20Mundo%20Jur%C3%A1ssico-%20Reino%20Ca%C3%ADdo.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/31a152e1-a1a7-4abc-abba-ffa9efe5fe1f/a%20wrinkle%20in%20time.jpg",A WRINKLE IN TIME (2018)
+https://cld.pt/dl/download/a6d3d31b-c47e-4df5-93ac-6c3f889149d6/MrPiracy%20-%20Uma%20Viagem%20no%20Tempo.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/0fdafef0-99ca-4c24-834f-24167dbde154/cold%20november.jpg",COLD NOVEMBER (2018)
+https://cld.pt/dl/download/28410a14-ea2f-4665-824a-96647a7736cd/MrPiracy%20-%20Cold%20November.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/ece6115f-f16f-4a7a-b31d-ce0e578d8cf9/UFO.jpg",UFO (2018)
+https://cld.pt/dl/download/5cc1f003-6489-4917-8e7d-ae099fb7540c/UFO.2018.HDRip.XviD.AC3-EVO.avi
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/24f2ae23-74b1-469f-956a-96aa691445e4/THE%20BARN.jpg",THE BARN (2018)
+https://cld.pt/dl/download/45762a4b-f04a-4322-917e-7cb7286156b4/MrPiracy%20-%20The%20Barn.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/6d2d12a1-c4e7-47dc-a7d6-83c646cdfbfe/THE%20LAST%20SHARKNADO.jpg",THE LAST SHARKNADO (2018)
+https://cld.pt/dl/download/abaa6af5-03a2-475f-a33c-52e032fb4b3e/MrPiracy%20-%20The%20Last%20Sharknado-%20It%27s%20About%20Time.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/21a98f27-9961-4c67-b8fc-85cfed5d489a/THE%20MOST%20UNKNOWN.jpg",THE MOST UNKNOWN (2018)
+https://cld.pt/dl/download/cfbba1a6-eef0-4a95-b6cd-7d83b69300ef/MrPiracy%20-%20The%20Most%20Unknown.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/db13a13e-ec19-4f75-8aa4-7b62e4a2c2aa/GODS%20NOT%20DEAD.jpg",GODS NOT DEAD (2018)
+https://cld.pt/dl/download/fd03a968-7f30-47ff-98e7-84004d44769b/MrPiracy%20-%20God%27s%20Not%20Dead-%20A%20Light%20in%20Darkness.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/aef250e0-0a92-49d9-a058-871f86d9fc6c/LITTLE%20PINK%20HOUSE.jpg",LITTLE PINK HOUSE (2018)
+https://cld.pt/dl/download/61705149-033a-4358-83ab-11457d6395d1/MrPiracy%20-%20Little%20Pink%20House.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/98bfda59-0733-462b-9baa-2f42e0b3db95/AMERICAN%20ANIMALS.jpg",AMERICAN ANIMALS (2018)
+https://cld.pt/dl/download/2fdc7540-d3f6-4446-ab71-038d805f7de3/MrPiracy%20-%20American%20Animals-%20O%20Assalto.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/20e37f97-643c-45e2-a2b7-828cc830bf33/BAD%20SAMARITAN.jpg",BAD SAMARITAN (2018)
+https://cld.pt/dl/download/88698eac-498d-417f-bef1-58e5bd631332/MrPiracy%20-%20Mau%20Samaritano.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/6e392f2c-0185-4c8e-b3de-cf07cf3a2d73/COLLIDER.jpg",COLLIDER (2018)
+https://cld.pt/dl/download/d697abaf-b694-4bad-9964-9b7e625abccf/MrPiracy%20-%20Collider.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/d6462252-3639-480a-b010-fb94e51c669c/LITTLE%20BITCHES.jpg",LITTLE BITCHES (2018)
+https://cld.pt/dl/download/c79806ef-19dc-4737-8d7b-e15275d4754f/MrPiracy%20-%20Little%20Bitches.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/78ad1b55-e804-4fe4-ba7a-1a22bf9bdaf8/PATIENT%20ZERO.jpg",PATIENT ZERO (2018)
+https://cld.pt/dl/download/c0dc5dba-f107-44de-8789-b740597ea2df/MrPiracy%20-%20Patient%20Zero.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/3833e084-a47c-4aed-badc-9a8e031dcc5e/THE%20AFTER%20PARTY.jpg",THE AFTER PARTY (2018)
+https://cld.pt/dl/download/c08596d7-f3ab-48e1-b13a-d9cb4e734f87/MrPiracy%20-%20The%20After%20Party.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/cba7767c-e9f5-4023-b938-f4f203978e74/ARIZONA.jpg",ARIZONA (2018)
+https://cld.pt/dl/download/6362135a-330a-493c-896f-673f700fb2c7/MrPiracy%20-%20Arizona.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/ba3d4ffd-f59a-4351-ae3f-a5d902a1cc5b/ADRIFT.jpg",ADRIFT (À DERIVA) (2018)
+https://cld.pt/dl/download/3dec357c-b948-47e1-8cf2-b04b20cc6895/MrPiracy%20-%20%C3%80%20Deriva.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/34d52a82-b97b-4e6f-b3c7-1b32506c5185/14%20CAMERAS.jpg",14 CAMERAS (2018)
+https://cld.pt/dl/download/cb9a1055-3244-448b-8916-a376e76e78c7/MrPiracy%20-%2014%20Cameras.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/78f6cab5-77c4-4aa6-8e0d-45c4defa10ca/THE%20LEAKERS.jpg",THE LEAKERS (2018)
+https://cld.pt/dl/download/c3a57b06-4497-4677-a305-0dab3911e7cd/MrPiracy%20-%20The%20Leakers.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/85888229-2926-4a04-a379-9c03ba064076/PERMISSION.jpg",PERMISSION (TRAIÇÕES CONSENTIDAS) (2018)
+https://cld.pt/dl/download/df871b77-056f-4550-9b22-fbc88c9af3ff/MrPiracy%20-%20Trai%C3%A7%C3%B5es%20%28con%29sentidas.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/d548d34d-f2b2-450a-b332-b4f73684a830/A%20TODOS%20OS%20RAPAZES%20QUE%20AMEI.jpg",TO ALL THE BOYS I´VE LOVED BEFORE (A TODOS OS RAPAZES QUE AMEI) (2018)
+https://cld.pt/dl/download/cb930480-7db2-401d-b153-62412e46ef61/MrPiracy%20-%20A%20Todos%20os%20Rapazes%20que%20Amei.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/f560d3b5-a413-4239-b10d-f9d75017196a/UPGRAD.jpg",UPGRADE (2018)
+https://cld.pt/dl/download/4fcd0375-ba89-4e27-aa3c-9151475c37c3/MrPiracy%20-%20Upgrade.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/f679af82-7b00-441f-9e20-def227679ca2/TELL%20ME%20YOUR%20NAME.jpg",TELL ME YOUR NAME "ALONG CAME THE DEVIL" (2018)
+https://cld.pt/dl/download/eb155cd1-74f0-46e8-a678-eab5175dd04d/MrPiracy%20-%20Tell%20Me%20Your%20Name.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/259265f6-ea8c-4b02-b294-c6f244111047/BOOK%20CLUB.jpg",BOOK CLUB (DO JEITO QUE ELAS QUEREM) (2018)
+https://cld.pt/dl/download/34656a47-83d6-4366-ac39-b479e9c49a76/MrPiracy%20-%20Do%20Jeito%20Que%20Elas%20Querem.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/56076da3-9c82-4dae-b5f5-9061cad2f29c/TAG.jpg",TAG (JOGO DA APANHADA) (2018)
+https://cld.pt/dl/download/90bda4bd-3fdf-42e0-beee-cd0dbd05a703/MrPiracy%20-%20Jogo%20da%20Apanhada.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/dcf3983b-3e16-4a0d-8be7-0011a144fcc2/7%20SPLINTERS%20IN%20TIME.jpg",7 SPLINTERS IN TIME (2018)
+https://cld.pt/dl/download/31f0ef11-90d0-41ee-9294-fe26866f6b07/MrPiracy%20-%207%20Splinters%20in%20Time.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/ab322678-6786-4bd8-81be-5c930a680d9e/ANONYMOUS%20616.jpg",ANONYMOUS 616 (2018)
+https://cld.pt/dl/download/bde77569-7bb1-4ada-bbba-b91e1e744990/MrPiracy%20-%20Anonymous%20616.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/e76c995c-69fc-40b4-b200-a4edc27d30ff/PUPPET%20MASTER%20THE%20LITTLEST%20REICH.jpg",PUPPET MASTER - THE LITTLEST REICH (2018)
+https://cld.pt/dl/download/3604ef6c-fe9d-4c86-b446-843db0f0f8ca/MrPiracy%20-%20Puppet%20Master-%20The%20Littlest%20Reich.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/c60dea6c-e72f-43dd-aa5b-ad9a6f12a47f/The%20Campus.jpg",THE CAMPUS (2018)
+https://cld.pt/dl/download/27e57975-5d4a-4496-a884-a41722ce75c1/MrPiracy%20-%20The%20Campus.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/1c1ba0c6-be3d-4da4-a1ab-e6dd6958819b/THE%20ROW.jpg",THE ROW (2018)
+https://cld.pt/dl/download/39bab72b-8b1b-444f-9d4a-0d56818ced25/MrPiracy%20-%20The%20Row.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/51faeb86-c77d-4218-91b5-7f25f1bc23a8/ROBYN%20WILLIAMS.jpg",ROBIN WILLIAMS - COME INSIDE MY MIND (2018)
+https://cld.pt/dl/download/d79fd46b-7c95-49b8-8f34-af763c2022c3/MrPiracy%20-%20Robin%20Williams-%20Come%20Inside%20My%20Mind.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/162ac4e0-4184-4b82-a939-ed37edcf0ce4/HEREDIT%C3%81RIO.jpg",HEREDITARY (HEREDITÁRIO) (2018)
+https://cld.pt/dl/download/87aae4a4-ce57-4c3b-ac4d-1d315d992dcf/MrPiracy%20-%20Heredit%C3%A1rio.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/623cc77f-491a-4ec2-b7f7-edaa758cf90a/TAXI%205.jpg",TAXI (2018)
+https://cld.pt/dl/download/8d91ec6f-6685-4ced-9b40-cec05acb9077/MrPiracy%20-%20T%C3%A1xi%205.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/16e94810-d134-4f2d-b73e-2f0e1ffa92a7/NO%20CORA%C3%87%C3%83O%20DA%20ESCURIDAO%20FIRST%20REFORMED.jpg",FIRST REFORMED (NO CORAÇÃO DE ESCURIDÃO) (2018)
+https://cld.pt/dl/download/5f06719b-af70-47a5-9dc8-d8967222bf8a/MrPiracy%20-%20No%20Cora%C3%A7%C3%A3o%20da%20Escurid%C3%A3o.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/849464ea-f35a-4aa3-b5e9-8025545bd3fc/DOWN%20A%20DARK%20HALL.jpg",DOWN A DARK HALL (CORREDOR ASSOMBRADO) (2018)
+https://cld.pt/dl/download/cf5ec6f0-65ba-4f18-95bc-0f3081d740e3/MrPiracy%20-%20Corredor%20Assombrado.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/34e5ee8f-e0a2-4299-846e-ad09c07f15aa/OCEANS%208.jpg",OCEANS 8 (2018)
+https://cld.pt/dl/download/e8a42505-0f3d-44ea-8cf4-3df2c414ccb5/MrPiracy%20-%20Ocean%27s%208.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/9001095a-aea9-4830-8c2e-b3f39878bc2c/DEADPOLL1.jpg",DEADPOOL (2018)
+https://cld.pt/dl/download/0bbe81c6-ff70-4492-9f55-ce5a37cb7c3d/MrPiracy%20-%20Deadpool%202.mp4
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/3c58eae2-55df-4a2d-ab4c-6bf7bf8c91bd/REVENGE.jpg",REVENGE (2018)
+https://cld.pt/dl/download/965402e1-4a66-44e9-98a0-d8199c01f79b/Revenge.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/92533714-e428-4c41-80ce-cd63577e63f2/MOHAWK.jpg",MOHAWK (2018)
+https://cld.pt/dl/download/39f9a676-da7b-4461-abe6-7e4f2193d822/Mohawk.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/13b4de1f-11ee-4715-b026-4ea47252dc24/FERAL.jpg",FERAL (2018)
+https://cld.pt/dl/download/f5a47fba-c239-4112-b3b6-b80e18259244/Feral.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/7b54cbf0-b691-40e8-a42f-87f3db825ce1/DISTORTED.jpg",DISTORTED (2018)
+https://cld.pt/dl/download/c0b685d1-14b2-4273-9f12-fc7f4a314656/Distorted.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/19ef9233-9c9f-409f-90e3-35b0a51223fc/ULTRAVIOLET.jpg",ULTRAVIOLET (2006)
+https://cld.pt/dl/download/5ff4ab50-772d-40e1-a5cb-856f75030efd/Ultravioleta.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/1a82d746-7dd8-4a6a-87c4-2102a55e5ced/EDGE%20OF%20FEAR.jpg",EDGE OF FEAR (2018)
+https://cld.pt/dl/download/02a651d3-afb3-4e36-a068-7eff370939fb/Edge%20of%20Fear.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/1ec18778-83dd-43a3-aed0-3edef9e0937e/LIKE%20FATHER.jpg",LIKE FATHER (2018)
+https://cld.pt/dl/download/385377c0-eed1-45b5-828b-6cae3a8847d4/Like%20Father.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/8b6c3fdb-6a10-454f-bc03-56e1a86e3a08/AVENGERS%20INFINITY%20WAR.jpg",THE AVENGERS - INFINITY WAR (OS VINGADORES - GUERRA DO INFINITO) (2018)
+https://cld.pt/dl/download/3b2f3480-2ac5-4016-b42a-e4535926a850/Vingadores-%20Guerra%20do%20Infinito.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/b9fd1140-57be-4b0a-95d8-d1b2d3b22c6b/OUR%20HOUSE.jpg",OUR HOUSE (2018)
+https://cld.pt/dl/download/18715cbb-0e75-42dc-9129-2c56cab3b34d/Our%20House.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/e01e1ca3-687a-4eb8-9f6b-677e160cb442/THE%20BLEEDING%20EDGE.jpg",THE BLEEDING EDGE (SAÚDE Á VENDA) (2018)
+https://cld.pt/dl/download/425c83d9-9003-431a-bba2-e4909e978ac9/Sa%C3%BAde%20%C3%A0%20Venda_2.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/67f4f0f0-f9b1-46a8-8b7b-a309bef15f21/DAMASCUS%20COVER.jpg",DAMASCUS COVER (2018)
+https://cld.pt/dl/download/27e4545b-f802-4817-bfd6-bf8b7b27a876/Damascus%20Cover.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/9aec628b-7c92-42de-a12d-d063a10d56a6/ISLAND%20ZERO.jpg",ISLAND ZERO (2018)
+https://cld.pt/dl/download/4b6cc574-3e1a-4b5a-b2bc-2d6f4de62807/Island%20Zero.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/ca984992-1879-4784-ac18-b0c7cd483849/DEAD%20NIGHT.jpg",DEAD NIGHT (2018)
+https://cld.pt/dl/download/e15e86d3-b2a1-4e48-ae4e-6f928a58d316/Dead%20Night.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/84f4f096-d58e-4296-8d4f-0370f32c0d0e/THE%20MASTER%20CLEANSE.jpg",THE MASTER CLEANSE (2018)
+https://cld.pt/dl/download/7856e5d8-06c3-4c4f-93d8-0679da601cf8/The%20Master%20Cleanse.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/3b9e87ec-6e28-4ff2-9750-3a3d97c0397e/BREAKING%20IN.jpg",BREAKING IN (2018)
+https://cld.pt/dl/download/d0c75e6a-3126-44c9-b410-79841b5a2fa4/Breaking%20In.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/54883084-d28d-4e5d-b224-de80de978337/HOT%20SUMMER%20NIGHTS.jpg",HOT SUMMER NIGHTS (2018)
+https://cld.pt/dl/download/cf9bb500-3dd9-4734-8170-fdb805fc689a/Hot%20Summer%20Nights.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/8d0997e9-4556-4fd1-9e7d-47973ad454ef/KENNEDY.jpg",CHAPPAQUIDDICK (O SEGREDO DOS KENNEDY (2018)
+https://cld.pt/dl/download/4b3e60ac-851a-4b08-a0ff-dd85e2d9b3dc/O%20Segredo%20dos%20Kennedy.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/8b6c3fdb-6a10-454f-bc03-56e1a86e3a08/AVENGERS%20INFINITY%20WAR.jpg",THE AVENGERS - INFINITY WAR (OS VINGADORES - GUERRA DO INFINITO) (2018)
+https://cld.pt/dl/download/f801d3b5-46a8-4d16-9d3c-2ea296329d92/Avengers.Infinity.War.2018.HDRip.XviD.AC3-EVO.avi
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/18b9b0b6-7c67-4fd1-82b2-f5170da8cc41/OCCUPATION.jpg",OCCUPATION (2018)
+https://cld.pt/dl/download/c97106bc-3c25-45fd-ab33-40cfaa6aadcb/Occupation.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE0ODIzNjkzMl5BMl5BanBnXkFtZTgwODQ3MzU4NDM@._V1_SY1000_SX632_AL_.jpg",BLOCKERS (OS EMPATAS) (2018)
+https://cld.pt/dl/download/6c5990c0-c50e-4151-92f9-3cf97e7d36e9/Os%20Empatas.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/e15a00a8-c9bc-43a8-958c-7440f360b86c/APACALYPSE%20RISING.jpg",APOCALYPSE RISING (2018)
+https://cld.pt/dl/download/3fcb4d6f-3f68-43fa-801b-405be5309c5f/Apocalypse%20Rising.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/5208a802-92c2-4d3a-bc00-203d0e3d82c1/EXTIN%C3%87%C3%83O.jpg",EXTINCÃO (2018)
+https://cld.pt/dl/download/3fda0c9c-b4ce-46eb-b69f-e857fcee0eb9/Extin%C3%A7%C3%A3o.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA4OWQ0NGYtNDgxNC00MzI4LTgzNzktYzAxMDcyMGI3OTFmXkEyXkFqcGdeQXVyNTIyODMzMzA@._V1_SY1000_SX675_AL_.jpg",GHOST STORIES (2018)
+https://cld.pt/dl/download/295870ba-3702-40ec-ad8e-d66272068b14/Ghost%20Stories_2.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODhlNDc0ZTQtN2FiOS00OGRiLWE2YmYtZmI2ZmU1NzM5MmJlXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SY1000_SX675_AL_.jpg",THE CATCHER WAS A SPY (2018)
+https://cld.pt/dl/download/da7dafb0-d555-442b-8f78-4c036e247eff/The%20Catcher%20Was%20a%20Spy.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/e6a85b33-5411-4f55-b66e-e964623c29cf/MV5BMTU0OTM4NTMyMF5BMl5BanBnXkFtZTgwNDA5MzUwNTM%40._V1_SY1000_CR0%2C0%2C674%2C1000_AL_.jpg",TULLY (2018)
+https://cld.pt/dl/download/378d4cf5-31ba-4e8a-8b63-9774cc68adf5/Tully.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzU5NzhlOGYtODE0YS00ZmUxLWI2YzctNTM0ZWNjMmJjMjBkXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_SY1000_SX675_AL_.jpg",PRAYER BEFORE DAWN (PRECE AO NASCER DO DIA)(2017)
+https://cld.pt/dl/download/2f6f4840-7601-4cf9-be96-630a27780e0b/Prece%20ao%20Nascer%20do%20Dia.mp4
+
+EXTINF:-1 tvg-logo="https://cld.pt/dl/download/dfd8eb22-d5a6-41f8-8ce3-a7118dc0c2ff/BOURNE%20IDENTITY.jpg",JASON BOURNE - THE BOURNE IDENTITY (2002)
+http://server417.seedhost.eu:88/VOD/Action/Action_2002_THE_BOURNE_IDENTITY:_(%ce%a7%cf%89%cf%81%ce%af%cf%82_%cf%84%ce%b1%cf%85%cf%84%cf%8c%cf%84%ce%b7%cf%84%ce%b1)_Franka_Potente,_Matt_Damon,_Chris_Cooper.mkv
+
+EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTIyMDFmMmItMWQzYy00MjBiLTg2M2UtM2JiNDRhOWE4NjBhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_SX676_AL_.jpg",JASON BOURNE - THE BOURNE SUPREMACY (2004)
+http://server417.seedhost.eu:88/VOD/Action/Action_2004_THE_BOURNE_SUPREMACY:_(%ce%a3%cf%84%ce%b7_%cf%83%ce%ba%ce%b9%ce%ac_%cf%84%cf%89%ce%bd_%ce%ba%ce%b1%cf%84%ce%b1%cf%83%ce%ba%cf%8c%cf%80%cf%89%ce%bd)_Matt_Damon,_Franka_Potente,_Joan_Allen.mkv
+
+EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGNiNmU2YTMtZmU4OS00MjM0LTlmYWUtMjVlYjAzYjE2N2RjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_SX675_AL_.jpg",JASON BOURNE - THE BOURNE ULTIMATUM (2007)
+http://server417.seedhost.eu:88/VOD/Action/Action_2007_THE_BOURNE_ULTIMATUM:_(%ce%a4%ce%bf_%cf%84%ce%b5%ce%bb%ce%b5%cf%83%ce%af%ce%b3%cf%81%ce%b1%cf%86%ce%bf_%cf%84%ce%bf%cf%85_%ce%9c%cf%80%ce%bf%cf%81%ce%bd)_Matt_Damon,_Edgar_Ram%c3%adrez,_Joan_Allen.mkv
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/f2c1ff89-6836-4fdc-b099-17542a091491/billionaires%20boys%20club.jpg",BILLIONAIRES BOYS CLUB 2018
+https://cld.pt/dl/download/ee0137fd-143c-4097-a804-4924376d923d/Billionaire%20Boys%20Club.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/cfe2a212-d882-446a-abbd-885dc9633531/FATHER%20OF%20THE%20YEAR.jpg",FATHER OF THE YEAR 2018
+https://cld.pt/dl/download/2ce7b70c-4ebf-4003-9339-c563c0743746/Father%20of%20the%20Year.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/1562dea3-7843-4254-8ca7-9156890dd6dd/escape%20plan%202%20hades.jpg",ESCAPE PLAN 2 - HADES (PLANO DE FUGA 2 - HADES) 2018
+https://cld.pt/dl/download/280d6860-9f9f-4cd5-b41c-93b73462f2b5/Plano%20de%20Fuga%202-%20Hades.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/6264d556-760f-4f93-8c2b-d559ee388167/DELIRIUM.jpg",DELIRIUM 2018
+https://cld.pt/dl/download/1f88922e-5725-4260-b17b-b7f33a2c731f/Delirium.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/73aa8250-43e3-49b1-b227-db05c5aa2cd8/FIRST%20WE%20TAKE%20BROOKLYN.jpg",FIRST WE TAKE BROOKLYN 2018
+https://cld.pt/dl/download/fea58922-6ae7-48cb-b2e9-03440106d743/First%20We%20Take%20Brooklyn_2.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/8ea2f546-2a4b-4084-9c59-5812cf220ba5/SIBERIA.jpg",SIBERIA 2018
+https://cld.pt/dl/download/ed9f552c-6fe1-433e-8c80-0d6f19e5e9fe/Siberia.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/7d6d6cfd-8e9c-487b-8db1-5473ee6c91d1/LOVE%20SIMON.jpg",LOVE SIMON 2018
+https://cld.pt/dl/download/45adaf76-906b-4666-840e-e67c3bddea9a/Com%20Amor%2C%20Simon.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/00f09691-879b-4166-a45d-bfa6027aa582/OVERBOARD.jpg",OVERBOARD (PELA BORDA FORA) 2018
+https://cld.pt/dl/download/e0e7a9f9-1b7c-4ca9-8259-e685fe60343a/Overboard%20_%20Pela%20Borda%20Fora%20%282018%29.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/fd75a68e-9fb6-48ac-9698-b9c8dfb03809/WINCHESTER.jpg",WINCHESTER (A MALDIÇÃO DA CASA WINCHESTER) 2018
+https://cld.pt/dl/download/073ca12c-2b69-4bac-b8e8-c0b36f028dd1/WINCHESTER%202018.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/c851a6f8-f45d-46b1-aa89-9198a4cea2e6/THE%20RAKE.jpg",THE RAKE 2018
+https://cld.pt/dl/download/d1aaab83-41e4-4da7-a53b-0566a0f4782b/The%20Rake.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/e2ae5071-51ce-43d5-b110-3b472393e4d3/HOW%20IT%20ENDS.jpg",HOW IT ENDS 2018
+https://cld.pt/dl/download/b8494324-b83f-473f-9302-860178d7908f/How%20It%20Ends.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/84fc95b7-1a42-473d-964d-5a08a3a5558e/TRAFFIK.jpg",TRAFFIK 2018
+https://cld.pt/dl/download/6b96c71a-7e36-444e-be5d-e667391e5ce7/Traffik.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/ac0a060e-a5a6-4c7d-8fff-a4b23e788d77/GAME%20NIGHT.jpg",GAME NIGHT (NOITE DE JOGO) 2018
+https://cld.pt/dl/download/26570aea-a619-4b52-99db-de5b1fb76b34/Noite%20de%20Jogo.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/eaaff2de-b8dc-4440-be9a-a5d92cfdcf3d/READY%20PLAYER%20ONE.jpg",READY PLAYER ONE 2018
+https://cld.pt/dl/download/d388d1b8-96ee-4970-938b-43b5cebe88e3/Ready%20Player%20One-%20Jogador%201.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/ca914fa6-b32b-4328-9009-fa8fc52d6625/TAU.jpg",TAU 2018
+https://cld.pt/dl/download/df38ebff-71b0-4936-ba29-1ce5010f879a/TAU.2018.1080p.NF.WEB-DL.DD5.1.x264-NTb.mkv.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/466639df-c2b6-4662-aca6-40611e06b792/211.JPEG",211 2018
+https://cld.pt/dl/download/b0514bdc-b938-4c74-a435-f32b5a73ec02/211.mp4
+https://uptobox.com/844jtz2zap1d
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/21dfe0d8-2b76-4852-b6ef-979839be6958/THE%20KISSING%20BOOTH.jpg",THE KISSING BOOTH (A BANCA DOS BEIJOS) 2018
+https://cld.pt/dl/download/b6061f12-1899-4d5d-9ee6-b113279befb2/A%20Banca%20dos%20Beijos_2.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/4d7d0fe2-c0ad-4f38-abce-0c6b85c50d7a/50%20SHADES%20FREED.jpg",50 SHADES FREED (AS 50 SOBRAS LIVRE) 2018
+https://cld.pt/dl/download/c8b9f569-bf7a-4d31-81b1-66975fc62363/As%20Cinquenta%20Sombras%20Livre.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/a2c8966d-a889-4094-961f-9c8bc553ea4d/CALIBRE.jpg",CALIBRE 2018
+https://cld.pt/dl/download/f2d753c2-d969-4c20-afbf-dbe2befdfc71/Calibre.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/d35697e7-e2ef-42d9-8b9c-7701f82a5079/2036%20ORIGIN%20UNKNOWN.jpg",2036 ORIGIN UNKNOWN 2018
+https://cld.pt/dl/download/1b43791e-6bdd-4178-9800-561f246d3847/2036%20Origin%20Unknown.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/9c52897e-4a40-4a25-9cc6-8503548e179d/HIGHER%20POWER.jpg",HIGHER POWER 2018
+https://cld.pt/dl/download/d535f798-9ca4-4b7a-89ff-776e8b222b05/Higher%20Power.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/7c771c99-9428-40a3-a6a0-a27d0ad3b038/MARIA%20MADALENA.jpg",MARIA MAGDALENE (MARIA MADALENA) 2018
+https://cld.pt/dl/download/4215f9dc-1f08-4325-bb78-f760ee33bd21/Maria%20Madalena_2.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/cd0e94b4-4680-45bb-821b-64b490365a8d/FURIOUS%208.jpg",THE FATE OF THE FURIOUS 8 (VELOCIDADE FURIOSA 8) 2018
+https://cld.pt/dl/download/1035064e-48cf-44a9-81b6-2213af317fee/Velocidade%20Furiosa%208.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/fa775fce-912b-4217-8f15-38698d691c54/ANON.jpg",ANON 2018
+https://cld.pt/dl/download/0905b3bb-83cd-47be-b257-656b08339a2b/Anon_2.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/b5363225-e88f-4704-922f-0fe169f472b5/BLACK%20PANTHER.jpg",BLACK PANTHER (PANTERA NEGRA) 2018
+https://cld.pt/dl/download/98b23247-19c8-46c0-8949-f6a679982359/Pantera%20Negra.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/c65f532c-2cb1-4c33-bf42-da44bab221df/THE%2015%2017%20TO%20PARIS.jpg",THE 15:17 TO PARIS (15:17 DESTINO PARIS) 2018
+https://cld.pt/dl/download/c7683e61-dcc3-4fb7-af7e-c0271f650a4d/15-17%20Destino%20Paris.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/3c0beddb-50ea-4f0f-b60d-b07d54eac5d9/I%20CANONLY%20IMAGINE.jpg",I CAN ONLY IMAGINE 2018
+https://cld.pt/dl/download/28f707b1-351b-478f-b93f-548a9ee95074/I%20Can%20Only%20Imagine.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/408c82f9-3ec5-429d-bff5-235767908050/BIG%20LEGEND.jpg",BIG LEGEND 2018
+https://cld.pt/dl/download/f503711a-3f8b-4c23-9531-307c472d03e8/Big%20Legend.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/2e65c8ca-a11e-487b-a47d-9d0afa5b2df1/RED%20SPARROW.jpg",RED SPARROW (AGENTE VERMELHA) 2018
+https://cld.pt/dl/download/a51d402c-bcd3-4aec-9d8a-4bca3b8bda48/A%20Agente%20Vermelha.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/d32c9f08-63d1-4993-8020-777f75f1d215/TOMB%20RAIDER.jpg",TOMBRAIDER 2018
+https://cld.pt/dl/download/b08d375d-fdac-4ccb-b4b0-46102875dbfc/Tomb%20Raider%20-%20A%20origem.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/8adbf4e3-8bb0-4894-9b39-818fb9591298/TERMINAL.jpg",TERMINAL 2018
+https://cld.pt/dl/download/1af5ad6a-3876-4601-b8d6-28d47168df38/Terminal.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/7c7659dd-825d-4984-a132-c64b72c6cf62/DOMESTICS.jpg",THE DOMESTICS  2018
+https://cld.pt/dl/download/0896b9ed-890b-4cc6-880a-6e2738d747af/The%20Domestics.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/f578cdd8-2086-4cc3-b416-f74e91b99660/A%20QUIET%20PLACE.jpg",A QUIET PLACE (UM LUGAR SILENCIOSO) 2018
+https://cld.pt/dl/download/575592e3-6f93-4236-a153-732f3803712d/Um%20Lugar%20Silencioso.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/8af6219b-c3c8-4f40-99ab-83a8a12dfba3/PACIFIC%20RIM%202.jpg",PACIFIC RIM 2 - UPRISING (BATALHA DO PACÍFICO 2 - A REVOLTA) 2018
+https://cld.pt/dl/download/574ca194-8b73-491e-b755-8ffb3254c45d/Batalha%20do%20Pac%C3%ADfico-%20A%20Revolta.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/47a8f962-ffe2-4d3b-bda9-f2380a69a1df/RAMPAGE.jpg",RAMPAGE 2018
+https://cld.pt/dl/download/e53a93b5-4285-4b5f-b803-d98f81425462/Rampage%20-%20Fora%20de%20Controlo.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/c7093a6e-9a78-4561-96f9-75cc3e011b87/BAYWATCH.jpg",BAYWATCH (MARÉS VIVAS ) 2017
+https://cld.pt/dl/download/7db2bc83-2b27-4d58-a6a1-b286f9bd019f/Baywatch-%20Mar%C3%A9s%20Vivas_2.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/6ef5ef80-b9c4-49f2-9c75-f935350e8f7f/JUMANJI.jpg",JUMANJI - BEMVINDOS Á SELVA 2017
+https://cld.pt/dl/download/d80e6b71-de84-404f-b8c9-c666544fb9d3/Jumanji-%20Bem-Vindos%20%C3%A0%20Selva_2.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/d9d939db-fba9-4ac7-b836-3ed3f27f2048/THE%20NANNY.jpg",THE NANNY 2017
+https://cld.pt/dl/download/02fcf8f7-e990-4b7a-82b2-cdbd6d650058/The%20Nanny.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/c866fff4-9a1a-4a64-9e87-3bf3ff073d08/SWEET%20COUNTRY.jpg",SWEET COUNTRY 2017
+https://cld.pt/dl/download/8a3d01a1-9071-456b-b16c-cd23adcb8f0e/Sweet%20Country.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/9282e2f1-b270-4f8c-ab03-4b590dedb474/FURIOUS%207.jpg",FURIOUS 7 (VELOCIDADE FURIOSA 7) 2015
+https://cld.pt/dl/download/5064ffde-1562-4164-8b71-0f16c1faef30/Velocidade%20Furiosa%207.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/5c4f67b4-82dc-45ca-8815-2090b59aabbf/BIRDMAN.jpg",BIRDMAN 2014
+https://cld.pt/dl/download/766e9cb4-758c-4d6f-976f-6126d2c0e681/Birdman.2014.1080p.BluRay.x264.YIFY.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/c3a253cb-6ac1-4e01-bf2d-c54736023f37/JOHN%20CARTER.jpg",JOHN CARTER 2012
+https://cld.pt/dl/download/a7f242f7-a2dc-4dbe-8b0d-d5db79aaa811/John.Carter.2012.BluRay.10Bit.1080p.movie4u.cc.mkv.mp4
+
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/01f246c1-7531-4a68-a349-4fce4dd3af0d/BATMAN.jpg",BATMAN - O CAVALEIRO DAS TREVAS 2008
+https://cld.pt/dl/download/86343fd1-4eac-4653-8fc5-0dc1ded2382a/Batman%20-%20O%20Cavaleiro%20das%20Trevas.mp4
