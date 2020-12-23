@@ -1,4 +1,23 @@
-﻿#EXTM3U
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>thumbnail</layoutype>
+name =  dmode
+dir = dmode
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/7CGDz3s.jpg" group-title="FILMES",     6.Underground.2019[COLOR white][I][B][COLOR lime]»»[/COLOR] flechanegra[/I][/B][/COLOR]
-https://dark-sea-d3e5.flechanegra1977.workers.dev/0:/6%20Underground%20(2019)/6.Underground.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4
+AA
+
+<channels> 
+
+<channel>
+
+<name>[COLOR  green][B].[/B] [/COLOR][COLOR  yellow][B]KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR white][B]6.Underground.2019[/B] [/COLOR]</name>
+
+<thumbnail>https://cld.pt/dl/download/23f70bfc-f853-429f-93bb-4b2884db631c/concertos-portugal-2018.jpg?download=true</thumbnail>
+<fanart>https://cld.pt/dl/download/86500854-afc6-480a-b50e-fb518f1c9372/CONCERTOS.jpg?download=true</fanart>
+<link>https://dark-sea-d3e5.flechanegra1977.workers.dev/0:/6%20Underground%20(2019)/6.Underground.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4</link>
+<externallink></externallink>
+</channel>
+
+
+
+</channels>
