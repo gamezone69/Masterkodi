@@ -232,4 +232,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <externallink>https://raw.githubusercontent.com/gamezone69/Masterkodi/master/PIPOCATEST.xml</externallink>
 </channel>
  
+ <channel>
+ 
+<name>[COLOR  green][B].[/B] [/COLOR][COLOR  yellow][B]KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR white][B]Este espaço é apenas pra testes[/B] [/COLOR]</name>
+ 
+<thumbnail>https://cld.pt/dl/download/813a1446-ef38-43fe-b12f-df9bc5a3a1be/FRANCE.jpg?download=true</thumbnail>
+<fanart>https://cld.pt/dl/download/813a1446-ef38-43fe-b12f-df9bc5a3a1be/FRANCE.jpg?download=true</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gamezone69/Masterkodi/master/FILMESS</externallink>
+</channel>
+ 
+ 
+ 
 </channels>
