@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] 94FM[/B][/COLOR]</title>
+<link>http://195.8.58.150:35022/stream/1/$$lsname=94FM (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIO94FM.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] AMALIA[/B][/COLOR]</title>
+<link>http://centova.radios.pt:9496/stream/1/$$lsname=AMALIA (HTTP source #01)</link>
+<link>http://stream.radio.com.pt:9496/stream$$lsname=AMALIA (HTTP source #02)</link>
+<link>http://link.radios.pt/amalia?1487014253471.mp3$$lsname=AMALIA (HTTP source #03)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOAMALIA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ANTENA 1[/B][/COLOR]</title>
+<link>http://radiocast.rtp.pt/antena180a.mp3$$lsname=ANTENA 1 (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOANTENA1.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ANTENA 2[/B][/COLOR]</title>
+<link>http://radiocast.rtp.pt/antena280a.mp3$$lsname=ANTENA 2 (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOANTENA2.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ANTENA 3 RADIO[/B][/COLOR]</title>
+<link>http://radiocast.rtp.pt/antena380a.mp3$$lsname=ANTENA 3 RADIO (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOANTENA3.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ANTENA MINHO[/B][/COLOR]</title>
+<link>http://centova.radios.pt:9464/stream/1/$$lsname=ANTENA MINHO (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOANTENAMINHO.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] BESTFM[/B][/COLOR]</title>
+<link>http://radio.2kom.ru:8000/BestFM$$lsname=BESTFM (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOBESTFM.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CIDADE FM[/B][/COLOR]</title>
+<link>http://mcrscast.mcr.iol.pt/cidadefm$$lsname=CIDADE FM (HTTP source #01)</link>
+<link>http://mcrwowza2.mcr.iol.pt/cidadefm/apple.sdp/chunklist_w1928988836.m3u8$$lsname=CIDADE FM (HTTP source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOCIDADEFM.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] HIPER FM[/B][/COLOR]</title>
+<link>http://195.23.85.126:9500/stream/1/$$lsname=HIPER FM (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOHIPERFM.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] M80[/B][/COLOR]</title>
+<link>http://mcrscast.mcr.iol.pt/m80$$lsname=M80 (HTTP source #01)</link>
+<link>http://mcrwowza6.mcr.iol.pt/m80/ngrp:m80.stream_all/playlist.m3u8$$lsname=M80 (HTTP source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/M80RADIO.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MARCOENSE FM[/B][/COLOR]</title>
+<link>http://137.74.160.250:8000/;stream/1$$lsname=MARCOENSE FM (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOMARCOENSEFM.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MARGINAL[/B][/COLOR]</title>
+<link>http://centova.radios.pt:8499/stream/1/$$lsname=MARGINAL (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOMARGINAL.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MEGA HITS[/B][/COLOR]</title>
+<link>https://19553.live.streamtheworld.com/MEGA_HITS_SC$$lsname=MEGA HITS (HTTP source #01)</link>
+<link>http://19553.live.streamtheworld.com/MEGA_HITS_SC$$lsname=MEGA HITS (HTTP source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOMEGAHITS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NOSTALGIA[/B][/COLOR]</title>
+<link>http://centova.radios.PT 8435/stream$$lsname=NOSTALGIA (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIONOSTALGIA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NOVA ERA[/B][/COLOR]</title>
+<link>http://centova.radios.pt:9478/stream/1/$$lsname=NOVA ERA (HTTP source #01)</link>
+<link>http://stream.radio.com.pt:9478/stream$$lsname=NOVA ERA (HTTP source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIONOVAERA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NOVE3CINCO (Povoa Lanhoso)[/B][/COLOR]</title>
+<link>http://centova.radios.pt:9522/stream/1/$$lsname=NOVE3CINCO (Povoa Lanhoso) (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIONOVE3CINCO.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] OCEANO PACIFICO[/B][/COLOR]</title>
+<link>https://19613.live.streamtheworld.com/OCEANPACIFICAAC_SC$$lsname=OCEANO PACIFICO (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOOCEANOPACIFICO.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ORBITAL[/B][/COLOR]</title>
+<link>http://195.23.85.126:8401/stream/1/$$lsname=ORBITAL (HTTP source #01)</link>
+<link>http://195.23.85.126:8401/1$$lsname=ORBITAL (HTTP source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOORBITAL.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] OXIGÉNIO[/B][/COLOR]</title>
+<link>http://195.23.85.126:9498/stream/1/$$lsname=OXIGÉNIO (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOOXIGENIO.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PLACARD[/B][/COLOR]</title>
+<link>http://213.239.218.99:7098/;?1475760096281.aac$$lsname=PLACARD (HTTP source #01)</link>
+<thumbnail>http://www.radioplacard.pt/files/32/781.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RADAR[/B][/COLOR]</title>
+<link>http://centova.radios.pt:8497/stream/1/$$lsname=RADAR (HTTP source #01)</link>
+<link>http://stream.radio.com.pt:8497/stream$$lsname=RADAR (HTTP source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIORADAR.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RADIO CANCAO NOVA[/B][/COLOR]</title>
+<link>http://rdportugal-lh.akamaihd.net/i/rdportugal_1@191321/index_1_a-p.m3u8?sd=10&rebase=on$$lsname=RADIO CANCAO NOVA (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOCANCAONOVA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RADIO CASCAIS[/B][/COLOR]</title>
+<link>http://5.9.14.150:9300/;$$lsname=RADIO CASCAIS (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOCASCAIS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RADIO CASTELO BRANCO[/B][/COLOR]</title>
+<link>http://centova.radio.com.pt:9462/;$$lsname=RADIO CASTELO BRANCO (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOCASTELOBRANCO.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RADIO CLUBE PENAFIEL[/B][/COLOR]</title>
+<link>http://centova.radios.pt:9476/;$$lsname=RADIO CLUBE PENAFIEL (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOCLUBEPENAFIEL.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RADIO COMERCIAL[/B][/COLOR]</title>
+<link>http://mcrwowza4.mcr.iol.pt/comercial/ngrp:comercial.stream_all/playlist.m3u8$$lsname=RADIO COMERCIAL (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOCOMERCIAL.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RADIO FESTIVAL[/B][/COLOR]</title>
+<link>http://centova.radios.pt:9520/stream/1/$$lsname=RADIO FESTIVAL (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOFESTIVAL.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RADIO NOAR[/B][/COLOR]</title>
+<link>http://centova.radio.com.pt:9472/;$$lsname=RADIO NOAR (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIONOAR.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RADIO NOVA[/B][/COLOR]</title>
+<link>http://centova.radios.pt:9528/stream/1/$$lsname=RADIO NOVA (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIONOVA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RADIO ONDA VIVA[/B][/COLOR]</title>
+<link>http://centova.radios.pt:9524/stream/1/$$lsname=RADIO ONDA VIVA (HTTP source #01)</link>
+<link>http://centova.radios.pt:9524/stream$$lsname=RADIO ONDA VIVA (HTTP source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOONDAVIVA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RADIO PORTALEGRE[/B][/COLOR]</title>
+<link>http://centova.radios.pt:9492/stream$$lsname=RADIO PORTALEGRE (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOPORTALEGRE.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RADIO PORTUENSE[/B][/COLOR]</title>
+<link>http://88.198.72.46:9848/;$$lsname=RADIO PORTUENSE (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOPORTUENSE.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] REGIONAL AROUCA[/B][/COLOR]</title>
+<link>http://centova.radio.com.pt:8485/;$$lsname=REGIONAL AROUCA (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOREGIONALAROUCA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RADIO RENASCENCA[/B][/COLOR]</title>
+<link>https://19573.live.streamtheworld.com/RADIO_RENASCENCA_SC$$lsname=RADIO RENASCENCA (HTTP source #01)</link>
+<link>http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC$$lsname=RADIO RENASCENCA (HTTP source #02)</link>
+<link>http://19553.live.streamtheworld.com/RADIO_RENASCENCAAAC$$lsname=RADIO RENASCENCA (HTTP source #03)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIORENASCENCA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RADIO SIM[/B][/COLOR]</title>
+<link>http://62.48.143.117/RADIO_SIM_SC$$lsname=RADIO SIM (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOSESTRANGEIRAS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RADIO SINES[/B][/COLOR]</title>
+<link>http://176.9.88.190:9580$$lsname=RADIO SINES (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOSESTRANGEIRAS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RADIO TERRA NOVA[/B][/COLOR]</title>
+<link>http://centova.radios.pt:9404/stream$$lsname=RADIO TERRA NOVA (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOSESTRANGEIRAS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RADIO VALE DO MINHO[/B][/COLOR]</title>
+<link>http://centova.radio.com.pt:9434/;$$lsname=RADIO VALE DO MINHO (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOSESTRANGEIRAS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RFM[/B][/COLOR]</title>
+<link>http://19573.live.streamtheworld.com/RFMAAC$$lsname=RFM (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOSESTRANGEIRAS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RFM 80[/B][/COLOR]</title>
+<link>https://19573.live.streamtheworld.com/GR80SRFM_SC$$lsname=RFM 80 (HTTP source #01)</link>
+<link>http://19573.live.streamtheworld.com/GR80SRFM_SC$$lsname=RFM 80 (HTTP source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOSESTRANGEIRAS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SMOOTH FM[/B][/COLOR]</title>
+<link>http://mcrscast.mcr.iol.pt/smoothfm$$lsname=SMOOTH FM (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOSESTRANGEIRAS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SUPER FM (104.8)[/B][/COLOR]</title>
+<link>http://5.9.14.150:9302/;$$lsname=SUPER FM (104.8) (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOSESTRANGEIRAS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TSF[/B][/COLOR]</title>
+<link>http://tsfdirecto.tsf.pt/tsfdirecto.mp3$$lsname=TSF (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOSESTRANGEIRAS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] VODAFONE FM[/B][/COLOR]</title>
+<link>http://mcrwowza4.mcr.iol.pt/vodafone/ngrp:vodafone.stream_all/playlist.m3u8$$lsname=VODAFONE FM (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOSESTRANGEIRAS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FR: VOICE FRANCE[/B][/COLOR]</title>
+<link>http://audio1.video.ria.ru/voicefre?streamType=live$$lsname=FR: VOICE FRANCE (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOSESTRANGEIRAS.png</thumbnail></item>
+Copyright © 2019 - TeamBlue
