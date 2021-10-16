@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/4bf02747-7e70-44c9-bb75-ecc7310a9863/GREAT%20WHITE.jpg?download=true" group-title="NOVIDADES 2021",GREAT WHITE 2021
+https://cld.pt/dl/download/747002ff-86ed-4995-8e04-2bb27b850f23/MrPiracy%20-%20Great%20White.mp4?download=true
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/047323e0-f4dd-4b09-bdeb-f49586e10179/CANDYMAN.jpg?download=true" group-title="NOVIDADES 2021",A LENDA DO CANDYMAN 2022
 https://cld.pt/dl/download/1593e4c8-5555-4c86-90e0-587b53c636fd/MrPiracy%20-%20A%20Lenda%20de%20Candyman.mp4?download=true
 
