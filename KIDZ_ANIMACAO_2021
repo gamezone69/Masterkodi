@@ -1,7 +1,12 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="" tvg-name="O DRAGÃO DOS DESEJOS" tvg-logo="" group-title="",O DRAGÃO DOS DESEJOS 2021
+https://cld.pt/dl/download/63fe576c-77d9-4fe4-a924-96362f0397d5/O%20DRAG%C3%83O%20DOS%20DESEJOS%20PT.mp4?download=true
 
+
+#EXTINF:-1 tvg-id="" tvg-name="BOSS BABY - NEGOCIAS DA FAMILIA" tvg-logo="https://cld.pt/dl/download/6f722a50-44ea-4f85-8b16-3af589df495c/BOSS%20BABY%20FAMILY%20BUSINESS%20PT.jpg?download=true" group-title="",BOSS BABY - NEGOCIAS DA FAMILIA 2021
+https://cld.pt/dl/download/4684eb0f-0772-4a58-a859-cb13180db7eb/Boss%20Baby-%20Neg%C3%B3cios%20de%20Fam%C3%ADlia.mp4?download=true
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/40c9a7e7-06c8-489f-817f-6d4edf50692c/a%20jornada%20de%20vivo.jpg?download=true" group-title="NOVIDADES 2021",A JORNADA DO VIVO 2022
