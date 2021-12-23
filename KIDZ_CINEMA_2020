@@ -1,11 +1,28 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Outside the Wire (2021) RT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XYLiMxHAaCsoyrVo38LBWMw2p8.jpg" group-title="NOVIDADES 2021",Outside the Wire (2021) RT
-http://158.69.126.29:8080/movie/looneyvod/looney/23967.mp4?token=TxdaBxFYR1xEA1BVUFRUCQNTXQMEUQRTAQ0LA1UNBgEABABfUwcABV8UTUAQEBRUB1pmXAURDgJXDQRVTxZHF1FHbQ8GEl9EUwJDTkEQD1wDFQMEVwAMA1cEB1JWGBAUXVEQXEADVlZVFE1ABhwSVBRZWFk+V1FGDVdXQFkWEEgWWlw5BlUIBwhSQ1hBVEQdRF5KRUMJWkUIWB5AAV1GFlVBV0RYEldQVgJDTkEHCUQIQ0tMQwkWYDAWHkAGTEYBWkZbCQwSX0QLRlVAT0YPQjlFXEYVQVFRCVFAQFkWA0YYF18HGm8GCQhYBAEXDQlfFRUDF1IDBBJIFl8NDV1GC0ZqQg8GEl8IE1oNHw==
 
 #EXTINF:-1 tvg-id="" tvg-name="MATRIX_4" tvg-logo="https://cld.pt/dl/download/38fb4ab7-c3b1-40d4-ac41-c0e5640e3fde/m5.jpg?download=true" group-title="",MATRIX 4 (2021) ESPECIAL NATAL
 https://cld.pt/dl/download/2a10145e-2633-4c73-b838-ddd866b42544/The.Matrix.4.Resurrections.2021.1080p.WEBRip.x264-RARBG.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="CLIFFORD" tvg-logo="https://cld.pt/dl/download/3e9d5475-8ff7-41df-a61d-ee22768fed05/CLIFFORD.jpg?download=true" group-title="",CLIFFORD - O CÃO VERMELHO 2021
+https://cld.pt/dl/download/d3871b8c-f723-4ac1-8990-d26ab1c1f58d/Pobre.tv%20-%20Clifford%2C%20o%20C%C3%A3o%20Vermelho.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name=",FAMINTO" tvg-logo="https://cld.pt/dl/download/6de32247-f350-4643-ac43-ac58e96811ce/FAMINTO.jpg?download=true" group-title="",FAMINTO 2021
+https://cld.pt/dl/download/aadfb6cd-2eff-4426-aef0-f2859f3fddcc/Faminto.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="RESIDENT EVIL RACOON CITY" tvg-logo="https://cld.pt/dl/download/4694c6f0-2edd-448c-9209-3309dbc1d522/resident-evil_RACOON%20CITY.jpg?download=true" group-title="",RESIDENT EVIL RACOON CITY 2021
+https://cld.pt/dl/download/1103524d-8dfc-40ce-a63d-5c1dfb5e86c6/Resident%20Evil-%20Raccoon%20City.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="VENOM 2" tvg-logo="https://cld.pt/dl/download/e0796bfb-c0d8-4b15-b63f-a058af7eef7a/VENOM2.jpg?download=true" group-title="",VENOM 2 - TEMPO DE CARNIFICINA 2021
+https://cld.pt/dl/download/94f249b3-1658-42f3-8a06-5382b4f6333f/Venom-%20Tempo%20de%20Carnificina.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="Outside the Wire (2021) RT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XYLiMxHAaCsoyrVo38LBWMw2p8.jpg" group-title="NOVIDADES 2021",Outside the Wire (2021) RT
+http://158.69.126.29:8080/movie/looneyvod/looney/23967.mp4?token=TxdaBxFYR1xEA1BVUFRUCQNTXQMEUQRTAQ0LA1UNBgEABABfUwcABV8UTUAQEBRUB1pmXAURDgJXDQRVTxZHF1FHbQ8GEl9EUwJDTkEQD1wDFQMEVwAMA1cEB1JWGBAUXVEQXEADVlZVFE1ABhwSVBRZWFk+V1FGDVdXQFkWEEgWWlw5BlUIBwhSQ1hBVEQdRF5KRUMJWkUIWB5AAV1GFlVBV0RYEldQVgJDTkEHCUQIQ0tMQwkWYDAWHkAGTEYBWkZbCQwSX0QLRlVAT0YPQjlFXEYVQVFRCVFAQFkWA0YYF18HGm8GCQhYBAEXDQlfFRUDF1IDBBJIFl8NDV1GC0ZqQg8GEl8IE1oNHw==
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Double Dad (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPVy1YUnXUKck11KwaPfKDAr42P.jpg" group-title="NOVIDADES 2021",Double Dad (2021)
 http://158.69.126.29:8080/movie/looneyvod/looney/23982.mp4?token=TxdaBxFYR1xEAlYGBQFQCV4FDlQFAQIFAAZRWloGA1EHVgZUBgUDXwIUTUAQEBRUB1pmXAURDgJXDQpQTxZHF1FHbQ8GEl9EUwJDTkEQD1wDFQMEVwAMA1YNCltQGBAUXVEQXEAHU1VRFE1ABhwSVBRZWFk+V1FGDVdXQFkWEEgWWlw5BlUIBwhSQ1hBVEQdRF5KRUMJWkUIWB5AAV1GFlVBV0RYEldTVQ5DTkEHCUQIQ0tMQwkWYDAWHkAGTEYBWkZbCQwSX0QLRlVAT0YPQjlFXEYVQVFRCVFAQFkWA0YYF18HGm8GCQhYBAEXDQlfFRUDF1IDBBJIFl8NDV1GC0ZqQg8GEl8IE1oNHw==
