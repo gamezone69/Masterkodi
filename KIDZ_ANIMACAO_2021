@@ -1,9 +1,13 @@
 #EXTM3U
 
 
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ENCANTO" tvg-logo="https://cld.pt/dl/download/f70ea286-d234-43be-a912-8e8ffd3b4cef/ENCANTO.jpg?download=true" group-title="",ENCANTO PT 2021
 https://cld.pt/dl/download/d2941f81-ecec-4cf3-8e4f-9a55baf68c92/Encanto.mp4?download=true
 
+#EXTINF:-1 tvg-id="" tvg-name="ENCANTO" tvg-logo="https://i.imgur.com/Y4mGv2W.png" group-title="",HEIDI WINTER IN DORFLI 2021
+https://cld.pt/dl/download/3779977b-e1c0-482a-a9ef-d02819fbf99e/Heidi%20Special%20Winter%20in%20Dorfli%20%282021%29%20PT.avi?download=true
 
 #EXTINF:-1 tvg-id="" tvg-name="O DRAGÃO DOS DESEJOS" tvg-logo="https://cld.pt/dl/download/a4199121-bee8-493f-a1aa-7877e272af96/O_drag%C3%A3o_dos_desejos.jpg?download=true" group-title="",O DRAGÃO DOS DESEJOS 2021
 https://cld.pt/dl/download/63fe576c-77d9-4fe4-a924-96362f0397d5/O%20DRAG%C3%83O%20DOS%20DESEJOS%20PT.mp4?download=true
