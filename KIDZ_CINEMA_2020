@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-id="" tvg-name=" (2020) PT-PT" tvg-logo="https://cld.pt/dl/download/7a40689d-8945-4968-8307-c334c9bbc3f4/250px-Spider-man-far-from-home-poster.jpg?download=true" group-title="NOVIDADES 2022",HOMEN ARANHA LONGE DA CASA (SPIDER MAN FAR FROM HOME 2022)
+https://cld.pt/dl/download/2e77e2b0-37c4-4712-9c28-9054ad702343/Spiderman.Far.From.Home.mp4?download=true
 
 #EXTINF:-1 tvg-id="" tvg-name="MATRIX_4" tvg-logo="https://cld.pt/dl/download/38fb4ab7-c3b1-40d4-ac41-c0e5640e3fde/m5.jpg?download=true" group-title="",MATRIX 4 (2021) ESPECIAL NATAL
 https://cld.pt/dl/download/2a10145e-2633-4c73-b838-ddd866b42544/The.Matrix.4.Resurrections.2021.1080p.WEBRip.x264-RARBG.mp4?download=true
