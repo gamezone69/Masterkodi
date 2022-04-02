@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="TURNING RED" tvg-logo="https://cld.pt/dl/download/10d4826c-90bf-45f5-868a-288e86a5bd89/turningred.jpg?download=true" group-title="",TURNING RED (ESTRANHAMENTE VERMELHO) 2022
+https://cld.pt/dl/download/9cce93de-6478-4657-859f-7214e54b7577/Turning%20Red-%20Estranhamente%20Vermelho.mp4?download=true
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ENCANTO" tvg-logo="https://i.imgur.com/Y4mGv2W.png" group-title="",HEIDI WINTER IN DORFLI 2021
 https://cld.pt/dl/download/3779977b-e1c0-482a-a9ef-d02819fbf99e/Heidi%20Special%20Winter%20in%20Dorfli%20%282021%29%20PT.avi?download=true
 
