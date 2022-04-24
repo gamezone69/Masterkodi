@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/8a872728-dbc5-4373-89d9-a7cf6663f517/BATMAN.jpg?download=true" group-title="NOVIDADES 2022",BATMAN 2022
+https://cld.pt/dl/download/2d4743b4-45ee-4f4e-8ed5-c8aafb9a0e73/batman2022.mp4?download=true
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/258d9fca-4348-458d-b576-694d781744d0/AMBULANCE.jpg?download=true" group-title="NOVIDADES 2022",AMBULANCE 2022
 https://cld.pt/dl/download/4ab56ca1-f93e-42d7-b241-e448e2d39049/Ambulance.mp4?download=true
 
