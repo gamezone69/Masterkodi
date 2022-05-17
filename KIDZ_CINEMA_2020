@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/96e7655c-113a-409d-b1b6-7503817227a3/sonic2.jpg?download=true" group-title="NOVIDADES 2022",SONIC 2 INGLÊS 2022
+https://cld.pt/dl/download/e8bda739-0d6b-48fe-8d7c-ca2ecba0c892/Pobre.tv%20-%20Sonic%202-%20O%20Filme.mp4?download=true
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/a030f155-1b30-4224-95db-a0cdd4e2eddd/northman2022.jpeg?download=true" group-title="NOVIDADES 2022",NORTHMAN - O HOMEM DO NORTE 2022
 https://cld.pt/dl/download/e3fc7dbd-17e7-4c7a-a1d5-cbf09052c141/Pobre.tv%20-%20O%20Homem%20do%20Norte.mp4?download=true
