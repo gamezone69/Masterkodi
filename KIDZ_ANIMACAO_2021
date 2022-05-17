@@ -1,6 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/e07ac8bc-c238-460c-b035-42aa96446dcd/Poster-do-filme-Cantar-2.jpg?download=true" group-title="",CANTAR 2 2022
+https://cld.pt/dl/download/54bb160a-aa52-4d89-9fbd-f86fa3da5f78/Pobre.tv%20-%20Cantar%21%202.mp4?download=true
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/2c6f5bc2-69fa-4a86-b415-9483069ccf40/scooby%20medieval.jpg?download=true" group-title="",SCOOBY DOO MEDIEVAL 2022
+https://cld.pt/dl/download/8d3211e8-d665-4bde-a7ae-2dfad928a33e/Pobre.tv%20-%20Scooby-Doo%21%20Terror%20Medieval.mp4?download=true
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/59b152fd-363b-49af-a885-4a87f9aa954f/A-Fam%C3%ADlia-Addams-2-P%C3%A9-na-Estrada.jpg?download=true" group-title="",A FAMILIA ADDAMS 2 - PÉ NA ESTRADA 2021
