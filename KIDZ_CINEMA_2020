@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/99c0ea52-b83a-4467-9904-3494761403f9/morbius2022.jpg?download=true" group-title="NOVIDADES 2022",MOBIUS 4K 2022
+https://cld.pt/dl/download/a6926bf6-49c1-4e30-9ffd-bf597c89cd17/Morbius%20%282022%29%202160p%20HDR%205.1%20x265%2010bit%20Phun%20Psyz.mkv?download=true
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/96e7655c-113a-409d-b1b6-7503817227a3/sonic2.jpg?download=true" group-title="NOVIDADES 2022",SONIC 2 INGLÊS 2022
 https://cld.pt/dl/download/e8bda739-0d6b-48fe-8d7c-ca2ecba0c892/Pobre.tv%20-%20Sonic%202-%20O%20Filme.mp4?download=true
