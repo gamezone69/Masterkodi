@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/7222fec2-c338-4f51-b3da-612654923479/o_ritmo_da_selva.jpg?download=true" group-title="", O RITMO DA SELVA 2022
+https://cld.pt/dl/download/7f5daddd-06a0-4d9d-b20f-0aad5bd9f481/O%20Ritmo%20da%20Selva-%20O%20Filme.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/211ec1fc-e854-43f2-b3a6-06ca531a157a/Meu_Querido_Monstro.jpg?download=true" group-title="",MEU QUERIDO MONSTRO 2022
+https://cld.pt/dl/download/58b4035c-7cfe-4ee8-bdea-d35615c52c91/Meu%20Querido%20Monstro.mp4?download=true
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/e07ac8bc-c238-460c-b035-42aa96446dcd/Poster-do-filme-Cantar-2.jpg?download=true" group-title="",CANTAR 2 2022
 https://cld.pt/dl/download/54bb160a-aa52-4d89-9fbd-f86fa3da5f78/Pobre.tv%20-%20Cantar%21%202.mp4?download=true
 
