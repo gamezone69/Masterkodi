@@ -1,11 +1,18 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/9a14781d-024f-4757-a811-302a70727d0f/DUMBLEDORE.jpg?download=true" group-title="NOVIDADES 2022",MONSTROS FANTÁSTICOS - OS SEGREDOS DE DUMBLEDORE 2022
+https://cld.pt/dl/download/1c2ff806-ffd9-4f4a-8a70-b7ece35fc5d8/Pobre.tv%20-%20Monstros%20Fant%C3%A1sticos-%20Os%20Segredos%20de%20Dumbledore.mp4?download=true
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/99c0ea52-b83a-4467-9904-3494761403f9/morbius2022.jpg?download=true" group-title="NOVIDADES 2022",MOBIUS 4K 2022
 https://cld.pt/dl/download/a6926bf6-49c1-4e30-9ffd-bf597c89cd17/Morbius%20%282022%29%202160p%20HDR%205.1%20x265%2010bit%20Phun%20Psyz.mkv?download=true
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/96e7655c-113a-409d-b1b6-7503817227a3/sonic2.jpg?download=true" group-title="NOVIDADES 2022",SONIC 2 INGLÊS 2022
 https://cld.pt/dl/download/e8bda739-0d6b-48fe-8d7c-ca2ecba0c892/Pobre.tv%20-%20Sonic%202-%20O%20Filme.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/96e7655c-113a-409d-b1b6-7503817227a3/sonic2.jpg?download=true" group-title="NOVIDADES 2022",SONIC 2 PT 2022
+https://cld.pt/dl/download/700fbe82-9a6a-48b6-9096-9a5c2572837c/Sonic-%20O%20Filme%20pt.mp4?download=true
 
 
 
