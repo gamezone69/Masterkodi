@@ -1,8 +1,25 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/3b7c8a1f-f5cf-4fdb-8e06-6abf9b4d401e/JERSEY.jpg?download=true" group-title="NOVIDADES 2022",JERSEY 2022
+https://cld.pt/dl/download/7b81ba34-712f-45bf-8bfa-a7427aaa2b1d/Pobre.tv%20-%20Jersey.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/5ee61b18-0475-4911-a3db-f573af2e4c23/THE%20ACCURSED%202021.jpg?download=true" group-title="NOVIDADES 2022",THE ACCURSED 2022
+https://cld.pt/dl/download/5ef2ddf7-9762-467b-947a-4ea00302153a/Pobre.tv%20-%20The%20Accursed.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/4f33e859-e5a7-44fe-ac8a-9d3fbc3b143b/SNAKE%20EYES%202021.jpg?download=true" group-title="NOVIDADES 2022",SNAKE EYES O ORIGEM DOS GI JOE 2021
+https://cld.pt/dl/download/62877f23-0195-4cbc-b73c-60e2733eab9c/MrPiracy%20-%20Snake%20Eyes-%20A%20Origem%20dos%20G.I.%20Joe.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/3261297e-8604-4fdd-b958-0a916d05a13f/NIGHTBOOKS.jpg?download=true" group-title="NOVIDADES 2022",CONTOS DO MEDO 2021
+https://cld.pt/dl/download/71b8ba6e-851b-4f09-a3d3-c43bd4bff6b9/MrPiracy%20-%20Contos%20do%20Medo.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/1b67d1ae-55f6-4be7-a38d-2c700938371e/MALIGNANT.jpg?download=true" group-title="NOVIDADES 2022",MALIGNANT 2021
+https://cld.pt/dl/download/f8fe9303-1bb8-4b99-bc66-1c585bcc7ead/MrPiracy%20-%20Malignant.mp4?download=true
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/f819cccb-24f8-4843-850e-2b94fe8388f5/A%20FAIRY%20TALE%20AFTER%20ALL.jpg?download=true" group-title="NOVIDADES 2022",A FAIRY TALE AFTER ALL2022
 https://cld.pt/dl/download/8b93fc6f-732f-4217-aa87-55acafd7b596/Pobre.tv%20-%20A%20Fairy%20Tale%20After%20All.mp4?download=true
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/f727323f-8af6-4892-90f4-7399d60a53ea/GODSPEED%20_BOA%20VIAGEM.jpg?download=true" group-title="NOVIDADES 2022",GODSPEED (BOA VIAGEM)2022
 https://cld.pt/dl/download/4b4f7a89-8edb-4f21-8f1e-5d8e00c97355/Pobre.tv%20-%20Boa%20Viagem%21.mp4?download=true
@@ -10,17 +27,11 @@ https://cld.pt/dl/download/4b4f7a89-8edb-4f21-8f1e-5d8e00c97355/Pobre.tv%20-%20B
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/2b560de8-ecd9-4873-8a0a-45fed28bd3d8/THERE%20ARE%20NO%20SAINTS.jpg?download=true" group-title="NOVIDADES 2022",THERE ARE NO SAINTS 2022
 https://cld.pt/dl/download/73edcdfd-e924-43fd-967a-6f5d7d07d3e3/Pobre.tv%20-%20There%20Are%20No%20Saints.mp4?download=true
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/64a03e29-801e-4621-9b3f-c6b5465ebfb8/FATHER%20STU.jpg?download=true" group-title="NOVIDADES 2022",FATHER STU 2022
 https://cld.pt/dl/download/895636fd-db04-455c-8029-70318288810c/Pobre.tv%20-%20Father%20Stu.mp4?download=true
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NOVIDADES 2022",PETROVS FLU AUDIO EM RUSSO2022
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/9cb2bb5c-aee8-4f30-9d4b-e2a570202a34/PETROVS%20FLU%202022.jpg?download=true" group-title="NOVIDADES 2022",PETROVS FLU AUDIO EM RUSSO2022
 https://cld.pt/dl/download/46471369-2805-4c3b-9d2f-174b47524f9e/Pobre.tv%20-%20Petrovs%20Flu.mp4?download=true
-
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/fcf5da1d-9628-42ba-acf8-f4981f155717/TOP%20GUN%201989.jpg?download=true" group-title="NOVIDADES 2022",TOP GUN 1 REMASTERED 1986 
 https://cld.pt/dl/download/d9371c26-bd38-4bd3-b7c8-174c7d639319/Top.Gun.1986.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4?download=true
