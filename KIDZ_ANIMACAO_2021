@@ -1,5 +1,10 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/93da6921-5783-461b-8bff-059b7e90cde1/AS%20AVENT%20DE%20LIA.jpg?download=true" group-title="NOVIDADES 2022",AS AVENTURAS DE LIA 2022
+https://cld.pt/dl/download/e364c80e-87a7-4e65-bc6d-1490cccabc72/Pobre.tv%20-%20As%20Aventuras%20de%20Lia.mp4?download=true
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/21f7a25f-5bdd-46d6-8578-c02019099481/koati-poster.jpeg?download=true" group-title="NOVIDADES 2022",KOATI AVENTURA NA SELVA 2022
 https://cld.pt/dl/download/44669535-8167-4b57-98c8-b886b2df1784/Pobre.tv%20-%20Koati%20-%20Aventura%20na%20Selva.mp4?download=true
 
