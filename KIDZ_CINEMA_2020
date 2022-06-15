@@ -1,6 +1,28 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/8c703c35-30b1-4396-a9b7-2d2112429f5d/DUAL.jpg?download=true" group-title="NOVIDADES 2022",DUAL 2022
+https://cld.pt/dl/download/cc2ee550-fccd-447d-9e01-35ba227d82e3/Pobre.tv%20-%20Dual.mp4?download=true
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/7a720f75-84c4-4b0e-a2ca-b19783becd3d/DECEPTION.jpg?download=true" group-title="NOVIDADES 2022",DECEPTION 2022
+https://cld.pt/dl/download/f9592387-7cb8-4665-8bbd-96a0b4342e82/Pobre.tv%20-%20Deception.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/048196c8-fa81-4bf4-92f0-b876e922cc3b/BULL.jpg?download=true" group-title="NOVIDADES 2022",BULL 2022
+https://cld.pt/dl/download/61a33e4c-346b-42dc-b490-e9a8aeb83c83/Pobre.tv%20-%20Bull.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/70bcfabf-78a9-472a-98b4-05058e161513/AGENT%20GAME.jpg?download=true" group-title="NOVIDADES 2022",AGENT GAME 2022
+https://cld.pt/dl/download/9a1bd62f-7f2a-4fe5-9046-0b13a0775501/Pobre.tv%20-%20Agent%20Game.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/fd1c1e0b-f9c8-4d73-8354-71be552816b0/OFICIAL%20COMPETITION.jpg?download=true" group-title="NOVIDADES 2022",OFICIAL COMPETITION 2022
+https://cld.pt/dl/download/e6b0ed2b-0d39-4cf5-957f-cc2f24bf295c/Pobre.tv%20-%20Official%20Competition.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/c7173310-bbce-4444-851a-1ac0efe4b8ff/HUSTLE.jpg?download=true" group-title="NOVIDADES 2022",HUSTLE 2022
+https://cld.pt/dl/download/9a366b2e-fc3e-45a5-853a-18856fc9b52c/Pobre.tv%20-%20Hustle.mp4?download=true
 
 
 
