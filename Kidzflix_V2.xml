@@ -191,7 +191,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
 <channel>
  
-<name>[COLOR  green][B].[/B] [/COLOR][COLOR  yellow][B]KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR white][B]TV SERIES [/B] [/COLOR]</name>
+<name>[COLOR  green][B].[/B] [/COLOR][COLOR  yellow][B]KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR white][B]TV SERIES SECÇÃO EM MANUTENÇÃO [/B] [/COLOR]</name>
  
 <thumbnail>https://cld.pt/dl/download/80896578-4f67-46aa-ade8-019c92f9d22c/GOT.jpg?download=true</thumbnail>
 <fanart>https://cld.pt/dl/download/e3a496cd-553f-4619-935c-a42d9460a392/series-sobrenaturais.jpg?download=true</fanart>
@@ -199,27 +199,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <externallink>https://raw.githubusercontent.com/gamezone69/Masterkodi/master/KIDZ_SERIES_2020</externallink>
 </channel>
  
- 
-<channel>
- 
-<name>[COLOR  green][B].[/B] [/COLOR][COLOR  yellow][B]KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR white][B]CONCERTOS[/B] [/COLOR]</name>
- 
-<thumbnail>https://cld.pt/dl/download/23f70bfc-f853-429f-93bb-4b2884db631c/concertos-portugal-2018.jpg?download=true</thumbnail>
-<fanart>https://cld.pt/dl/download/86500854-afc6-480a-b50e-fb518f1c9372/CONCERTOS.jpg?download=true</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gamezone69/Masterkodi/master/KIDZ_CONCERTOS_2021</externallink>
-</channel>
- 
- 
-<channel>
- 
-<name>[COLOR  green][B].[/B] [/COLOR][COLOR  yellow][B]KID[/B] [/COLOR][COLOR  red][B]z[/B] [/COLOR][COLOR white][B]FILMES EM FRANCÊS[/B] [/COLOR]</name>
- 
-<thumbnail>https://cld.pt/dl/download/813a1446-ef38-43fe-b12f-df9bc5a3a1be/FRANCE.jpg?download=true</thumbnail>
-<fanart>https://cld.pt/dl/download/813a1446-ef38-43fe-b12f-df9bc5a3a1be/FRANCE.jpg?download=true</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gamezone69/Masterkodi/master/KIDZ_FILMES_FRANCES2021</externallink>
-</channel>
  
  
 <channel>
