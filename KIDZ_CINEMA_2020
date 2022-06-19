@@ -1,6 +1,19 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/d855e7b1-c5ef-4765-a7d2-c5e388e07531/CHA%20CHA%20CHA%20REAL%20SMOOTH.jpg?download=true" group-title="NOVIDADES 2022",CHA CHA CHA REAL SMOOTH 2022
+https://cld.pt/dl/download/64728834-5b18-4f43-9ed7-72b4893f67fc/Pobre.tv%20-%20Cha%20Cha%20Real%20Smooth.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/71f9d4bc-9e56-4739-ad28-552e34e813c2/THE%20LOST%20GIRLS.jpg?download=true" group-title="NOVIDADES 2022",THE LOST GIRLS  2022
+https://cld.pt/dl/download/aad44143-fc37-4e29-afa3-76f50cafae9a/Pobre.tv%20-%20The%20Lost%20Girls.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/439ad28c-60d5-44d0-9e37-cbf98d44751e/HALFTIME.jpg?download=true" group-title="NOVIDADES 2022",HALFTIME 2022
+https://cld.pt/dl/download/be255128-6ab5-4d16-8765-57d9a253c639/Pobre.tv%20-%20Jennifer%20Lopez-%20Halftime.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/cf5bdfaf-6417-4790-90bf-11f35bf70cbc/SPITFIRE.jpg?download=true" group-title="NOVIDADES 2022",SPITFIRE OVER BERLIN 2022
 https://cld.pt/dl/download/f41f76ea-fecd-41e7-bdce-cb0f139f5bf7/Pobre.tv%20-%20Spitfire%20Over%20Berlin.mp4?download=true
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/df7ca309-5ed5-4945-8c1e-00a54c0dd6d5/COMMITMENT%20HASAN.jpg?download=true" group-title="NOVIDADES 2022",COMMITMENT HASAN 2022
 https://cld.pt/dl/download/e90de23a-0da7-4a6a-818a-de926e810430/Pobre.tv%20-%20Commitment%20Hasan.mp4?download=true
