@@ -1,14 +1,33 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NOVIDADES 2022",DOCTOR STRANGE IN THE MULTIVERSE OF MADNESS 2022
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/c116f1c5-03a1-4423-bd17-a694098a4a58/BLACK%20EYED%20PEAS.jpg?download=true" group-title="NOVIDADES 2022",BLACK EYED PEAS ROCK IN RIO 2022
+https://cld.pt/dl/download/9fea61d4-18d6-4c2e-ba3d-9553c0fc85b9/Pobre.tv%20-%20Black%20Eyed%20Peas%20-%20Rock%20in%20Rio%202022.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/560741b4-9b8f-415c-b5b8-795e73d9749b/MUSE.jpg?download=true" group-title="NOVIDADES 2022",MUSE ROCK IN RIO 2022
+https://cld.pt/dl/download/c54acef8-8d7b-4c0f-97de-9915cf3233c4/Pobre.tv%20-%20Muse%20-%20Rock%20in%20Rio%202022.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/1e5ca2b7-fb91-42ae-bcfa-7762e3b55b75/REIGN%20OF%20CHAOS.jpg?download=true" group-title="NOVIDADES 2022",REIGN OF CHAOS 2022
+https://cld.pt/dl/download/79de6619-69a4-48d6-838d-7c04fcbbdbbb/Pobre.tv%20-%20Reign%20of%20Chaos.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/b3d4c96d-03d3-4245-ba2f-2bc8b4051658/SPIDERHEAD.jpg?download=true" group-title="NOVIDADES 2022",SPIDERHEAD 2022
+https://cld.pt/dl/download/1fdd0c75-325d-4360-b07d-6d379db2a857/Pobre.tv%20-%20Spiderhead.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/49088385-34e5-4c23-b9d0-78e562dda234/TOM%20AND%20JERRY%20COWBOY%20UP.jpg?download=true" group-title="NOVIDADES 2022",TOM AND JERRY COWBOY UP 2022
+https://cld.pt/dl/download/3dd905f3-7414-4481-af30-2bf220cd1bd2/Pobre.tv%20-%20Tom%20and%20Jerry%20Cowboy%20Up%21.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/fd2f6602-d02d-4d34-8ac4-e785e1fcdf59/DOCTOR%20STRANGE%20IN%20THE%20MULTIVERSE%20OF%20MADNESS.jpg?download=true" group-title="NOVIDADES 2022",DOCTOR STRANGE IN THE MULTIVERSE OF MADNESS 2022
 https://cld.pt/dl/download/4d3781db-cf2f-4ef6-99ea-b46369f39b9e/Pobre.tv%20-%20Doutor%20Estranho%20no%20Multiverso%20da%20Loucura.mp4?download=true
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/999d9ea5-2994-4ac1-82f0-eba4b8209284/TYSONS%20RUN.jpg?download=true" group-title="NOVIDADES 2022",TYSONS RUN 2022
 https://cld.pt/dl/download/cc5d9919-caa2-40c9-a88e-59e5b4cefe8d/Pobre.tv%20-%20Tysons%20Run.mp4?download=true
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NOVIDADES 2022",THE ACCUSATION 2022
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/3d55bbf9-7b42-4196-a517-5e01cea893ba/THE%20ACUSATION.jpg?download=true" group-title="NOVIDADES 2022",THE ACCUSATION 2022
 https://cld.pt/dl/download/d1a7840d-7a8e-432d-80ab-4c8601a841d1/Pobre.tv%20-%20The%20Accusation.mp4?download=true
 
 
@@ -20,7 +39,7 @@ https://cld.pt/dl/download/2fb9c533-af5c-45ea-ba4b-5394affc79b5/Pobre.tv%20-%20A
 https://cld.pt/dl/download/006c352e-e4e6-41de-b4a2-74921a8ced4b/Pobre.tv%20-%20Torn%20Hearts.mp4?download=true
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NOVIDADES 2022",RISE ROAR REVOLT 2022
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/9abcb20c-b123-4a45-bb4a-15b631c8a516/RISE%20ROAR%20REVOLT.jpg?download=true" group-title="NOVIDADES 2022",RISE ROAR REVOLT 2022
 https://cld.pt/dl/download/01991947-3409-48da-bd9c-68a686d11f8a/Pobre.tv%20-%20RRR%20%28Rise%20Roar%20Revolt%29.mp4?download=true
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/99a021ea-2089-4782-8dfb-9ee9e6ddc734/CRIMES%20OF%20THE%20FUTURE.jpg?download=true" group-title="NOVIDADES 2022",CRIMES OF THE FUTURE 2022
