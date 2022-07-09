@@ -1,5 +1,22 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/3be012a5-8586-48f8-8833-febe9b3a084a/THE%20FOURTH%20MUSKETEER.jpg?download=true" group-title="NOVIDADES 2022",THE FOURTH MUSKETEER 2022
+https://cld.pt/dl/download/86c41531-406c-485e-87f1-5acd4940b6be/Pobre.tv%20-%20The%20Fourth%20Musketeer.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/85532f6f-ac0a-4073-acb6-7e7e74382054/BLASTED%20GUTTA%20VS%20ALIENS.jpg?download=true" group-title="NOVIDADES 2022",BLASTED GUTTA VS ALIENS 2022
+https://cld.pt/dl/download/7c00bd59-55d2-4509-ba5a-d72851617f59/Pobre.tv%20-%20Blasted%20-%20Gutta%20vs.%20Aliens.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/c0977e16-0c8c-4876-977e-cf0727a712b7/STOP%20ZEMLIA.jpg?download=true" group-title="NOVIDADES 2022",ZEMLIA 2022
+https://cld.pt/dl/download/e202b9fb-4c99-458d-aa4f-5e2e4beee63b/Pobre.tv%20-%20Stop-Zemlia.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/1044ec8b-4858-4523-a368-470b326fdcd0/UNHUMAN.jpg?download=true" group-title="NOVIDADES 2022",UNHUMAN 2022
+https://cld.pt/dl/download/151ea405-2930-4627-98b3-9d48db3be595/Pobre.tv%20-%20Unhuman.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/259132f8-2a16-49d0-a84e-8a1251cc8d6a/OS%20MONSTROS%20DE%20WRESTLING.jpg?download=true" group-title="NOVIDADES 2022",OS MONSTROS DE WRESTLING 2022
+https://cld.pt/dl/download/d8986c4b-616a-4ba8-92ce-7146e9b5cc0d/Pobre.tv%20-%20Os%20Monstros%20do%20Wrestling.mp4?download=true
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/5af28af6-8c05-4e4d-a6d2-02979fae178a/2000%20MULES.jpg?download=true" group-title="NOVIDADES 2022",2000 MULES 2022
 https://cld.pt/dl/download/863c35a1-25a5-487c-a30f-524489404647/Pobre.tv%20-%202000%20Mules.mp4?download=true
 
