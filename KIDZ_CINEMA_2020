@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/37e434e6-b183-4e50-8180-934efaccf056/BEAUTY.jpg?download=true" group-title="NOVIDADES 2022",BEAUTY 2022
 https://cld.pt/dl/download/6fa0a85b-70d7-4d34-a560-dfa67d0640a2/Pobre.tv%20-%20Beauty.mp4?download=true
 
@@ -34,13 +36,6 @@ https://cld.pt/dl/download/d5029e8d-0adc-4405-ab83-548f2c4a5d36/Pobre.tv%20-%20L
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/99b4ef39-d818-4e68-932b-db3b898f619f/SALGUEIRO%20MAIA%20O%20IMPLICADO.jpg?download=true" group-title="NOVIDADES 2022",SALGUEIRO MAIA O IMPLICADO 2022
 https://cld.pt/dl/download/3dec52f9-0318-490f-a590-36ac1766023b/Pobre.tv%20-%20Salgueiro%20Maia%20-%20O%20Implicado.mp4?download=true
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/5b7c818f-1234-4edb-bd02-a0ab4c47cf21/MISS%C3%83O%20GAL%C3%81XIA.jpg?download=true" group-title="NOVIDADES 2022",MISSÃO GALÁXIA 2022
-https://cld.pt/dl/download/3a6425be-1a50-40d1-b6c2-59ed38f29080/Missao.Galaxia.1080p.PT-PT.WEB-DL.mp4?download=true
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/5aa6b34f-b60f-4a19-b730-c19980848cc5/O%20MONSTRO%20MARINHO.jpg?download=true" group-title="NOVIDADES 2022",O MONSTRO MARINHO 2022
-https://cld.pt/dl/download/702004ed-8f72-4d01-b437-e4f45dc287ae/Pobre.tv%20-%20O%20Monstro%20Marinho.mp4?download=true
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/9ea24177-f977-4a9c-a47c-f487100cc3bf/THE%20CALM%20BEYOND.jpg?download=true" group-title="NOVIDADES 2022",THE CALM BEYOND  2022
 https://cld.pt/dl/download/1bcd3a7d-eadb-4c51-ad9c-a9c580ec424b/Pobre.tv%20-%20The%20Calm%20Beyond.mp4?download=true
@@ -112,15 +107,11 @@ https://cld.pt/dl/download/e202b9fb-4c99-458d-aa4f-5e2e4beee63b/Pobre.tv%20-%20S
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/1044ec8b-4858-4523-a368-470b326fdcd0/UNHUMAN.jpg?download=true" group-title="NOVIDADES 2022",UNHUMAN 2022
 https://cld.pt/dl/download/151ea405-2930-4627-98b3-9d48db3be595/Pobre.tv%20-%20Unhuman.mp4?download=true
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/259132f8-2a16-49d0-a84e-8a1251cc8d6a/OS%20MONSTROS%20DE%20WRESTLING.jpg?download=true" group-title="NOVIDADES 2022",OS MONSTROS DE WRESTLING 2022
-https://cld.pt/dl/download/d8986c4b-616a-4ba8-92ce-7146e9b5cc0d/Pobre.tv%20-%20Os%20Monstros%20do%20Wrestling.mp4?download=true
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/5af28af6-8c05-4e4d-a6d2-02979fae178a/2000%20MULES.jpg?download=true" group-title="NOVIDADES 2022",2000 MULES 2022
 https://cld.pt/dl/download/863c35a1-25a5-487c-a30f-524489404647/Pobre.tv%20-%202000%20Mules.mp4?download=true
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/f5874b24-552b-4589-8b48-717bf59a0075/AT%C3%89%20OS%20RATOS%20MERECEM%20O%20C%C3%89U.jpg?download=true" group-title="NOVIDADES 2022", ATÉ OS RATOS MERECEM O CÉU 2022
-https://cld.pt/dl/download/87f6f46f-1870-4e63-ab76-248033aa94a3/Pobre.tv%20-%20At%C3%A9%20os%20Ratos%20Merecem%20o%20C%C3%A9u.mp4?download=true
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/d3235201-98d5-4630-b5be-f4ca9332c5e9/DEAR%20COMRADES.jpg?download=true" group-title="NOVIDADES 2022",DEAR COMRADES 2022
@@ -137,8 +128,7 @@ https://cld.pt/dl/download/151d5e85-91ae-4470-b851-d444c8150419/Pobre.tv%20-%20D
 https://cld.pt/dl/download/503f7336-f7f6-45df-af3f-1a92439dd613/Pobre.tv%20-%20Girl%20in%20the%20Picture.mp4?download=true
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/26eaae01-bac6-480f-9388-cdc235dcd915/ELLA%20BELLA%20BINGO.jpg?download=true" group-title="NOVIDADES 2022",ELLA BELLA BINGO 2022
-https://cld.pt/dl/download/e9a38206-32ed-491d-82ea-8bb58e69ee00/Pobre.tv%20-%20Ella%20Bella%20Bingo.mp4?download=true
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/03bc32b4-9008-4e7c-a260-2ff76e4adfe3/TREVOR%20THE%20MUSICAL.jpg?download=true" group-title="NOVIDADES 2022",TREVOR THE MUSICAL 2022
 https://cld.pt/dl/download/776e5332-c86f-4bc0-b800-07220ae0b78b/Pobre.tv%20-%20Trevor-%20The%20Musical.mp4?download=true
