@@ -1,13 +1,31 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/b8269eef-3974-4f0e-803d-84850120a813/thor%20love%20and%20thunder.jpg?download=true" group-title="",THOR LOVE AND THUNDER 2022
+https://cld.pt/dl/download/6d8fe88e-19a8-4703-bacf-750299c07705/Pobre.tv%20-%20Thor-%20Love%20and%20Thunder.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/4637bb17-4785-4d53-9282-0aad62ed89da/minions%202%20ascensao%20do%20gru.jpg?download=true" group-title="",MINIONS 2 A ASCENSÃO DO GRU 2022 (AUDIO ENG ORIGINAL)
+https://cld.pt/dl/download/c7ff0c5f-3c87-4fe4-8380-d617843d1d58/Pobre.tv%20-%20Minions%202-%20A%20Ascens%C3%A3o%20de%20Gru.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/3f915175-647b-4f8d-b211-af4b0cf673b6/maverick.jpg?download=true" group-title="",TOP GUN MAVERICK 2022
+https://cld.pt/dl/download/d36547b6-e84f-4a59-9d49-7a0950e8ef5a/Pobre.tv%20-%20Top%20Gun-%20Maverick.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/1c1436a9-560c-4966-956f-567a79af6406/code%20name%20emperor.jpg?download=true" group-title="",CODE NAME EMPEROR 2022
+https://cld.pt/dl/download/e8e52098-1bbc-40b3-9603-cb91078530ff/Pobre.tv%20-%20C%C3%B3digo%20Emperador.mp4?download=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/38faef72-6187-4888-b219-0936be4b6b14/no%20way%20out.jpg?download=true" group-title="",NO WAY OUT 2022
+https://cld.pt/dl/download/a2a02457-0242-47c8-8c3e-477c309eba26/Pobre.tv%20-%20No%20Way%20Out.mp4?download=true
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/bbbe8378-1f28-4e5b-8a4e-efcf5d7a12c5/thecuriouscaseofdolphinbay.jpg?download=true" group-title="",THE CURIOUS CASE OF DOLPHIN BAY 2022
+https://cld.pt/dl/download/ed5fc0ee-a7f4-4e4b-9bb2-272b3ccc2f83/Pobre.tv%20-%20The%20Curious%20Case%20of%20Dolphin%20Bay.mp4?download=true
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/3e73ab95-351f-49e8-af89-e2bdc1f38c8e/JURASSIC%20WORLD%20DOMINION.jpg?download=true" group-title="",JURASSIC WORLD DOMINION 2022
 https://cld.pt/dl/download/1b89a160-56b7-4b6b-8d01-5e02f940b17d/Pobre.tv%20-%20Jurassic%20World-%20Dominion.mp4?download=true
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/3f915175-647b-4f8d-b211-af4b0cf673b6/maverick.jpg?download=true" group-title="",MAVERICK 2022
 https://cld.pt/dl/download/44d093ed-bd47-4527-88bd-ca3214b052b4/TOP%20GUN%20MAVERICK%202022.mp4?download=true
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/3f915175-647b-4f8d-b211-af4b0cf673b6/maverick.jpg?download=true" group-title="",TOP GUN MAVERICK 2022
-https://cld.pt/dl/download/d36547b6-e84f-4a59-9d49-7a0950e8ef5a/Pobre.tv%20-%20Top%20Gun-%20Maverick.mp4?download=true
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/1efb477a-48f4-4176-9183-3570b72acdeb/ELVIS.jpg?download=true" group-title="",ELVIS 2022
 https://cld.pt/dl/download/ad035ee4-070f-47f2-805e-b7b51a40f4b6/Pobre.tv%20-%20Elvis.mp4?download=true
