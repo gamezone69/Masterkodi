@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/cb9bc4eb-7e8c-4d0a-b42f-0913a44de985/OS%20MAUZ%C3%95ES.jpg?download=true" group-title="",OS MAUZOES 2022
+https://cld.pt/dl/download/bc34da1d-9e98-4038-866f-b620505a5687/Pobre.tv%20-%20Os%20Mauz%C3%B5es.mp4?download=true
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/0ea639ab-dd14-4707-ad51-1cd852b80b3d/PINOQUIO.jpg?download=true" group-title="",PINOQUIO 2022
+https://cld.pt/dl/download/2796e2e3-6444-4fb9-a197-2b39caf700c2/Pobre.tv%20-%20Pinoquio.mp4?download=true
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/5b7c818f-1234-4edb-bd02-a0ab4c47cf21/MISS%C3%83O%20GAL%C3%81XIA.jpg?download=true" group-title="NOVIDADES 2022",MISSÃO GALÁXIA 2022
 https://cld.pt/dl/download/3a6425be-1a50-40d1-b6c2-59ed38f29080/Missao.Galaxia.1080p.PT-PT.WEB-DL.mp4?download=true
 
