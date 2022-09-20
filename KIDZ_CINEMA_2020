@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/5b733187-dce5-4f5e-ba53-eba2ff591b6c/amado.jpg?download=true" group-title="",AMADO 2022
+https://cld.pt/dl/download/b7d02ae6-003d-4f9c-9011-260c59e03642/Amado%20-%202022.mp4?download=true
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/b8269eef-3974-4f0e-803d-84850120a813/thor%20love%20and%20thunder.jpg?download=true" group-title="",THOR LOVE AND THUNDER 2022
 https://cld.pt/dl/download/6d8fe88e-19a8-4703-bacf-750299c07705/Pobre.tv%20-%20Thor-%20Love%20and%20Thunder.mp4?download=true
 
