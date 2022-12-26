@@ -1,5 +1,18 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/d75ce52d-d54f-44e7-811a-e6e535f060d1/%C3%81vatar.jpg?download=true" group-title="",AVATAR 2009
+https://cld.pt/dl/download/65c5eed6-c80b-4fae-9693-1ebc12cacf49/Pobre.tv%20-%20Avatar.mp4?download=true
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/06435d00-84f7-4669-aecc-f67b1f22702a/mundo%20estranho.jpg?download=true" group-title="",MUNDO ESTRANHO 2022
+https://cld.pt/dl/download/867872dc-bf15-4b5a-9995-f2dbef1056bd/Pobre.tv%20-%20Estranho%20Mundo.mp4?download=true
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cld.pt/dl/download/cb9bc4eb-7e8c-4d0a-b42f-0913a44de985/OS%20MAUZ%C3%95ES.jpg?download=true" group-title="",OS MAUZOES 2022
 https://cld.pt/dl/download/bc34da1d-9e98-4038-866f-b620505a5687/Pobre.tv%20-%20Os%20Mauz%C3%B5es.mp4?download=true
 
